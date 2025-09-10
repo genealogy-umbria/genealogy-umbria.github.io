@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # Genealogical Research in Umbria
 
 ## Why this page?
@@ -114,3 +119,4 @@ This resource is organized to reflect the actual institutions and jurisdictions 
 
 * **[Military Subdivisions](military_divs.md)**
   A section covering the military districts that included Umbrian territory, with attention to where **ruoli matricolari** (military draft registers) and related series were kept or are now preserved.
+
