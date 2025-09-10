@@ -1,0 +1,118 @@
+# Spello
+
+## Stato Civile
+
+* **Office contact:**
+
+  * Email (Stato Civile): `anagrafe [at] comune.spello.pg.it`
+
+* **Known holdings (Comune – [SIUSA](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=255879)):**
+
+  * **Italian civil records:** 1860–1988 (490 registers, 10 envelopes)
+  * **Parish books:** 1511–1861 (46 registers: baptisms, marriages, deaths, stato delle anime)
+  * **French civil records:** 1810–1813 (8 registers)
+
+* **Known holdings (State Archives):**
+
+  * **Italian civil records:** none held
+  * **Parish books:** none held
+  * **French civil records:** none held
+
+* **Known holdings (Diocese / parishes):**
+
+  * See *Parishes and Frazioni*
+
+---
+
+## Parishes and Frazioni
+
+### Spello (main town)
+
+#### Sant’Andrea Apostolo
+
+* **[Sant’Andrea Apostolo di Spello (Comune)](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=255879)**: baptisms, marriages, deaths, stato delle anime (1574–1860; 20 registers)
+
+* **[Sant’Andrea Apostolo di Spello (Parish)](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?ChiaveAlbero=320020&ApriNodo=0&TipoPag=comparc&Chiave=336934&ChiaveRadice=320020&RicSez=fondi&RicVM=indice&RicTipoScheda=ca)**: baptisms (1907–1984; 3 registers), confirmations (1912–1979; 3 registers), marriages (1929–1979; 3 registers), deaths (1882–1979; 2 registers). Conserved by *Santa Maria Maggiore di Spello*.
+
+#### Santa Maria Maggiore
+
+* **[Santa Maria Maggiore di Spello (Comune)](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=255879)**: baptisms, marriages, deaths (1511–1861; 10 registers)
+
+* **[Santa Maria Maggiore di Spello (Parish)](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=320020)**: baptisms (1861–2009; 13 registers), communions (1982–2009; 1 register), confirmations (1624–1739; 1912–2009; 3 registers), marriages (1861–2009; 9 registers), marriage banns (1863–1900; 2 registers), deaths (1861–2009; 5 registers), stato delle anime (1725–1930; 35 registers).
+
+#### San Giovanni
+
+* **[San Giovanni in San Giovanni di Spello (Comune)](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=255879)**: marriages, deaths (1742–1860; 2 registers)
+
+* **[San Giovanni in San Giovanni di Spello (Parish)](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?ChiaveAlbero=337121&ApriNodo=0&TipoPag=comparc&Chiave=337122&ChiaveRadice=337119&RicSez=fondi&RicVM=indice&RicTipoScheda=ca)**: baptisms (1955–1996; 1 register), confirmations (1940–1989; 1 register), marriages (1919–1985; 2 registers), deaths (1919–1997; 1 register). Conserved by *Santa Maria Maggiore di Spello*.
+
+#### San Lorenzo
+
+* **[San Lorenzo Martire di Spello (Comune)](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=255879)**: baptisms, marriages, deaths (1753–1860; 10 registers)
+* Parish of San Lorenzo martire ([diocese](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=337126)): 1827 (held by Archivio storico diocesano di Foligno)
+* Parish of San Lorenzo martire ([parish](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=337119)): 1400–2009 (held by Parish of Santa Maria Maggiore di Spello)
+
+#### Santa Lucia
+
+* **[Santa Lucia di Spello (Parish)](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=335769)**: baptisms (1956–2009; 2 registers), confirmations (1957–2009; 1 register), marriages (1957–2009; 2 registers), deaths (1957–2009; 1 register). Holdings conserved by the parish itself.
+
+### Collepino
+
+#### San Silvestro
+
+* **[San Silvestro in Collepino di Spello (Comune)](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=255879)**: baptisms, marriages, deaths (1635–1860; 4 registers)
+* Parish of San Silvestro ([diocese](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=337129)): 1567–1929. (held by Archivio storico diocesano di Foligno)
+* **[San Silvestro in Collepino di Spello (Parish)](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?ChiaveAlbero=337122&ApriNodo=0&TipoPag=comparc&Chiave=337124&ChiaveRadice=337119&RicSez=fondi&RicVM=indice&RicTipoScheda=ca)**: baptisms (1881–1942; 1 register), confirmations (1947–1997; 1 register), deaths (1895–1996; 1 register). Conserved by *Santa Maria Maggiore di Spello*.
+
+### Limiti di Spello
+
+#### Parish of Santa Croce in Limiti di Spello
+
+* Parish of Santa Croce ([parish](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=335767)): 1960–2009 (held by parish)
+
+⚠️ No further parishes are listed for this municipality in the *[Statistica della popolazione dello Stato Pontificio dell’anno 1853](https://www.google.it/books/edition/Statistics_della_popolazione_dello_Stato/v6dCAQAAMAAJ)*.
+
+---
+
+## Border changes
+
+According to the [Atlante Storico Istituzionale dell’Italia unita](http://dati.san.beniculturali.it/asi/local/), there have been no border changes or former municipalities merged into this municipality since 1861.
+
+---
+
+## Digitized Records
+
+* **FamilySearch:** The catalog shows several series for Spello, including:
+
+  * Births: 1900–1910, 1911–1924
+  * Marriages: 1868, 1899–1910
+  * Marriage publications: 1868, 1908–1910
+  * Deaths: 1868, 1899–1910, 1925–1929
+  * Citizenship acts: 1868
+  * Miscellaneous attachments: 1900–1903, 1905–1910, 1912–1913, 1919–1922, 1922–1929
+
+  See [FamilySearch catalog entry](https://www.familysearch.org/en/search/catalog/835968).
+
+  ⚠️ Note: additional records are listed as “available” but remain inaccessible online as of September 2025.
+
+* **Portale Antenati:** none available for this municipality.
+
+* **ItalianParishRecords.org:** none available for this municipality.
+
+---
+
+## Brogliardi
+
+No digitized *brogliardi* are available for this municipality.
+
+---
+
+## Additional Notes
+
+* None.
+
+---
+
+## References
+
+* [SIUSA – Comune di Spello](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=255879)

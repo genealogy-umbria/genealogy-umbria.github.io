@@ -1,0 +1,146 @@
+# Spoleto
+
+## Stato Civile
+
+* **Office contact:**
+
+  * Email (Stato Civile, PEC): `comune.spoleto [at] postacert.umbria.it`
+
+* **Known holdings (Comune – SIUSA):**
+
+  * **Italian civil records:** none listed
+  * **Parish books:** none listed
+  * **French civil records:** none listed
+
+* **Known holdings (State Archives):**
+
+  * **Italian civil records:** 1865–1900 (fogli di famiglia, emigrazioni, immigrazioni; Sezione di Spoleto, Archivio di Stato di Perugia)
+  * **Parish books:** 16th–19th centuries (156 registers; baptisms, marriages, deaths)
+  * **French civil records:** 1810–1813 (352 registers; nati, matrimoni, morti; Dipartimento del Trasimeno)
+
+* **Known holdings (Diocese / parishes):**
+
+  * none listed
+
+---
+
+## Parishes and Frazioni
+
+### Other parishes listed in 1853 (no holdings identified)
+
+* **Sant’Anzano**
+* **San Domenico**
+* **San Filippo**
+* **San Gregorio**
+* **Metropolitana**
+* **SS.mo Crocifisso**
+* **San Pietro**
+* **Acquajura**
+* **Acqua la Castagna**
+* **Ancajano**
+* **Azzano Santa Caterina**
+* **Azzano Santa Maria**
+* **Bajano**
+* **Bazzano di San Pietro**
+* **Bazzano Santa Maria**
+* **Bazzano di Sotto**
+* **Beroide Sant’Angelo**
+* **Beroide Santa Maria**
+* **Beroide San Paolo**
+* **Cese**
+* **Castagna Cupa**
+* **Colle Risana**
+* **Eggi**
+* **Majano**
+* **Montebibico**
+* **Montemartano**
+* **Morgnano**
+* **Morro**
+* **Patrico e Mostajole**
+* **Perchia ed Icciano**
+* **Petrognano**
+* **Pincano e Renzano**
+* **Pompagnano**
+* **Poreta**
+* **Protte**
+* **Rabbiano e Monte li Rossi**
+* **San Silvestro**
+* **Sant’Angelo in Mercole**
+* **Silvignano**
+* **San Martino e Trignano**
+* **Sustrico**
+* **Strettura**
+* **San Venanzio**
+* **San Sabino**
+* **San Giacomo**
+* **Santa Croce**
+* **San Brizio**
+* **Terzo della Pieve**
+* **Terraja**
+* **Uncinano**
+* **Valdarena**
+* **Valle San Martino**
+* **Vallocchia**
+
+#### Frazione of Arezzo
+
+* **Fiorenzola**
+* **Rapicciano**
+
+#### Frazione of Cerqueto
+
+* **Castagna Cupa**
+* **Fogliano**
+
+#### Frazione of Messenano
+
+* **Messenano**
+* **Perchia ed Icciano**
+* **Rapicciano**
+
+#### Frazione of Terzo San Severo
+
+* **Terzo San Severo**
+* **Costa**
+* **Ocenelli**
+
+⚠️ No further parishes are listed for this municipality in the *[Statistica della popolazione dello Stato Pontificio dell’anno 1853](https://www.google.it/books/edition/Statistics_della_popolazione_dello_Stato/v6dCAQAAMAAJ)*.
+
+---
+
+## Border changes
+
+According to the [Atlante Storico Istituzionale dell’Italia unita](http://dati.san.beniculturali.it/asi/local/detail.html?UA05121):
+
+* 1927 — Aggregated into the municipality of Spoleto the territories of the suppressed municipalities of Campello sul Clitunno, Castel Ritaldi e San Giovanni (now Castel Ritaldi), Giano dell’Umbria, Sant’Anatolia di Narco, Scheggino, and Vallo di Nera
+* 1930 — Reconstituted the municipalities of Campello sul Clitunno, Castel Ritaldi (formerly Castel Ritaldi e San Giovanni), Giano dell’Umbria, Sant’Anatolia di Narco, Scheggino, and Vallo di Nera, detached from the municipality of Spoleto
+
+---
+
+## Digitized Records
+
+* **FamilySearch:** none available for this municipality.
+* **Portale Antenati:** none available for this municipality.
+* **ItalianParishRecords.org:** none available for this municipality.
+
+---
+
+## Brogliardi
+
+The *brogliardi* for this municipality are available through the [Archivio di Stato di Roma’s digital portal](https://imagoarchiviodistatoroma.cultura.gov.it/Gregoriano/s_brogliardi.php?Provincia=Spoleto&Denominazione=Spoleto).
+
+⚠️ Coverage includes the *immediate town* only. The brogliardi for frazioni and outlying areas exist but have not yet been digitized.
+
+---
+
+## Additional Notes
+
+* The Archivio di Stato di Perugia – Sezione di Spoleto also conserves ruoli matricolari (1843–1934) and rubriche (1872–1934) of the Distretto militare di Spoleto.
+
+---
+
+## References
+
+* [Atlante Storico Istituzionale dell’Italia unita – Spoleto](http://dati.san.beniculturali.it/asi/local/detail.html?UA05121)
+* [Archivio di Stato di Perugia – Sezione di Spoleto (Portale Antenati)](https://antenati.cultura.gov.it/archivio/archivio-di-stato-di-perugia-sezione-di-spoleto/)
+* [Archivi dell’Umbria – Stato civile del dipartimento del Trasimeno](http://www.maas.ccr.it/PDF/Perugia.pdf)

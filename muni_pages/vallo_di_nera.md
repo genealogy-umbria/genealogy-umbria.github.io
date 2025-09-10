@@ -1,0 +1,100 @@
+# Vallo di Nera
+
+## Stato Civile
+
+* **Office contact:**
+
+  * Email (Stato Civile): `info [at] comune.vallodinera.pg.it`
+
+* **Known holdings (Comune – [SIUSA](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=275092)):**
+
+  * **Italian civil records:** 1860–1950 (151 registers; civil status registers)
+    *Includes a gap 1927–1930 when the municipality was abolished and records were produced by Spoleto.*
+  * **Parish books:** 1726–1861 (6 registers; baptisms, marriages, deaths)
+  * **French civil records:** none held
+  * **Meggiano and Paterno (aggregated 1881):**
+
+    * Parish books: 1656–1869 (12 registers; baptisms, marriages, deaths)
+    * Italian civil records: 1866–1880 (11 registers; citizenship, banns)
+
+* **Known holdings (State Archives):**
+
+  * **Italian civil records:** The *Archivio di Stato di Perugia* preserves a large *[Tribunale holding](http://dati.san.beniculturali.it/SAN/complarc_IT-AS-PG_san.cat.complArch.96907)* of civil registers.
+  Since this municipality is part of the province of Perugia, it is likely included in this series.
+  The exact number of registers relating specifically to this municipality is not known.
+  * **Parish books:** none held
+  * **French civil records:** none held
+
+* **Known holdings (Diocese / parishes):**
+
+  * none held
+
+---
+
+## Parishes and Frazioni
+
+### Vallo di Nera
+
+* **San Giovanni Battista**: baptisms (1753–1860; 3 registries), marriages (1761–1861; 1 registry), deaths (1850–1861; 1 registry)
+* **Santa Maria e San Giovanni Battista**: deaths (1850–1861; 1 registry)
+
+### Meggiano
+
+* **Santa Maria Piedimonte e San Michele Arcangelo**: baptisms (1742–1851; 1 registry), deaths (1742–1850; 1 registry)
+* **San Michele Arcangelo**: baptisms (1851–1869; 1 registry), marriages (1852–1866; 1 registry), deaths (1852–1868; 1 registry)
+
+### Paterno
+
+* **San Giusto**: baptisms (1712–1869; 1 registry), marriages (1712–1869; 1 registry)
+
+### Montefiorello
+
+* **San Giusto e Santa Maria Immacolata in Montefiorello**: deaths (1712–1860; 1 registry)
+
+### Piedipaterno
+
+* **San Sebastiano**: baptisms (1693–1862; 1 registry), marriages (1684–1869; 1 registry), deaths (1702–1862; 1 registry)
+
+### Geppa
+
+* **Santo Stefano**: baptisms (1656–1723; 1 registry)
+
+⚠️ No further parishes are listed for this municipality in the *[Statistica della popolazione dello Stato Pontificio dell’anno 1853](https://www.google.it/books/edition/Statistics_della_popolazione_dello_Stato/v6dCAQAAMAAJ)*.
+
+---
+
+## Border changes
+
+According to the [Atlante Storico Istituzionale dell’Italia unita](http://dati.san.beniculturali.it/asi/local/detail.html?UA05128):
+
+* **1881** – The suppressed Comune of **Piedipaterno sul Nera (Meggiano)** was aggregated to Vallo di Nera.
+* **1927** – The Comune of Vallo di Nera was suppressed, and its territory aggregated to Spoleto.
+* **1930** – The Comune of Vallo di Nera was reconstituted, following detachment of its territory from Spoleto.
+
+---
+
+## Digitized Records
+
+* **FamilySearch:** none available for this municipality.
+
+* **Portale Antenati:** none available for this municipality.
+
+* **ItalianParishRecords.org:** none available for this municipality.
+
+---
+
+## Brogliardi
+
+No digitized *brogliardi* are available for this municipality.
+
+---
+
+## Additional Notes
+
+* None.
+
+---
+
+## References
+
+* [SIUSA – Comune di Vallo di Nera](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=275092)
