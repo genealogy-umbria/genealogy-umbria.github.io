@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    /* Navbar styling */
+    nav {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      background: #222;
+      padding: 0.6em 1em;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 0.5em;
+      z-index: 1000;
+    }
+    nav a {
+      color: white;
+      background: #444;
+      padding: 0.5em 0.9em;
+      border-radius: 6px;
+      text-decoration: none;
+      font-size: clamp(14px, 2vw, 18px);
+      transition: background 0.2s;
+    }
+    nav a:hover {
+      background: #666;
+    }
+    nav a.active {
+      background: #0080ff;
+      font-weight: bold;
+    }
+    /* Push page content below navbar */
+    body {
+      margin: 0;
+      padding-top: 3.5em;
+      font-family: sans-serif;
+    }
+    main {
+      padding: 1em;
+    }
+  </style>
+</head>
+<body>
+  <!-- Navbar -->
+  <nav>
+    <a href="/index.html" class="{% if page.url == '/' or page.url == '/index.html' %}active{% endif %}">Home</a>
+    <a href="/muni_list.html" class="{% if page.url == '/muni_list.html' %}active{% endif %}">List of comuni</a>
+    <a href="/dioceses.html" class="{% if page.url == '/dioceses.html' %}active{% endif %}">Dioceses</a>
+    <a href="/tribunali.html" class="{% if page.url == '/tribunali.html' %}active{% endif %}">Tribunali</a>
+    <a href="/military_divs.html" class="{% if page.url == '/military_divs.html' %}active{% endif %}">Military districts</a>
+    <a href="/all_hamlets.html" class="{% if page.url == '/all_hamlets.html' %}active{% endif %}">List of all hamlets</a>
+  </nav>
+
+  <!-- Page content -->
+  <main>
+    {{ content }}
+  </main>
+</body>
+</html>
