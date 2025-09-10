@@ -87,10 +87,14 @@ document.addEventListener('DOMContentLoaded', function () {
   const mapContainer = document.getElementById('muni-map');
 
   // initialize Leaflet map
-  const map = L.map(mapContainer, { zoomControl: true }).setView([42.8, 12.9], 12);
+  const map = L.map(mapContainer, { zoomControl: true,
+  scrollWheelZoom: false }).setView([42.8, 12.9], 12);
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; OpenStreetMap contributors'
   }).addTo(map);
+  
+  map.on('focus', () => map.scrollWheelZoom.enable());
+  map.on('blur', () => map.scrollWheelZoom.disable());
 
   // show friendly no-data panel (removes Leaflet map cleanly)
   function showNoData(message) {
