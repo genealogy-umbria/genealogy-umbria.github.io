@@ -1,0 +1,172 @@
+<!-- _includes/muni_map.html -->
+<style>
+  /* full-bleed wrapper so the map spans the viewport width even if your page content is centered */
+  .muni-map-wrapper{
+    width: 100vw;
+    margin-left: calc(50% - 50vw); /* center full-bleed element */
+  }
+  /* map container */
+  .muni-map {
+    width: 100%;
+    height: 80vh;            /* requested height */
+    min-height: 320px;      /* sensible minimum */
+    box-sizing: border-box;
+  }
+  /* no-data placeholder */
+  .muni-map-no-data {
+    height: 80vh;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    color:#444;
+    background:#fafafa;
+    border:1px solid #eee;
+    font-size:1rem;
+    padding:1rem;
+  }
+  /* label style used for permanent tooltips */
+  .muni-map .my-label {
+    font-size: 12px;
+    color: black;
+    background: rgba(255,255,255,0.65);
+    border: none;
+    box-shadow: none;
+    text-shadow: 1px 1px 2px white;
+    padding: 2px 4px;
+    border-radius: 4px;
+  }
+</style>
+
+<div class="muni-map-wrapper">
+  <div id="muni-map" class="muni-map" role="region" aria-label="Municipality map"></div>
+</div>
+
+<!-- Leaflet CSS & JS (included here because this is a single-include solution) -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  // --- Helper: robustly obtain the page "basename" (perugia, trevi, etc.) ---
+  function detectBasename() {
+    // If the page provides an explicit muni in front matter, prefer it.
+    // Jekyll will render {{ page.muni | jsonify }} into a JS string or null.
+    try {
+      const explicit = {{ page.muni | default: null | jsonify }};
+      if (explicit) return String(explicit).toLowerCase();
+    } catch (e) {
+      // if Liquid not available for some reason, ignore
+    }
+
+    let path = window.location.pathname || '';
+    // remove trailing slash(es)
+    path = path.replace(/\/+$/, '');
+    const parts = path.split('/');
+    let last = parts[parts.length - 1] || '';
+    // if last is empty (e.g. site root), try previous part
+    if (!last && parts.length > 1) last = parts[parts.length - 2];
+    // if last is 'index.html', use previous directory name (handles pretty permalinks)
+    if (last.toLowerCase() === 'index.html' && parts.length > 1) {
+      last = parts[parts.length - 2];
+    }
+    // strip extension if present
+    last = last.replace(/\.[^/.]+$/, '');
+    return last.toLowerCase();
+  }
+
+  const muni = detectBasename() || 'scheggino'; // fallback if detection fails
+  // candidate filenames in /map_data
+  const candidates = [
+    `/map_data/${muni}.geojson`,
+    `/map_data/${muni.replace(/\s+/g,'_')}.geojson`,
+    `/map_data/${muni.replace(/\s+/g,'-')}.geojson`
+  ];
+
+  const mapContainer = document.getElementById('muni-map');
+
+  // initialize Leaflet map
+  const map = L.map(mapContainer, { zoomControl: true }).setView([42.8, 12.9], 12);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; OpenStreetMap contributors'
+  }).addTo(map);
+
+  // show friendly no-data panel (removes Leaflet map cleanly)
+  function showNoData(message) {
+    try { map.remove(); } catch (e) { /* ignore */ }
+    mapContainer.innerHTML = '';
+    const div = document.createElement('div');
+    div.className = 'muni-map-no-data';
+    div.innerText = message;
+    mapContainer.appendChild(div);
+  }
+
+  // Styles, tooltips and point renderer
+  function createAndAddLayer(data) {
+    const layer = L.geoJSON(data, {
+      onEachFeature: function (feature, lyr) {
+        if (feature.properties && feature.properties.name) {
+          // skip municipality polygon label if it's the admin boundary level 8
+          if (feature.properties.boundary === 'administrative' &&
+              String(feature.properties.admin_level) === '8') {
+            return;
+          }
+          lyr.bindTooltip(feature.properties.name, {
+            permanent: true,
+            direction: 'center',
+            className: 'my-label'
+          });
+        }
+      },
+      style: function (feature) {
+        if (feature.properties &&
+            feature.properties.boundary === 'administrative' &&
+            String(feature.properties.admin_level) === '8') {
+          return { color: 'blue', weight: 2, fillOpacity: 0 };
+        }
+        return { color: 'red' };
+      },
+      pointToLayer: function (feature, latlng) {
+        return L.circleMarker(latlng, {
+          radius: 6,
+          fillColor: 'yellow',
+          color: 'red',
+          weight: 1,
+          fillOpacity: 0.8
+        });
+      }
+    }).addTo(map);
+
+    // fit to data bounds (with small padding)
+    try {
+      map.fitBounds(layer.getBounds(), { padding: [20, 20] });
+      // ensure map correctly renders after size changes
+      setTimeout(() => map.invalidateSize(), 200);
+    } catch (e) {
+      // if bounds fail, keep default view
+      console.warn('Could not fit bounds:', e);
+    }
+  }
+
+  // try candidate files in sequence until one succeeds
+  (async function tryLoad() {
+    for (const file of candidates) {
+      try {
+        const res = await fetch(file, { cache: 'no-cache' });
+        if (!res.ok) {
+          // try next candidate if 404/403/etc
+          continue;
+        }
+        const data = await res.json();
+        // success
+        createAndAddLayer(data);
+        return;
+      } catch (err) {
+        // network or parse error: try next candidate
+        continue;
+      }
+    }
+    // none succeeded
+    showNoData(`No map data found for "${muni}". Tried: ${candidates.map(p => p.split('/').pop()).join(', ')}`);
+  })();
+});
+</script>
