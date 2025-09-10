@@ -4,7 +4,15 @@ The *distretto militare* (military district) was the Italian state’s local mil
 
 These records are essential for genealogical research as they contain detailed information on men subject to military service.
 
-![alt text](img/Distretti_militari_confini_1883.jpg "Borders in 1883")
+<figure style="text-align:center;">
+  <a href="img/Distretti_militari_confini_1883.jpg" target="_blank">
+    <img src="img/Distretti_militari_confini_1883.jpg" 
+         alt="Borders in 1883" 
+         title="Borders in 1883" 
+         style="cursor:zoom-in;">
+  </a>
+  <figcaption><em>Borders in 1883</em></figcaption>
+</figure>
 
 ---
 
