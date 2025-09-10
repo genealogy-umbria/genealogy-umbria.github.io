@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <link rel="icon" href="/favicon.ico" type="image/x-icon">
   <meta charset="UTF-8">
   <title>{{ page.title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -38,21 +39,35 @@
 
     /* Push page content below navbar */
     body {
-      margin: 0;
-      padding-top: 3.5em;
-      font-family: sans-serif;
-      line-height: 1.6;
-    }
-    main {
-      padding: 1em;
-      max-width: 900px;   /* keep content narrower for readability */
-      margin: 0 auto;     /* center content */
-    }
+	  margin: 0;
+	  padding-top: 3.5em; /* push below navbar */
+	  
+	  /* System font stack (fast, clean, readable everywhere) */
+	  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
+				   Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+	  
+	  /* Comfortable font size and line spacing */
+	  font-size: 16px;
+	  line-height: 1.6;
+	  
+	  /* Improve text rendering */
+	  -webkit-font-smoothing: antialiased;
+	  -moz-osx-font-smoothing: grayscale;
+	  text-rendering: optimizeLegibility;
+	  
+	  color: #111; /* softer black for readability */
+	}
+
+	main {
+	  max-width: 800px;   /* narrower column for readability */
+	  margin: 0 auto;
+	  padding: 1em;
+	}
 
     /* Image fix */
     img {
-      max-width: 100%;
-      height: auto;
+      max-width: 90%;
+	  max-height: 60vh;
       display: block;
       margin: 1em auto;
     }
@@ -62,7 +77,7 @@
   <!-- Navbar -->
   <nav>
     <a href="/index.html" class="{% if page.url == '/' or page.url == '/index.html' %}active{% endif %}">Home</a>
-    <a href="/muni_list.html" class="{% if page.url == '/muni_list.html' %}active{% endif %}">List of comuni</a>
+    <a href="/muni_list.html" class="{% if page.url == '/muni_list.html' %}active{% endif %}">Comuni pages</a>
     <a href="/dioceses.html" class="{% if page.url == '/dioceses.html' %}active{% endif %}">Dioceses</a>
     <a href="/tribunali.html" class="{% if page.url == '/tribunali.html' %}active{% endif %}">Tribunali</a>
     <a href="/military_divs.html" class="{% if page.url == '/military_divs.html' %}active{% endif %}">Military districts</a>
@@ -73,5 +88,18 @@
   <main>
     {{ content }}
   </main>
+	<script>
+	  document.addEventListener("DOMContentLoaded", function () {
+		const links = document.querySelectorAll("a[href]");
+		links.forEach(link => {
+		  const href = link.getAttribute("href");
+		  // If link starts with http and is NOT same origin → external
+		  if (href.startsWith("http") && !href.includes(window.location.hostname)) {
+			link.setAttribute("target", "_blank");
+			link.setAttribute("rel", "noopener noreferrer"); // security best practice
+		  }
+		});
+	  });
+	</script>
 </body>
 </html>

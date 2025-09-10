@@ -29,10 +29,6 @@ While the majority of registers were moved to civil custody, church repositories
 
 For parishes that no longer exist, holdings may be dispersed between the diocesan archive and one or more successor parishes. Even in such cases, the diocesan archive is normally the best starting point for enquiries, as it has the most centralized oversight of scattered holdings.
 
-### Stati delle anime
-
-The *stati delle anime* (household censuses compiled by parish clergy) do not appear to have been consistently transferred to municipal custody. Where they survive, they are most often found in **diocesan or parish archives**, rather than among municipal records.
-
 ---
 
 **Reference:** [Chiesa Cattolica – Regione ecclesiastica Umbria](https://www.chiesacattolica.it/annuario-cei/regione/25/regione-ecclesiastica-umbria/)

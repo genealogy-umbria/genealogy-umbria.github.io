@@ -18,7 +18,7 @@ Not “Italy.” Not even “Central Italy.” Just Umbria—because only by bei
 
 ## Why generic advice fails in Umbria
 
-![alt text](img/attiufficiali00pepogoog_0415.png "Pepoli, hero or villain? You decide!!1!")
+![alt text](img/attiufficiali00pepogoog_0415.png "Pepoli, hero or villain?")
 
 Well-meaning guides will advise you to consult *processetti* (marriage application records) or the *catasto onciario* (18th-century fiscal cadaster). Both are genuinely useful elsewhere. But in Umbria, **they never existed.**
 
@@ -80,7 +80,7 @@ Another caveat: the brogliardi do not list everyone. They record only **property
 
 ![alt text](img/state_archives.jpg "Tale")
 
-Umbria has two state archives: **[Perugia](http://www.archiviodistatoperugia.it)** and **[Terni](https://antenati.cultura.gov.it/)**, with subsidiary sections at **Gubbio, Spoleto, Assisi, and Orvieto.** One might assume that these institutions hold exhaustive civil registers, digitized and ready for consultation.
+Umbria has two state archives: **[Perugia](http://www.archiviodistatoperugia.it)** and **[Terni](https://archiviodistatoterni.cultura.gov.it/)**, with subsidiary sections at **Gubbio, Spoleto, Assisi, and Orvieto.** One might assume that these institutions hold exhaustive civil registers, digitized and ready for consultation.
 
 Unfortunately, the reality is more modest. Compared to other Italian regions, the Umbrian state archives contain **less in terms of civil records,** and Perugia in particular has digitized very little of what it does hold.
 
