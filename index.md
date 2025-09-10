@@ -34,7 +34,7 @@ So if you are searching for an Umbrian birth registered in 1862, you do not need
 
 Nearly every guide to Italian genealogy will tell you: *for records before 1860, go to diocesan archives.* But in Umbria, that advice needs nuance.
 
-After annexation, commissioner Gioacchino Pepoli ordered the seizure of parish registers. In some parishes, **all books were taken.** In others, only those covering people still living (e.g., late 18th century forward). And in certain places - Marsciano is a clear example - **the registers never left the parish at all.**
+After annexation, commissioner Gioacchino Pepoli ordered the seizure of parish registers. In some parishes, **all books were taken.** In others, only those covering people still living (e.g., late 18th century forward). And in certain places - [Marsciano](muni_pages/marsciano.md) is a clear example - **the registers never left the parish at all.**
 
 This means that:
 

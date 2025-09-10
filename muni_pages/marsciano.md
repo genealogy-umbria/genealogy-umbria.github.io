@@ -6,8 +6,6 @@
 
   * Email (Stato Civile): `anagrafe [at] comune.marsciano.pg.it`
 
-⚠️ All records listed below are held by the *archivio storico comunale*.
-
 * **Known holdings (Comune – [SIUSA](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=310657)):**
 
   * **Italian civil records:** 1860–1967 (385 registers)

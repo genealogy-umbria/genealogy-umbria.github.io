@@ -1,0 +1,1995 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-09-10T22:52:42Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "relation/42284",
+        "@id": "relation/42284",
+        "@relations": null,
+        "admin_level": "8",
+        "alt_name": null,
+        "boundary": "administrative",
+        "ele": null,
+        "gfoss_id": null,
+        "istat_id": null,
+        "loc_name": null,
+        "name": "Assisi",
+        "name:ar": "أسيزي",
+        "name:es": "Asís",
+        "name:fr": "Assise",
+        "name:he": "אסיזי",
+        "name:hr": "Asiz",
+        "name:it": "Assisi",
+        "name:la": "Asisium",
+        "name:pl": "Asyż",
+        "name:ru": "Ассизи",
+        "name:uk": "Ассізі",
+        "note": null,
+        "place": null,
+        "population": "27549",
+        "population:date": "01-01-2024",
+        "postal_code": "06081",
+        "ref:ISTAT": "054001",
+        "ref:catasto": "A475",
+        "source:population": "https://esploradati.istat.it/",
+        "type": "boundary",
+        "wikidata": "Q20103",
+        "wikimedia_commons": null,
+        "wikipedia": "it:Assisi",
+        "wikipedia:en": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.6958276,
+              43.1536881
+            ],
+            [
+              12.6852825,
+              43.1554647
+            ],
+            [
+              12.6825283,
+              43.1586958
+            ],
+            [
+              12.6768353,
+              43.1580508
+            ],
+            [
+              12.6774218,
+              43.156848
+            ],
+            [
+              12.6691121,
+              43.158029
+            ],
+            [
+              12.6624563,
+              43.15447
+            ],
+            [
+              12.6590849,
+              43.1545555
+            ],
+            [
+              12.6408281,
+              43.1511816
+            ],
+            [
+              12.6376026,
+              43.1524413
+            ],
+            [
+              12.633807,
+              43.1454267
+            ],
+            [
+              12.6347469,
+              43.142097
+            ],
+            [
+              12.6275246,
+              43.1377302
+            ],
+            [
+              12.6194969,
+              43.1358014
+            ],
+            [
+              12.6178296,
+              43.1344226
+            ],
+            [
+              12.6121781,
+              43.1365192
+            ],
+            [
+              12.6118515,
+              43.1335718
+            ],
+            [
+              12.5965149,
+              43.1283427
+            ],
+            [
+              12.5841354,
+              43.1320855
+            ],
+            [
+              12.5813463,
+              43.1351622
+            ],
+            [
+              12.5734799,
+              43.1344811
+            ],
+            [
+              12.5710721,
+              43.1356728
+            ],
+            [
+              12.567517,
+              43.1407043
+            ],
+            [
+              12.5628945,
+              43.1406595
+            ],
+            [
+              12.5594771,
+              43.143449
+            ],
+            [
+              12.5423562,
+              43.1423064
+            ],
+            [
+              12.5385058,
+              43.1392789
+            ],
+            [
+              12.5354624,
+              43.1351549
+            ],
+            [
+              12.5303653,
+              43.1334937
+            ],
+            [
+              12.5284744,
+              43.1312922
+            ],
+            [
+              12.5298954,
+              43.1281417
+            ],
+            [
+              12.5252093,
+              43.1198862
+            ],
+            [
+              12.5107168,
+              43.0908137
+            ],
+            [
+              12.5129732,
+              43.0897089
+            ],
+            [
+              12.530445,
+              43.0866045
+            ],
+            [
+              12.5312771,
+              43.0851607
+            ],
+            [
+              12.5449616,
+              43.0836476
+            ],
+            [
+              12.5586434,
+              43.083398
+            ],
+            [
+              12.5614534,
+              43.0791642
+            ],
+            [
+              12.5666798,
+              43.0758995
+            ],
+            [
+              12.5721251,
+              43.0708269
+            ],
+            [
+              12.5645954,
+              43.0640436
+            ],
+            [
+              12.5650669,
+              43.0546155
+            ],
+            [
+              12.5549678,
+              43.0510494
+            ],
+            [
+              12.5445902,
+              43.0465052
+            ],
+            [
+              12.5437081,
+              43.0421567
+            ],
+            [
+              12.5479709,
+              43.0389677
+            ],
+            [
+              12.5441777,
+              43.0324308
+            ],
+            [
+              12.5504066,
+              43.0305104
+            ],
+            [
+              12.5508157,
+              43.0266397
+            ],
+            [
+              12.5543416,
+              43.0247576
+            ],
+            [
+              12.5524426,
+              43.0213856
+            ],
+            [
+              12.5611576,
+              43.0197488
+            ],
+            [
+              12.5772937,
+              43.0141668
+            ],
+            [
+              12.5870402,
+              43.0112008
+            ],
+            [
+              12.5956806,
+              43.0108617
+            ],
+            [
+              12.6103553,
+              43.0121324
+            ],
+            [
+              12.623046,
+              43.017142
+            ],
+            [
+              12.6245245,
+              43.0156951
+            ],
+            [
+              12.6308905,
+              43.0177125
+            ],
+            [
+              12.6345841,
+              43.0199495
+            ],
+            [
+              12.6383179,
+              43.019205
+            ],
+            [
+              12.6470263,
+              43.0228801
+            ],
+            [
+              12.651933,
+              43.0231043
+            ],
+            [
+              12.6638786,
+              43.0263297
+            ],
+            [
+              12.6685406,
+              43.0257525
+            ],
+            [
+              12.6740925,
+              43.0272489
+            ],
+            [
+              12.6770932,
+              43.0336035
+            ],
+            [
+              12.6854174,
+              43.0400881
+            ],
+            [
+              12.682851,
+              43.0469506
+            ],
+            [
+              12.6857181,
+              43.0493657
+            ],
+            [
+              12.69625,
+              43.0530273
+            ],
+            [
+              12.6998194,
+              43.052489
+            ],
+            [
+              12.7143231,
+              43.0583616
+            ],
+            [
+              12.7138851,
+              43.0608923
+            ],
+            [
+              12.7099174,
+              43.067855
+            ],
+            [
+              12.711015,
+              43.0710201
+            ],
+            [
+              12.7201918,
+              43.0749579
+            ],
+            [
+              12.7263816,
+              43.081608
+            ],
+            [
+              12.7244565,
+              43.0831834
+            ],
+            [
+              12.7169047,
+              43.0840865
+            ],
+            [
+              12.7129865,
+              43.0936227
+            ],
+            [
+              12.7191373,
+              43.1030295
+            ],
+            [
+              12.7184954,
+              43.1074036
+            ],
+            [
+              12.7200631,
+              43.1131689
+            ],
+            [
+              12.7233241,
+              43.1153766
+            ],
+            [
+              12.7242704,
+              43.1203472
+            ],
+            [
+              12.727118,
+              43.1241124
+            ],
+            [
+              12.7235904,
+              43.1330554
+            ],
+            [
+              12.7200516,
+              43.1366415
+            ],
+            [
+              12.7082851,
+              43.1428718
+            ],
+            [
+              12.704532,
+              43.1367091
+            ],
+            [
+              12.7037586,
+              43.1337134
+            ],
+            [
+              12.7066908,
+              43.1292967
+            ],
+            [
+              12.7122104,
+              43.1299593
+            ],
+            [
+              12.7118534,
+              43.1253836
+            ],
+            [
+              12.7078061,
+              43.1244391
+            ],
+            [
+              12.703611,
+              43.1271907
+            ],
+            [
+              12.7034581,
+              43.1296311
+            ],
+            [
+              12.6988255,
+              43.1321941
+            ],
+            [
+              12.6989754,
+              43.1370332
+            ],
+            [
+              12.6905575,
+              43.1388675
+            ],
+            [
+              12.6909365,
+              43.1431735
+            ],
+            [
+              12.6889298,
+              43.1448894
+            ],
+            [
+              12.6920747,
+              43.1456071
+            ],
+            [
+              12.6958276,
+              43.1536881
+            ],
+            [
+              12.6958276,
+              43.1536881
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/68507678",
+        "@relations": [
+          {
+            "role": "admin_centre",
+            "rel": 42284,
+            "reltags": {
+              "admin_level": "8",
+              "boundary": "administrative",
+              "name": "Assisi",
+              "name:ar": "أسيزي",
+              "name:es": "Asís",
+              "name:fr": "Assise",
+              "name:he": "אסיזי",
+              "name:hr": "Asiz",
+              "name:it": "Assisi",
+              "name:la": "Asisium",
+              "name:pl": "Asyż",
+              "name:ru": "Ассизи",
+              "name:uk": "Ассізі",
+              "population": "27549",
+              "population:date": "01-01-2024",
+              "postal_code": "06081",
+              "ref:ISTAT": "054001",
+              "ref:catasto": "A475",
+              "source:population": "https://esploradati.istat.it/",
+              "type": "boundary",
+              "wikidata": "Q20103",
+              "wikipedia": "it:Assisi"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6146669,
+          43.0711952
+        ]
+      },
+      "id": "node/68507678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/317000980",
+        "ele": "759",
+        "gfoss_id": "49027",
+        "istat_id": "5400110001",
+        "name": "Armenzano",
+        "place": "hamlet",
+        "population": "29",
+        "population:date": "2021-12-31",
+        "source:population": "Istat 2021 census",
+        "wikidata": "Q491153",
+        "wikipedia": "it:Armenzano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6982427,
+          43.0704161
+        ]
+      },
+      "id": "node/317000980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/317000990",
+        "ele": "300",
+        "gfoss_id": "49041",
+        "istat_id": "5400110003",
+        "name": "Capodacqua",
+        "place": "hamlet",
+        "population": "101",
+        "population:date": "2021-12-31",
+        "source:population": "Istat 2021 census",
+        "wikidata": "Q926991",
+        "wikipedia": "it:Capodacqua (Assisi)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6501353,
+          43.0294795
+        ]
+      },
+      "id": "node/317000990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/317001007",
+        "ele": "215",
+        "gfoss_id": "49043",
+        "istat_id": "5400110004",
+        "name": "Case Nuove",
+        "place": "village",
+        "population": "571",
+        "population:date": "2021-12-31",
+        "source:population": "Istat 2021 census",
+        "wikidata": "Q18492447"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6423106,
+          43.02448
+        ]
+      },
+      "id": "node/317001007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/317001009",
+        "ele": "195",
+        "gfoss_id": "49040",
+        "istat_id": "5400110005",
+        "name": "Castelnuovo",
+        "place": "village",
+        "population": "719",
+        "population:date": "2021-12-31",
+        "source:population": "Istat 2021 census",
+        "wikidata": "Q1048927",
+        "wikipedia": "it:Castelnuovo (Assisi)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5845674,
+          43.0308314
+        ]
+      },
+      "id": "node/317001009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/317001011",
+        "ele": "257",
+        "gfoss_id": "49025",
+        "istat_id": "5400126616",
+        "name": "Col d'Erba",
+        "place": "hamlet",
+        "population": "18",
+        "population:date": "2021-12-31",
+        "source:population": "Istat 2021 census",
+        "wikidata": "Q18492595"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5919393,
+          43.0794301
+        ]
+      },
+      "id": "node/317001011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/317001013",
+        "ele": "285",
+        "gfoss_id": "49023",
+        "istat_id": "5400126617",
+        "name": "Col d'Erba III",
+        "place": "hamlet",
+        "population": "9",
+        "population:date": "2021-12-31",
+        "source:population": "Istat 2021 census",
+        "wikidata": "Q18492592"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5953512,
+          43.0817711
+        ]
+      },
+      "id": "node/317001013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/317001021",
+        "ele": "324",
+        "gfoss_id": "49042",
+        "istat_id": "5400126601",
+        "name": "Collicello",
+        "place": "hamlet",
+        "population": "29",
+        "population:date": "2021-12-31",
+        "source:population": "Istat 2021 census"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6546073,
+          43.0277295
+        ]
+      },
+      "id": "node/317001021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/317001049",
+        "ele": "209",
+        "gfoss_id": "49039",
+        "name": "Passaggio di Assisi",
+        "place": "neighbourhood",
+        "wikidata": "Q7142494",
+        "wikipedia": "en:Passaggio di Assisi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6349486,
+          43.030631
+        ]
+      },
+      "id": "node/317001049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/317001051",
+        "ele": "236",
+        "gfoss_id": "49019",
+        "istat_id": "5400110006",
+        "name": "Palazzo",
+        "place": "village",
+        "population": "1811",
+        "population:date": "2021-12-31",
+        "source:population": "Istat 2021 census",
+        "wikidata": "Q3889493",
+        "wikipedia": "it:Palazzo (Assisi)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5657263,
+          43.0964325
+        ]
+      },
+      "id": "node/317001051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/317001056",
+        "ele": "400",
+        "gfoss_id": "49017",
+        "istat_id": "5400126718",
+        "name": "Pian della Pieve",
+        "place": "hamlet",
+        "population": "40",
+        "population:date": "2021-12-31",
+        "source:population": "Istat 2021 census",
+        "wikidata": "Q18493397"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6648863,
+          43.0989552
+        ]
+      },
+      "id": "node/317001056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/317001058",
+        "ele": "356",
+        "gfoss_id": "49020",
+        "istat_id": "5400126619",
+        "name": "Ponte Grande",
+        "place": "hamlet",
+        "population": "47",
+        "population:date": "2021-12-31",
+        "source:population": "Istat 2021 census",
+        "wikidata": "Q18493543"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6537164,
+          43.0973603
+        ]
+      },
+      "id": "node/317001058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/317001063",
+        "ele": "339",
+        "gfoss_id": "49032",
+        "istat_id": "5400120007",
+        "name": "Renaiola",
+        "place": "hamlet",
+        "population": "88",
+        "population:date": "2021-12-31",
+        "source:population": "Istat 2021 census",
+        "wikidata": "Q18493668"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6321401,
+          43.0510987
+        ]
+      },
+      "id": "node/317001063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/317001065",
+        "ele": "211",
+        "gfoss_id": "49033",
+        "istat_id": "5400110009",
+        "name": "Rivotorto",
+        "place": "village",
+        "population": "1388",
+        "population:date": "2021-12-31",
+        "source:population": "Istat 2021 census",
+        "wikidata": "Q980584",
+        "wikimedia_commons": "Category:Rivotorto",
+        "wikipedia": "it:Rivotorto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6181719,
+          43.0443691
+        ]
+      },
+      "id": "node/317001065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/317001073",
+        "ele": "250",
+        "gfoss_id": "49022",
+        "istat_id": "5400126620",
+        "name": "San Martino",
+        "place": "hamlet",
+        "population": "15",
+        "population:date": "2021-12-31",
+        "source:population": "Istat 2021 census",
+        "wikidata": "Q18493832"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.585561,
+          43.0837538
+        ]
+      },
+      "id": "node/317001073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/317001075",
+        "ele": "240",
+        "gfoss_id": "49024",
+        "istat_id": "5400120023",
+        "name": "San Martino Basso",
+        "place": "hamlet",
+        "population": "25",
+        "population:date": "2021-12-31",
+        "source:population": "Istat 2021 census",
+        "wikidata": "Q18493819"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5865714,
+          43.0807782
+        ]
+      },
+      "id": "node/317001075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/317001084",
+        "ele": "220",
+        "gfoss_id": "49018",
+        "istat_id": "5400120022",
+        "name": "Santa Tecla",
+        "place": "hamlet",
+        "population": "79",
+        "population:date": "2021-12-31",
+        "source:population": "Istat 2021 census"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5513908,
+          43.1019795
+        ]
+      },
+      "id": "node/317001084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/317001086",
+        "ele": "372",
+        "gfoss_id": "49034",
+        "istat_id": "5400110011",
+        "loc_name": "Viole",
+        "name": "San Vitale",
+        "place": "village",
+        "population": "602",
+        "population:date": "2021-12-31",
+        "source:population": "Istat 2021 census",
+        "wikidata": "Q2057993",
+        "wikipedia": "it:Viole (Assisi)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6369106,
+          43.0468988
+        ]
+      },
+      "id": "node/317001086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/317001088",
+        "ele": "218",
+        "gfoss_id": "49030",
+        "istat_id": "5400110010",
+        "name": "Santa Maria degli Angeli",
+        "place": "village",
+        "population": "8188",
+        "population:date": "2021-12-31",
+        "source:population": "Istat 2021 census",
+        "wikidata": "Q938802",
+        "wikimedia_commons": "Category:Santa Maria degli Angeli (Assisi)",
+        "wikipedia": "it:Santa Maria degli Angeli (Assisi)",
+        "wikipedia:en": "Santa Maria degli Angeli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5776896,
+          43.0579901
+        ]
+      },
+      "id": "node/317001088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/317001091",
+        "ele": "203",
+        "gfoss_id": "49036",
+        "istat_id": "5400120021",
+        "name": "Santa Maria della Spina",
+        "place": "hamlet",
+        "population": "109",
+        "population:date": "2021-12-31",
+        "source:population": "Istat 2021 census",
+        "wikidata": "Q18493889"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6130449,
+          43.0369022
+        ]
+      },
+      "id": "node/317001091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/317001095",
+        "ele": "204",
+        "gfoss_id": "49037",
+        "istat_id": "5400120013",
+        "name": "Tomba",
+        "place": "hamlet",
+        "population": "38",
+        "population:date": "2021-12-31",
+        "source:population": "Istat 2021 census",
+        "wikidata": "Q18494180"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5894276,
+          43.0397532
+        ]
+      },
+      "id": "node/317001095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/317001100",
+        "ele": "344",
+        "gfoss_id": "49015",
+        "istat_id": "5400110012",
+        "name": "Sterpeto",
+        "place": "hamlet",
+        "population": "60",
+        "population:date": "2021-12-31",
+        "source:population": "Istat 2021 census"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5530617,
+          43.1136299
+        ]
+      },
+      "id": "node/317001100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/317001102",
+        "ele": "269",
+        "gfoss_id": "49029",
+        "istat_id": "5400126715",
+        "name": "Valecchie",
+        "place": "hamlet",
+        "population": "14",
+        "population:date": "2021-12-31",
+        "source:population": "Istat 2021 census",
+        "wikidata": "Q18494296"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.606802,
+          43.0672167
+        ]
+      },
+      "id": "node/317001102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/317001105",
+        "ele": "255",
+        "gfoss_id": "49021",
+        "istat_id": "5400110015",
+        "name": "Tordibetto",
+        "place": "hamlet",
+        "population": "305",
+        "population:date": "2021-12-31",
+        "source:population": "Istat 2021 census",
+        "wikidata": "Q631368",
+        "wikipedia": "it:Tordibetto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5747179,
+          43.090594
+        ]
+      },
+      "id": "node/317001105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/317001107",
+        "ele": "190",
+        "gfoss_id": "49038",
+        "istat_id": "5400110014",
+        "name": "Tordandrea",
+        "place": "village",
+        "population": "898",
+        "population:date": "2021-12-31",
+        "source:population": "Istat 2021 census",
+        "wikidata": "Q2136555",
+        "wikipedia": "it:Tordandrea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.554718,
+          43.0350507
+        ]
+      },
+      "id": "node/317001107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/459485059",
+        "name": "Porziano",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6615505,
+          43.143878
+        ]
+      },
+      "id": "node/459485059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/652808636",
+        "ele": "212",
+        "gfoss_id": "49016",
+        "istat_id": "5400110007",
+        "name": "Petrignano",
+        "place": "village",
+        "population": "3306",
+        "population:date": "2021-12-31",
+        "source:population": "Istat 2021 census",
+        "wikidata": "Q775778",
+        "wikipedia": "it:Petrignano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5320797,
+          43.1034501
+        ]
+      },
+      "id": "node/652808636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2150518898",
+        "ele": "220",
+        "gfoss_id": "49014",
+        "istat_id": "5400110013",
+        "name": "Torchiagina",
+        "place": "village",
+        "population": "649",
+        "population:date": "2021-12-31",
+        "source:population": "Istat 2021 census",
+        "wikidata": "Q1877260",
+        "wikipedia": "it:Torchiagina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5365537,
+          43.1211904
+        ]
+      },
+      "id": "node/2150518898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2460188877",
+        "name": "Costa di Trex",
+        "place": "hamlet",
+        "wikidata": "Q3695356",
+        "wikipedia": "it:Costa di Trex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6643066,
+          43.0861702
+        ]
+      },
+      "id": "node/2460188877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3237620959",
+        "ele": "349",
+        "gfoss_id": "49013",
+        "istat_id": "5400120008",
+        "name": "Rocca Sant'Angelo",
+        "place": "hamlet",
+        "population": "23",
+        "population:date": "2021-12-31",
+        "source:population": "Istat 2021 census",
+        "wikidata": "Q3939411",
+        "wikipedia": "it:Rocca Sant'Angelo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5581471,
+          43.1262087
+        ]
+      },
+      "id": "node/3237620959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3617277688",
+        "ele": "672",
+        "gfoss_id": "49010",
+        "istat_id": "5400126612",
+        "name": "San Presto",
+        "place": "hamlet",
+        "population": "18",
+        "population:date": "2021-12-31",
+        "source:population": "Istat 2021 census"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6729251,
+          43.131119
+        ]
+      },
+      "id": "node/3617277688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3846406249",
+        "name": "Biagiano",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5957091,
+          43.0999618
+        ]
+      },
+      "id": "node/3846406249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3961816397",
+        "ele": "603",
+        "gfoss_id": "49011",
+        "istat_id": "5400126604",
+        "name": "Pieve San Nicolò",
+        "place": "hamlet",
+        "population": "19",
+        "population:date": "2021-12-31",
+        "source:population": "Istat 2021 census"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6182877,
+          43.1276049
+        ]
+      },
+      "id": "node/3961816397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3961816398",
+        "ele": "223",
+        "gfoss_id": "49012",
+        "istat_id": "5400126605",
+        "name": "Podere Casanova",
+        "place": "hamlet",
+        "population": "19",
+        "population:date": "2021-12-31",
+        "source:population": "Istat 2021 census"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5328608,
+          43.1289733
+        ]
+      },
+      "id": "node/3961816398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3961816399",
+        "ele": "279",
+        "gfoss_id": "49009",
+        "istat_id": "5400120010",
+        "name": "San Gregorio",
+        "place": "hamlet",
+        "population": "19",
+        "population:date": "2021-12-31",
+        "source:population": "Istat 2021 census",
+        "wikidata": "Q611379",
+        "wikipedia": "it:San Gregorio (Assisi)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5485341,
+          43.1365775
+        ]
+      },
+      "id": "node/3961816399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4132459324",
+        "name": "Mortaiolo",
+        "place": "locality"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.681197,
+          43.0498767
+        ]
+      },
+      "id": "node/4132459324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4132459325",
+        "name": "Mortaro Grande",
+        "place": "locality"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.680123,
+          43.048814
+        ]
+      },
+      "id": "node/4132459325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4132459326",
+        "name": "Mortaro delle Trosce",
+        "place": "locality"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.678948,
+          43.0554435
+        ]
+      },
+      "id": "node/4132459326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4748899697",
+        "name": "Ornello",
+        "place": "locality"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6834192,
+          43.0667516
+        ]
+      },
+      "id": "node/4748899697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4748899698",
+        "name": "Pianello",
+        "place": "locality"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6849315,
+          43.06921
+        ]
+      },
+      "id": "node/4748899698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4748899699",
+        "name": "Il Macchione",
+        "place": "locality"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6761116,
+          43.0699184
+        ]
+      },
+      "id": "node/4748899699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4748899700",
+        "name": "Prati di Pistello",
+        "place": "locality"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6631587,
+          43.0700702
+        ]
+      },
+      "id": "node/4748899700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4748899701",
+        "name": "Montarone",
+        "place": "locality"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6354289,
+          43.0724779
+        ]
+      },
+      "id": "node/4748899701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4748899702",
+        "name": "Le Piagge",
+        "place": "locality"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6890067,
+          43.0750247
+        ]
+      },
+      "id": "node/4748899702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4748899703",
+        "name": "Caritorna",
+        "place": "locality"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6956217,
+          43.072752
+        ]
+      },
+      "id": "node/4748899703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4748899704",
+        "name": "Colle Arale",
+        "place": "locality"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7044186,
+          43.0721743
+        ]
+      },
+      "id": "node/4748899704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4748899710",
+        "name": "Il Falcione",
+        "place": "locality"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7205232,
+          43.0806723
+        ]
+      },
+      "id": "node/4748899710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4748899713",
+        "name": "Le Ripe",
+        "place": "locality"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6675685,
+          43.0792195
+        ]
+      },
+      "id": "node/4748899713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4748916702",
+        "name": "Sant'Onofrio",
+        "place": "locality"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6547954,
+          43.0403828
+        ]
+      },
+      "id": "node/4748916702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4748916703",
+        "name": "Fossa Caroncia",
+        "place": "locality"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6395105,
+          43.0593053
+        ]
+      },
+      "id": "node/4748916703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4748916704",
+        "name": "Buco del Diavolo",
+        "place": "locality"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6531099,
+          43.0596427
+        ]
+      },
+      "id": "node/4748916704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4748916705",
+        "name": "Sasso Piano",
+        "place": "locality"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6574045,
+          43.0543791
+        ]
+      },
+      "id": "node/4748916705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4748916706",
+        "name": "Fossa Rotonda",
+        "place": "locality"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6744636,
+          43.0594843
+        ]
+      },
+      "id": "node/4748916706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4748916707",
+        "name": "Fossa Cieca",
+        "place": "locality"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6730191,
+          43.056212
+        ]
+      },
+      "id": "node/4748916707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4748916712",
+        "name": "Pezzole",
+        "place": "locality"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6994314,
+          43.0526442
+        ]
+      },
+      "id": "node/4748916712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4748916713",
+        "name": "le Banditelle",
+        "place": "locality"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6947097,
+          43.0596835
+        ]
+      },
+      "id": "node/4748916713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4748917454",
+        "name": "Sasso Rosso",
+        "place": "locality"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6678071,
+          43.0357239
+        ]
+      },
+      "id": "node/4748917454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4754545650",
+        "name": "Colli Selvalonga - Il Monte",
+        "place": "locality"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7178784,
+          43.1046083
+        ]
+      },
+      "id": "node/4754545650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4754553993",
+        "name": "Carabone",
+        "place": "locality"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6467165,
+          43.0572622
+        ]
+      },
+      "id": "node/4754553993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4754553994",
+        "name": "Tessenaie",
+        "place": "locality"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6549908,
+          43.0608896
+        ]
+      },
+      "id": "node/4754553994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4754553995",
+        "name": "Vallonica",
+        "place": "locality"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6581598,
+          43.0678609
+        ]
+      },
+      "id": "node/4754553995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4754553996",
+        "name": "Trabocco",
+        "place": "locality"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6347098,
+          43.0681953
+        ]
+      },
+      "id": "node/4754553996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4754564752",
+        "name": "La Bolsella",
+        "place": "locality"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6674211,
+          43.0371705
+        ]
+      },
+      "id": "node/4754564752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4754564753",
+        "name": "Piannome",
+        "place": "locality"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6664088,
+          43.0345454
+        ]
+      },
+      "id": "node/4754564753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4754564754",
+        "name": "Passo del Lupo",
+        "place": "locality"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6605992,
+          43.0332682
+        ]
+      },
+      "id": "node/4754564754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4754564755",
+        "name": "Sasso della Spina",
+        "place": "locality"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6625258,
+          43.0446289
+        ]
+      },
+      "id": "node/4754564755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4754564756",
+        "name": "Grellatoio",
+        "place": "locality"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6504487,
+          43.0525283
+        ]
+      },
+      "id": "node/4754564756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7797693657",
+        "name": "Gabbiano Vecchio",
+        "note": "Posizione e pianta degli edifici sono approssimative per via della vegetazione che li ha coperti quasi completamente",
+        "place": "locality"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6742203,
+          43.0296261
+        ]
+      },
+      "id": "node/7797693657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7797718958",
+        "name": "Gabbiano",
+        "place": "locality"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6635444,
+          43.0281807
+        ]
+      },
+      "id": "node/7797718958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7857876255",
+        "name": "Sasso Palombo",
+        "place": "locality"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.668098,
+          43.0266722
+        ]
+      },
+      "id": "node/7857876255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7857876258",
+        "name": "La Sedia del Papa",
+        "place": "locality"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6538715,
+          43.0426395
+        ]
+      },
+      "id": "node/7857876258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8964492912",
+        "name": "Le Carcerelle",
+        "place": "locality"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6392876,
+          43.0647968
+        ]
+      },
+      "id": "node/8964492912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8964492913",
+        "name": "Villa Crepas",
+        "place": "locality"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6398106,
+          43.0532793
+        ]
+      },
+      "id": "node/8964492913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8964515881",
+        "name": "Casa Tor Giovannetto",
+        "place": "locality"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6329763,
+          43.0768088
+        ]
+      },
+      "id": "node/8964515881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8969263066",
+        "alt_name": "Casa Caterinelli",
+        "name": "Casa Catarinelli",
+        "note": "Riportato come \"casa Caterinelli\" sulla cartografia IGM, ma sia il comune di Assisi sia gli attuali proprietari usano il nome \"Catarinelli\". Tutte le fonti ufficiali (IGM, comune di Assisi) concordano che è \"casa\" e non \"case\"",
+        "place": "locality"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6637796,
+          43.0888938
+        ]
+      },
+      "id": "node/8969263066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10126170852",
+        "alt_name": "Case Abbrigolante",
+        "name": "Case Brigolante",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6654998,
+          43.0957604
+        ]
+      },
+      "id": "node/10126170852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12112367343",
+        "ele": "208",
+        "istat_id": "5400126714",
+        "name": "Tombetta",
+        "place": "hamlet",
+        "population": "55",
+        "population:date": "2021-12-31",
+        "source:population": "Istat 2021 census",
+        "wikidata": "Q18494180"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5946128,
+          43.041324
+        ]
+      },
+      "id": "node/12112367343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12144602789",
+        "name": "Mora",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.575387,
+          43.1132881
+        ]
+      },
+      "id": "node/12144602789"
+    }
+  ]
+}

@@ -1,5 +1,7 @@
 # Assisi
 
+{% include muni_map.html %}
+
 ## Stato Civile
 
 * **Office contact:**
@@ -31,8 +33,13 @@
 
 ### Assisi (town)
 
+#### Parish of San Rufino
+
+A published book may be of interest for genealogical research: [*La parrocchia di S. Rufino in Assisi nel censimento pontificio del 1853*](https://www.amazon.it/parrocchia-Rufino-Assisi-censimento-pontificio/dp/B0DXX4W9TN) (Antonio Mencarelli, 2025). It presents the 1853 Pontifical census of the parish, preserved in the diocesan archive, and could contain demographic details.
+
+#### Other parishes in Assisi
+
 * **Santa Maria Maggiore**
-* **San Rufino**
 * **San Pietro**
 * **Santo Stefano**
 * **Santa Margherita**
