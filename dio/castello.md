@@ -1,4 +1,4 @@
-## Diocese of Città di Castello  
+# Diocese of Città di Castello  
 
 **Contact (archives):**  
 - Email: `archivio [at] diocesidicastelllo.it`  

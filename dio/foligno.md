@@ -1,4 +1,4 @@
-## Diocese of Foligno  
+# Diocese of Foligno  
 
 **Contact (archives):**  
 - Email: `archivio [at] diocesidifoligno.it`  

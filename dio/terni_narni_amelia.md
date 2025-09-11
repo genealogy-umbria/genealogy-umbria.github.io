@@ -1,10 +1,10 @@
-## Diocese of Terni–Narni–Amelia  
+# Diocese of Terni–Narni–Amelia  
 
 ⚠️ Note: online inventories may not fully reflect the complete holdings of the archives.
 
 ---
 
-#### Archivio storico diocesano di Terni  
+## Archivio storico diocesano di Terni  
 
 **Contact:**  
 - Email: `beni-culturali [at] libero.it`  
@@ -19,7 +19,7 @@ Via 11 Febbraio, 4 – 05100 Terni (TR)
 
 ---
 
-#### Archivio storico diocesano di Narni  
+## Archivio storico diocesano di Narni  
 
 **Contact:**  
 - Deposited at: Centro diocesano per la documentazione  
@@ -31,7 +31,7 @@ Via 11 Febbraio, 4 – 05100 Terni (TR)
 
 ---
 
-#### Archivio storico diocesano di Amelia  
+## Archivio storico diocesano di Amelia  
 
 **Contact:**  
 - Email: `info [at] diocesi.terninarniamelia.it`  

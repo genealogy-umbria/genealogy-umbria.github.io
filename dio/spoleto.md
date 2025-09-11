@@ -1,4 +1,4 @@
-## Archdiocese of Spoleto–Norcia  
+# Archdiocese of Spoleto–Norcia  
 
 ⚠️ Note: online inventories may not fully reflect the complete holdings of the archives.
 

@@ -1,4 +1,4 @@
-## Diocese of Gubbio  
+# Diocese of Gubbio  
 
 **Contact (archives):**  
 Email: `diocesi.biar [at] tiscali.it`  

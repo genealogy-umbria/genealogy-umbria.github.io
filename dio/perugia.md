@@ -1,8 +1,8 @@
-## Archdiocese of Perugia–Città della Pieve
+# Archdiocese of Perugia–Città della Pieve
 
 ⚠️ Note: online inventories may not fully reflect the complete holdings of the archives.
 
-### Archivio storico diocesano di Perugia  
+## Archivio storico diocesano di Perugia  
 
 **Contact (archives and libraries):**  
 - Email: `archivi-biblioteche [at] diocesi.perugia.it`  
@@ -17,7 +17,7 @@ Via dell’Aquila, 18 – 06122 Perugia (PG)
 
 ---
 
-### Archivio storico diocesano di Città della Pieve  
+## Archivio storico diocesano di Città della Pieve  
 
 **Contact (archives and libraries):**  
 - Email: `archivi-biblioteche [at] diocesi.perugia.it`  

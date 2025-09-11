@@ -1,8 +1,8 @@
-## Diocese of Orvieto–Todi  
+# Diocese of Orvieto–Todi  
 
 ⚠️ Note: online inventories may not fully reflect the complete holdings of the archives.
 
-### Archivio storico diocesano di Orvieto  
+## Archivio storico diocesano di Orvieto  
 
 **Contact:**  
 - Email: `archivio [at] diocesiorvietotodi.it`  
@@ -20,7 +20,7 @@ Allerona, Bolsena, Castel Giorgio, Castel Viscardo, Fabro, Ficulle, Montegabbion
 
 ---
 
-### Archivio storico diocesano di Todi  
+## Archivio storico diocesano di Todi  
 
 **Contact:**  
 - Email: `archivio.todi [at] diocesiorvietotodi.it`, `archiviodiocesano.todi [at] gmail.com`  
@@ -39,3 +39,9 @@ Guardea (Poggio), Marsciano (Ammeto), Massa Martana, Montecastello di Vibio, Mon
 **Holdings:**  
 - [SIUSA – Archivio storico diocesano di Todi](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=cons&Chiave=11376)  
 - [BeWeB entry](https://www.beweb.chiesacattolica.it/istituticulturali/istituto/2909/)  
+
+### Status animarum (1571–1761)
+
+Parish census records of the Diocese of Todi, including *stati delle anime*. The series (106 archival units) covers the cathedral parishes of Todi and numerous surrounding churches across the diocese.
+Held by [Diocesi di Orvieto – Todi. Archivio storico diocesano di Todi](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?ChiaveAlbero=303485&ApriNodo=0&TipoPag=comparc&Chiave=303485&ChiaveRadice=303383&RicProgetto=reg%2dumb&RicSez=complessi&RicTipoScheda=ca&RicPag=2&RicFrmRicSemplice=montecastrilli&RicVM=ricercasemplice).
+
