@@ -61,7 +61,7 @@ A published book may be of interest for genealogical research: [*La parrocchia d
 
 #### Parish of Natività di Maria Santissima in Armenzano di Assisi
 
-* Parish of Natività di Maria Santissima ([parish](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=337127)): 1913–1977 (held by Parish of San Lorenzo martire di Spello, Archivio storico diocesano di Foligno)
+* Parish of Natività di Maria Santissima ([parish](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=337127)): 1913–1977 (held by Archivio storico diocesano di Foligno)
 * Parish of Natività di Maria Santissima ([parish](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=337121)): 1913-2008 (held by Parish of Santa Maria Maggiore di Spello)
 
 ### Petrignano
