@@ -1,8 +1,10 @@
 # Military Districts Relevant to Umbria
 
-The *distretto militare* (military district) was the Italian state’s local military subdivision, primarily responsible for conscription, recruitment, and maintaining *ruoli matricolari* (enlistment registers). 
+The *distretto militare* (military district) was the Italian state’s local military subdivision, primarily responsible for conscription, recruitment, and maintaining *ruoli matricolari* (enlistment registers). These records are essential for genealogical research as they contain detailed information on men subject to military service.
 
-These records are essential for genealogical research as they contain detailed information on men subject to military service.
+Before unification, however, the situation was different. The Papal States, which governed Umbria until 1860, had **no system of conscription**. The only exception came under French rule (1810–1814), when Napoleon imposed conscription in the *Dipartimento del Trasimeno*.
+
+Only after the annexation of Umbria to the Kingdom of Italy in 1860 did conscription become systematic. To manage it, the government established military districts, whose borders shifted over time.
 
 <figure style="text-align:center;">
   <a href="img/Distretti_militari_confini_1883.jpg" target="_blank">
@@ -80,3 +82,4 @@ These records are essential for genealogical research as they contain detailed i
 ## Bonus Military Sources
 
 * [Atti mortuari di soldati negli eserciti napoleonici che per nascita appartennero al dipartimento del Trasimeno (1808–1814)](https://antenati.cultura.gov.it/ark:/12657/an_ua37808965/Lqy7W1q) – death records for men born in the Trasimeno department who died while serving in the Napoleonic armies.
+*  [Mémoire des hommes portal](https://www.memoiredeshommes.sga.defense.gouv.fr/recrutement-parcours-individuels/registres-denrolement-et-matricules/registres-de-controles-de-troupes-et-registres-matricules/faire-une-recherche-dans-les-annotations?arko_default_66ff99a94c655--ficheFocus=&arko_default_66ff99a94c655--filtreGroupes%5Bmode%5D=simple&arko_default_66ff99a94c655--filtreGroupes%5Bop%5D=AND&arko_default_66ff99a94c655--filtreGroupes%5Bgroupes%5D%5B0%5D%5Barko_default_66ffa3533e476%5D%5Bop%5D=AND&arko_default_66ff99a94c655--filtreGroupes%5Bgroupes%5D%5B0%5D%5Barko_default_66ffa3533e476%5D%5Bq%5D%5B%5D=trasimene&arko_default_66ff99a94c655--filtreGroupes%5Bgroupes%5D%5B0%5D%5Barko_default_66ffa3533e476%5D%5Bextras%5D%5Bmode%5D=input&arko_default_66ff99a94c655--from=0&arko_default_66ff99a94c655--resultSize=25&arko_default_66ff99a94c655--contenuIds%5B%5D=6618243&arko_default_66ff99a94c655--modeRestit=arko_default_66ffaec6d17bc) - Napoleonic-era enlistment records for Trasimène

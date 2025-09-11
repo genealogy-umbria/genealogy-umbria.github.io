@@ -44,7 +44,7 @@
 #### Parish of San Nicola
 
 * **Parish of San Nicola**: baptisms (1691–1812; 1 register) (held by [municipality](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=293181)) \
-  ⚠️ Note: some additional registers from San Nicola in Meana are held by the Comune di Ficulle.
+  ⚠️ Note: some additional registers from San Nicola in Meana are held by the Comune di [Ficulle](ficulle.md).
 
 ### Sant’Abbondio
 
