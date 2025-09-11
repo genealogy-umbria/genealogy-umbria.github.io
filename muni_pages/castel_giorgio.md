@@ -45,6 +45,15 @@
 
 ---
 
+## Military Records
+
+* **Liste di leva**: 1839–1942 (9 archival units) (held by [Comune di Castel Giorgio](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=303060&RicVM=ricercasemplice&RicProgetto=reg%2dumb&RicPag=2&RicFrmRicSemplice=Liste%20di%20leva&RicSez=complessi))
+* **Ruoli matricolari**: 1856–1942 (16 archival units) (held by [Comune di Castel Giorgio](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=303060&RicVM=ricercasemplice&RicProgetto=reg%2dumb&RicPag=2&RicFrmRicSemplice=Liste%20di%20leva&RicSez=complessi))
+
+⚠️ Additional material exists, including registers of the provincial contingent, nominative rolls of the territorial militia, variation lists, mobilization designations, war relief documentation, and records of war dead and orphans.
+
+---
+
 ## Border changes
 
 According to the [Atlante Storico Istituzionale dell’Italia unita](http://dati.san.beniculturali.it/asi/local/detail.html?UA05138):

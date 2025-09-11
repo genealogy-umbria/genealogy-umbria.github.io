@@ -44,6 +44,14 @@
 
 ---
 
+## Military Records
+
+* **Liste di leva**: 1839–1856 (1 archival unit; produced by Comune di Castel San Giovanni di Spoleto) (held by [Comune di Castel Ritaldi](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=322353&RicVM=ricercasemplice&RicFrmRicSemplice=Liste%20di%20leva&RicProgetto=reg%2dumb&RicSez=complessi))
+* **Liste di leva**: 1839–1914 (3 archival units) (held by [Comune di Castel Ritaldi](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=322154&RicVM=ricercasemplice&RicFrmRicSemplice=Liste%20di%20leva&RicProgetto=reg%2dumb&RicSez=complessi))
+* **Ruoli matricolari**: 1839–1922 (3 archival units) (held by [Comune di Castel Ritaldi](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=322154&RicVM=ricercasemplice&RicFrmRicSemplice=Liste%20di%20leva&RicProgetto=reg%2dumb&RicSez=complessi))
+
+---
+
 ## Border changes
 
 According to the [Atlante Storico Istituzionale dell’Italia unita](http://dati.san.beniculturali.it/asi/local/detail.html?UA05078):

@@ -165,6 +165,15 @@
 
 ---
 
+## Military Records
+
+* **Liste di leva**: (19th century–1960; 69 registers) (held by [Comune di Marsciano](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=310540&RicVM=ricercasemplice&RicProgetto=reg%2dumb&RicPag=2&RicFrmRicSemplice=Liste%20di%20leva&RicSez=complessi))
+* **Ruoli matricolari**: (19th century–1960; 105 registers) (held by [Comune di Marsciano](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=310540&RicVM=ricercasemplice&RicProgetto=reg%2dumb&RicPag=2&RicFrmRicSemplice=Liste%20di%20leva&RicSez=complessi))
+* **Territorial militia rolls**: (19th century–1870; 5 registers) (held by [Comune di Marsciano](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=310540&RicVM=ricercasemplice&RicProgetto=reg%2dumb&RicPag=2&RicFrmRicSemplice=Liste%20di%20leva&RicSez=complessi))
+* **Draft list formation files**: (1895–1953; 20 archival units) (held by [Comune di Marsciano](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=310540&RicVM=ricercasemplice&RicProgetto=reg%2dumb&RicPag=2&RicFrmRicSemplice=Liste%20di%20leva&RicSez=complessi))
+
+---
+
 ## Border changes
 
 According to the [Atlante Storico Istituzionale dell’Italia unita](http://dati.san.beniculturali.it/asi/local/), there have been no border changes or former municipalities merged into this municipality since 1861.

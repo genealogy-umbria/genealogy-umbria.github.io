@@ -80,6 +80,16 @@
 
 ---
 
+## Military Records
+
+* **Liste di leva**: 1870–1881 (1 register) (held by [Comune di Pietralunga](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=309578&RicVM=ricercasemplice&RicProgetto=reg%2dumb&RicPag=2&RicFrmRicSemplice=Liste%20di%20leva&RicSez=complessi))
+* **Liste di leva dei riformati**: 1874–1894 (1 register) (held by [Comune di Pietralunga](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=309578&RicVM=ricercasemplice&RicProgetto=reg%2dumb&RicPag=2&RicFrmRicSemplice=Liste%20di%20leva&RicSez=complessi))
+* **Lists of draft evaders**: 1890–1899 (1 envelope) (held by [Comune di Pietralunga](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=309578&RicVM=ricercasemplice&RicProgetto=reg%2dumb&RicPag=2&RicFrmRicSemplice=Liste%20di%20leva&RicSez=complessi))
+* **Personal files of soldiers not registered in the draft lists**: 1898–1952 (9 envelopes) (held by [Comune di Pietralunga](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=309578&RicVM=ricercasemplice&RicProgetto=reg%2dumb&RicPag=2&RicFrmRicSemplice=Liste%20di%20leva&RicSez=complessi))
+* **Ruoli matricolari**: 1861–1958 (26 registers, 1 envelope) (held by [Comune di Pietralunga](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=309578&RicVM=ricercasemplice&RicProgetto=reg%2dumb&RicPag=2&RicFrmRicSemplice=Liste%20di%20leva&RicSez=complessi))
+
+---
+
 ## Border changes
 
 According to the [Atlante Storico Istituzionale dell’Italia unita](http://dati.san.beniculturali.it/asi/local/), there have been no border changes or former municipalities merged into this municipality since 1861.

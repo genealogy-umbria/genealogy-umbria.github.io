@@ -51,6 +51,14 @@
 
 ---
 
+## Military Records
+
+* **Conscription lists:** (years not specified; number of registers not specified) (held by [Municipality of Fabro](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=266804&RicFrmRicSemplice=Liste%20di%20leva&RicLin=en&RicSez=complessi&RicProgetto=reg%2dumb&RicVM=ricercasemplice))
+* **Military draft rolls:** (years not specified; number of registers not specified) (held by [Municipality of Fabro](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=266804&RicFrmRicSemplice=Liste%20di%20leva&RicLin=en&RicSez=complessi&RicProgetto=reg%2dumb&RicVM=ricercasemplice))
+
+
+---
+
 ## Border changes
 
 According to the [Atlante Storico Istituzionale dell’Italia unita](http://dati.san.beniculturali.it/asi/local/detail.html?UA05140):

@@ -71,6 +71,15 @@
 
 ---
 
+## Military Records
+
+* **Liste di leva**: (undated; 122 registers) (held by [Comune di Cerreto di Spoleto. Archivio storico](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=330337&RicVM=ricercasemplice&RicProgetto=reg%2dumb&RicPag=2&RicFrmRicSemplice=Liste%20di%20leva&RicSez=complessi))
+* **Municipal draft rolls**: (1878–1937; 61 registers) (held by [Comune di Cerreto di Spoleto. Archivio storico](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=330337&RicVM=ricercasemplice&RicProgetto=reg%2dumb&RicPag=2&RicFrmRicSemplice=Liste%20di%20leva&RicSez=complessi))
+* **Draft list formation**: (1884–1951; 6 registers + 1 envelope) (held by [Comune di Cerreto di Spoleto. Archivio storico](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=330337&RicVM=ricercasemplice&RicProgetto=reg%2dumb&RicPag=2&RicFrmRicSemplice=Liste%20di%20leva&RicSez=complessi))
+* **Lists of draft evaders**: (1890–1891; 1 file) (held by [Comune di Cerreto di Spoleto. Archivio storico](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=330337&RicVM=ricercasemplice&RicProgetto=reg%2dumb&RicPag=2&RicFrmRicSemplice=Liste%20di%20leva&RicSez=complessi))
+
+---
+
 ## Border changes
 
 According to the [Atlante Storico Istituzionale dell’Italia unita](http://dati.san.beniculturali.it/asi/local/), there have been no border changes or former municipalities merged into this municipality since 1861.

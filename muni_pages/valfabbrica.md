@@ -48,6 +48,14 @@
 
 ---
 
+## Military Records
+
+* **Liste di leva**: 1861–1956 (held by [Comune di Valfabbrica](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=179091&RicVM=ricercasemplice&RicProgetto=reg%2dumb&RicPag=2&RicFrmRicSemplice=Liste%20di%20leva&RicSez=complessi))
+* **Municipal military rolls**: 1888–1936 (held by [Comune di Valfabbrica](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=179091&RicVM=ricercasemplice&RicProgetto=reg%2dumb&RicPag=2&RicFrmRicSemplice=Liste%20di%20leva&RicSez=complessi))
+* **Lists of those exempted from service**: 1915–1917 (held by [Comune di Valfabbrica](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=179091&RicVM=ricercasemplice&RicProgetto=reg%2dumb&RicPag=2&RicFrmRicSemplice=Liste%20di%20leva&RicSez=complessi))
+
+---
+
 ## Border changes
 
 According to the [Atlante Storico Istituzionale dell’Italia unita](http://dati.san.beniculturali.it/asi/local/detail.html?UA05127):

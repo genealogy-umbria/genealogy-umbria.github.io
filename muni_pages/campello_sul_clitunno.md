@@ -56,6 +56,13 @@
 
 ---
 
+## Military Records
+
+* **Preparatory lists of conscription**: (1880–1960; 57 registers) (held by [Comune di Campello sul Clitunno](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=362880&RicVM=ricercasemplice&RicProgetto=reg%2dumb&RicPag=2&RicFrmRicSemplice=Liste%20di%20leva&RicSez=complessi))
+* **Liste di leva**: (1861–1961; 103 registers) (held by [Comune di Campello sul Clitunno](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=362880&RicVM=ricercasemplice&RicProgetto=reg%2dumb&RicPag=2&RicFrmRicSemplice=Liste%20di%20leva&RicSez=complessi))
+
+---
+
 ## Border changes
 
 According to the [Atlante Storico Istituzionale dell’Italia unita](http://dati.san.beniculturali.it/asi/local/detail.html?UA05075):

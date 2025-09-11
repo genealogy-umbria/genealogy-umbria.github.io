@@ -39,6 +39,12 @@
 
 ---
 
+## Military Records
+
+* **Liste di leva:** (1861–1901; 2 archival units) (held by [Comune di Alviano](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=306529&RicVM=ricercasemplice&RicFrmRicSemplice=Liste%20di%20leva&RicProgetto=reg%2dumb&RicSez=complessi))
+
+---
+
 ## Border changes
 
 According to the [Atlante Storico Istituzionale dell’Italia unita](http://dati.san.beniculturali.it/asi/local/), there have been no border changes or former municipalities merged into this municipality since 1861.

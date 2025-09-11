@@ -1,5 +1,7 @@
 # Massa Martana
 
+{% include muni_map.html %}
+
 ## Stato Civile
 
 * **Office contact:**
@@ -13,19 +15,17 @@
 
   * **Italian civil records:** 1860–1998 (252 registers)
   * **Parish books:** 1641–1860 (34 registers)
-  * **French civil records:** none held
-
-* **Known holdings (State Archives):**
+  * **French civil records:** none listed
 
 * **Known holdings (State Archives):**
 
   * **Italian civil records:** Likely included in the *[Tribunale di Perugia series](http://dati.san.beniculturali.it/SAN/complarc_IT-AS-PG_san.cat.complArch.96907)* holdings at the State Archives of Perugia ([catalog entry](http://dati.san.beniculturali.it/SAN/complarc_IT-AS-PG_san.cat.complArch.96907)), since it falls within the Province of Perugia. The specific number of registers for this municipality is not known.
-  * **Parish books:** none held
-  * **French civil records:** none held
+  * **Parish books:** none listed
+  * **French civil records:** none listed
 
 * **Known holdings (Diocese / parishes):**
 
-  * none held
+  * none listed
 
 ---
 
@@ -60,6 +60,12 @@
 * **San Faustino**: marriages, deaths (1733–1860; 4 registers)
 
 ⚠️ No further parishes are listed for this municipality in the *[Statistica della popolazione dello Stato Pontificio dell’anno 1853](https://www.google.it/books/edition/Statistics_della_popolazione_dello_Stato/v6dCAQAAMAAJ)*.
+
+---
+
+## Military Records
+
+* **Liste di leva**: 1890–1945 (13 archival units; held by [Biblioteca e Archivio Storico, Massa Martana](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?ChiaveAlbero=304081&ApriNodo=0&TipoPag=comparc&Chiave=304084&ChiaveRadice=304081&RicVM=indice&RicLin=en&RicSez=fondi&RicTipoScheda=ca&RicProgetto=reg%2dumb))
 
 ---
 

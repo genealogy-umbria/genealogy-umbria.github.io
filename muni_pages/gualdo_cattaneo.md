@@ -80,6 +80,13 @@
 
 ---
 
+## Military Records
+
+* **Liste di leva, ruoli matricolari:** (1843–1907; 99 registers) (held by [Comune di Gualdo Cattaneo](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=604041&RicVM=ricercasemplice&RicFrmRicSemplice=Liste%20di%20leva&RicProgetto=reg%2dumb&RicSez=complessi))
+
+---
+
+
 ## Border changes
 
 According to the [Atlante Storico Istituzionale dell’Italia unita](http://dati.san.beniculturali.it/asi/local/detail.html?UA05092):

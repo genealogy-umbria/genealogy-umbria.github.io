@@ -7,7 +7,7 @@
   * Email (Stato Civile): `anagrafe [at] comune.umbertide.pg.it`
   * Email (Stato Civile, PEC): `comune.umbertide [at] postacert.umbria.it`
 
-⚠️ All records listed below are held by the *Comune di Umbertide. Biblioteca e archivio storico*.
+⚠️ All records listed below are held by the *Biblioteca e archivio storico, Umbertide*.
 
 * **Known holdings (Comune – [SIUSA](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=328360)):**
 
@@ -223,6 +223,15 @@
 ---
 
 ⚠️ No further parishes are listed for this municipality in the [Statistica della popolazione dello Stato Pontificio dell’anno 1853](https://www.google.it/books/edition/Statistics_della_popolazione_dello_Stato/v6dCAQAAMAAJ).
+
+---
+
+## Military Records
+
+* **Preparatory lists for the liste di leva:** (1890–1894; 1 register) (held by [Comune di Umbertide. Biblioteca e archivio storico](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=331188&RicVM=ricercasemplice&RicProgetto=reg%2dumb&RicPag=2&RicFrmRicSemplice=Liste%20di%20leva&RicSez=complessi))
+* **Liste di leva:** (1900–1944; 43 registers) (held by [Comune di Umbertide. Biblioteca e archivio storico](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=331188&RicVM=ricercasemplice&RicProgetto=reg%2dumb&RicPag=2&RicFrmRicSemplice=Liste%20di%20leva&RicSez=complessi))
+* **Personal files of conscripts, emigrants, and the deceased:** (1915–1955; 21 archival units) (held by [Comune di Umbertide. Biblioteca e archivio storico](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=331188&RicVM=ricercasemplice&RicProgetto=reg%2dumb&RicPag=2&RicFrmRicSemplice=Liste%20di%20leva&RicSez=complessi))
+* **Ruoli matricolari:** (1875–1937; 26 registers) (held by [Comune di Umbertide. Biblioteca e archivio storico](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=331188&RicVM=ricercasemplice&RicProgetto=reg%2dumb&RicPag=2&RicFrmRicSemplice=Liste%20di%20leva&RicSez=complessi))
 
 ---
 

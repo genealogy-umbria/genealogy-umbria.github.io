@@ -59,6 +59,12 @@
 
 ---
 
+## Military Records
+
+* **Conscription lists:** (1861–1917; 2 registers + 1 envelope) (held by [Comune di Giano dell'Umbria](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=280880&RicVM=ricercasemplice&RicFrmRicSemplice=Liste%20di%20leva&RicProgetto=reg%2dumb&RicSez=complessi))
+
+---
+
 ## Border changes
 
 According to the [Atlante Storico Istituzionale dell’Italia unita](http://dati.san.beniculturali.it/asi/local/detail.html?UA05091):

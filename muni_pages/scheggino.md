@@ -52,6 +52,17 @@
 
 ---
 
+## Military Records
+
+* **Liste di leva:** (1839–1859; 27 registers) (held by [Comune di Scheggino](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=275783&RicVM=ricercasemplice&RicProgetto=reg%2dumb&RicPag=2&RicFrmRicSemplice=Liste%20di%20leva&RicSez=complessi))
+* **Multi-year draft rolls:** (1839–1861; 3 registers) (held by [Comune di Scheggino](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=275783&RicVM=ricercasemplice&RicProgetto=reg%2dumb&RicPag=2&RicFrmRicSemplice=Liste%20di%20leva&RicSez=complessi))
+* **Nominal rolls of the territorial militia soldiers:** (1843–1859; 25 registers) (held by [Comune di Scheggino](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=275783&RicVM=ricercasemplice&RicProgetto=reg%2dumb&RicPag=2&RicFrmRicSemplice=Liste%20di%20leva&RicSez=complessi))
+* **Draft rolls:** (1850–1857; 5 registers) (held by [Comune di Scheggino](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=275783&RicVM=ricercasemplice&RicProgetto=reg%2dumb&RicPag=2&RicFrmRicSemplice=Liste%20di%20leva&RicSez=complessi))
+
+* **Liste di leva:** 1839–1856 (18 registers) (produced by Comune di Ceselli; held by [Comune di Scheggino](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=275786&RicVM=ricercasemplice&RicFrmRicSemplice=Liste%20di%20leva&RicProgetto=reg%2dumb&RicSez=complessi))
+
+---
+
 ## Border changes
 
 According to the [Atlante Storico Istituzionale dell’Italia unita](http://dati.san.beniculturali.it/asi/local/detail.html?UA05117):

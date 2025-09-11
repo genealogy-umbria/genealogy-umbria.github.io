@@ -43,6 +43,13 @@
 
 ---
 
+## Military Records
+
+* **Liste di leva:** (1921–1971; 3 envelopes) (held by [Comune di Cannara. Archivio storico](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=253477&RicVM=ricercasemplice&RicProgetto=reg%2dumb&RicPag=2&RicFrmRicSemplice=Liste%20di%20leva&RicSez=complessi))
+* **Military territorial service records and draft rolls / preparatory lists:** (1849–1923; 1 envelope + 5 registers) (held by [Comune di Cannara. Archivio storico](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=253477&RicVM=ricercasemplice&RicProgetto=reg%2dumb&RicPag=2&RicFrmRicSemplice=Liste%20di%20leva&RicSez=complessi))
+
+---
+
 ## Border changes
 
 According to the [Atlante Storico Istituzionale dell’Italia unita](http://dati.san.beniculturali.it/asi/local/detail.html?UA05076):

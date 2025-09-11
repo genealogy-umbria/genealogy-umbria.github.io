@@ -1,8 +1,28 @@
-# Military Districts Relevant to Umbria
+# Military records for Umbria
 
-The *distretto militare* (military district) was the Italian state’s local military subdivision, primarily responsible for conscription, recruitment, and maintaining *ruoli matricolari* (enlistment registers). These records are essential for genealogical research as they contain detailed information on men subject to military service.
+Military records are essential for genealogical research as they contain detailed information on men subject to military service.
 
 Before unification, however, the situation was different. The Papal States, which governed Umbria until 1860, had **no system of conscription**. The only exception came under French rule (1810–1814), when Napoleon imposed conscription in the *Dipartimento del Trasimeno*.
+
+## Liste di leva
+
+The *liste di leva* (draft lists) record all young men of a given birth class who were called for military service, whether or not they actually served. They usually record each man’s identifying details (name, parentage, birth data), basic physical description, literacy/occupation, and the outcome of the draft.
+
+They are preserved both by the local municipalities (*comuni*) and by the *archivi di Stato*. 
+
+* [Inventory of draft lists held by the state archive in Terni](docs/Inventario_liste_leva_AS_Terni.pdf) (PDF).
+
+---
+
+## Ruoli matricolari
+
+The *ruoli matricolari* (service registers) follow those men judged fit for service through their entire military career. They generally include full personal details along with a man’s entire military career — units served, campaigns, promotions, injuries, decorations, and discharge status.
+
+In Umbria, *ruoli matricolari* survive for the districts of Perugia, Spoleto, and Orvieto. Some have paper indexes digitized locally (Perugia and Spoleto) and others are available online (Orvieto/Viterbo).
+
+## Military districts
+
+The *distretto militare* (military district) was the Italian state’s local military subdivision, primarily responsible for conscription, recruitment, and maintaining *ruoli matricolari* (enlistment registers).
 
 Only after the annexation of Umbria to the Kingdom of Italy in 1860 did conscription become systematic. To manage it, the government established military districts, whose borders shifted over time.
 
@@ -18,7 +38,7 @@ Only after the annexation of Umbria to the Kingdom of Italy in 1860 did conscrip
 
 ---
 
-## Distretto militare di Perugia
+### Distretto militare di Perugia
 
 * **Archival reference:** [SAN catalog entry](http://san.beniculturali.it/web/san/dettaglio-complesso-documentario?step=dettaglio&codiSanCompl=san.cat.complArch.96259&id=96259)
 * **Repository:** Archivio di Stato di Perugia
@@ -33,7 +53,7 @@ Only after the annexation of Umbria to the Kingdom of Italy in 1860 did conscrip
 
 ---
 
-## Distretto militare di Spoleto
+### Distretto militare di Spoleto
 
 * **Archival reference:** [SAN catalog entry](http://san.beniculturali.it/web/san/dettaglio-complesso-documentario?step=dettaglio&codiSanCompl=san.cat.complArch.46377&id=46377)
 * **Repository:** Archivio di Stato di Perugia – Sezione di Spoleto
@@ -50,7 +70,7 @@ Only after the annexation of Umbria to the Kingdom of Italy in 1860 did conscrip
 
 ---
 
-## Distretto militare di Orvieto
+### Distretto militare di Orvieto
 
 * **Archival reference:** [SIAS catalog entry](https://sias-archivi.cultura.gov.it/cgi-bin/pagina.pl?TipoPag=comparc&Chiave=479703&RicSez=fondi&RicTipoScheda=ca&RicProgetto=as%2Dterni%2Dorvieto&RicVM=indice)
 * **Repository:** Archivio di Stato di Terni (Orvieto section until 1956; later transferred to Viterbo)
@@ -71,7 +91,7 @@ Only after the annexation of Umbria to the Kingdom of Italy in 1860 did conscrip
   * *Ruoli matricolari Viterbo-Orvieto* (1850–1915)
 
 
-## Summary Tables for Territorial Changes
+### Summary Tables for Territorial Changes
 
 ![alt text](img/Legge_22_marzo_1877,_n._3750.png "1877")
 

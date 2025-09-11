@@ -118,6 +118,20 @@
 
 ---
 
+## Military Records
+
+* **Conscription lists:** 1839–1945 (96 registers) (held by [Comune di Gubbio](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?ChiaveAlbero=306687&ApriNodo=0&TipoPag=comparc&Chiave=306687&ChiaveRadice=306630&RicProgetto=reg-umb&RicTipoScheda=ca&RicSez=complessi&RicVM=ricercasemplice&RicLin=en))
+* **Military rolls:** 1855–1945 (104 registers) (held by [Comune di Gubbio](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?ChiaveAlbero=306687&ApriNodo=0&TipoPag=comparc&Chiave=306687&ChiaveRadice=306630&RicProgetto=reg-umb&RicTipoScheda=ca&RicSez=complessi&RicVM=ricercasemplice&RicLin=en))
+* **Nominative rolls:** 1850–1870 (41 registers) (held by [Comune di Gubbio](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?ChiaveAlbero=306687&ApriNodo=0&TipoPag=comparc&Chiave=306687&ChiaveRadice=306630&RicProgetto=reg-umb&RicTipoScheda=ca&RicSez=complessi&RicVM=ricercasemplice&RicLin=en))
+* **Preliminary lists for conscription registration:** 1839–1894 (38 registers) (held by [Comune di Gubbio](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?ChiaveAlbero=306687&ApriNodo=0&TipoPag=comparc&Chiave=306687&ChiaveRadice=306630&RicProgetto=reg-umb&RicTipoScheda=ca&RicSez=complessi&RicVM=ricercasemplice&RicLin=en))
+* **Draft lottery lists:** 1853–1885 (25 registers) (held by [Comune di Gubbio](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?ChiaveAlbero=306687&ApriNodo=0&TipoPag=comparc&Chiave=306687&ChiaveRadice=306630&RicProgetto=reg-umb&RicTipoScheda=ca&RicSez=complessi&RicVM=ricercasemplice&RicLin=en))
+* **Lists of those declared unfit for service:** 1874–1917 (11 registers) (held by [Comune di Gubbio](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?ChiaveAlbero=306687&ApriNodo=0&TipoPag=comparc&Chiave=306687&ChiaveRadice=306630&RicProgetto=reg-umb&RicTipoScheda=ca&RicSez=complessi&RicVM=ricercasemplice&RicLin=en))
+* **Conscription journals:** 1855–1859 (5 registers) (held by [Comune di Gubbio](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?ChiaveAlbero=306687&ApriNodo=0&TipoPag=comparc&Chiave=306687&ChiaveRadice=306630&RicProgetto=reg-umb&RicTipoScheda=ca&RicSez=complessi&RicVM=ricercasemplice&RicLin=en))
+* **Matriculation registers:** 1843–1854 (2 registers) (held by [Comune di Gubbio](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?ChiaveAlbero=306687&ApriNodo=0&TipoPag=comparc&Chiave=306687&ChiaveRadice=306630&RicProgetto=reg-umb&RicTipoScheda=ca&RicSez=complessi&RicVM=ricercasemplice&RicLin=en))
+* **Registers of draft evaders:** 1848–1960 (2 registers) (held by [Comune di Gubbio](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?ChiaveAlbero=306687&ApriNodo=0&TipoPag=comparc&Chiave=306687&ChiaveRadice=306630&RicProgetto=reg-umb&RicTipoScheda=ca&RicSez=complessi&RicVM=ricercasemplice&RicLin=en))
+
+---
+
 ## Border changes
 
 According to the [Atlante Storico Istituzionale dell’Italia unita](http://dati.san.beniculturali.it/asi/local/detail.html?UA05094):

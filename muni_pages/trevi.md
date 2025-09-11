@@ -119,6 +119,12 @@
 
 ---
 
+## Military Records
+
+* **Draft lists:** 1862–1946 (12 archival units; 6 registers, 6 envelopes) (held by Municipality of Trevi [SIUSA](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=207668&RicLin=en&RicSez=complessi&RicProgetto=reg-umb&RicVM=ricercasemplice))
+
+---
+
 ## Border changes
 
 According to the [Atlante Storico Istituzionale dell’Italia unita](http://dati.san.beniculturali.it/asi/local/detail.html?UA05124):

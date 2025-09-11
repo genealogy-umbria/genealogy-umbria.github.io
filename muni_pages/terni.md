@@ -116,6 +116,24 @@
 
 ---
 
+## Military Records
+
+### Collescipoli
+
+* **Conscription lists of young men (Collescipoli):** (1839–1861; 23 registers) (held by [Comune di Terni](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=249259&RicVM=ricercasemplice&RicFrmRicSemplice=Liste%20di%20leva&RicProgetto=reg%2dumb&RicSez=complessi))
+* **Liste di leva:** (1861–1907; 6 registers; former municipality of Collescipoli) (held by [Comune di Terni](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=249243&RicVM=ricercasemplice&RicFrmRicSemplice=Liste%20di%20leva&RicProgetto=reg%2dumb&RicSez=complessi))
+* **Ruoli matricolari:** (mid-19th century – early 20th century; 45 registers; former municipality of Collescipoli) (held by [Comune di Terni](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=249243&RicVM=ricercasemplice&RicFrmRicSemplice=Liste%20di%20leva&RicProgetto=reg%2dumb&RicSez=complessi))
+
+### Collestatte
+
+* **Liste di leva**: (year not specified; number of registers not specified) (produced by Comune di Collestatte; held by [Comune di Terni](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=249102&RicVM=ricercasemplice&RicProgetto=reg%2dumb&RicPag=2&RicFrmRicSemplice=Liste%20di%20leva&RicSez=complessi))
+* **Ruoli matricolari**: (year not specified; number of registers not specified) (produced by Comune di Collestatte; held by [Comune di Terni](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=249102&RicVM=ricercasemplice&RicProgetto=reg%2dumb&RicPag=2&RicFrmRicSemplice=Liste%20di%20leva&RicSez=complessi))
+* **Lists of the exempted**: (year not specified; number of registers not specified) (produced by Comune di Collestatte; held by [Comune di Terni](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=249102&RicVM=ricercasemplice&RicProgetto=reg%2dumb&RicPag=2&RicFrmRicSemplice=Liste%20di%20leva&RicSez=complessi))
+
+---
+
+
+
 ## Border changes
 
 According to the [Atlante Storico Istituzionale dell’Italia unita](http://dati.san.beniculturali.it/asi/local/detail.html?UA05161):

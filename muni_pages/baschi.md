@@ -83,6 +83,13 @@
 
 ---
 
+## Military Records
+
+* **Register of wardens and soldiers of the Brigade of Baschi**: 1799–1852 (2 archival units) (held by [Comune di Baschi](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=303006&RicVM=ricercasemplice&RicFrmRicSemplice=Liste%20di%20leva&RicProgetto=reg%2dumb&RicSez=complessi))
+* **Liste di leva for the Civic Guard**: 1847 (1 archival unit) (held by [Comune di Baschi](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=303006&RicVM=ricercasemplice&RicFrmRicSemplice=Liste%20di%20leva&RicProgetto=reg%2dumb&RicSez=complessi))
+
+---
+
 ## Border changes
 
 According to the [Atlante Storico Istituzionale dell’Italia unita](http://dati.san.beniculturali.it/asi/local/detail.html?UA05136):
