@@ -1,6 +1,6 @@
 # Fabro
 
-{% include muni\_map.html %}
+{% include muni_map.html %}
 
 ## Stato Civile
 
