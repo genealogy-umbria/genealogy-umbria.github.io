@@ -1,0 +1,92 @@
+# Castel Giorgio
+
+{% include muni_map.html %}
+
+## Stato Civile
+
+* **Office contact:**
+
+  * Email (Stato Civile): `ufficidemografici [at] comune.castelgiorgio.tr.it`
+  * Email (Stato Civile, PEC): `comune.castelgiorgio [at] postacert.umbria.it`
+
+* **Known holdings (Comune – [SIUSA](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=261880)):**
+
+  * **Italian civil records:** 1860–1965 (383 registers; births, marriages, deaths, cittadinanze)
+  * **Parish books:** 1735–1861 (11 registers; baptisms, marriages, deaths)
+  * **French civil records:** none listed
+
+* **Known holdings (State Archives):**
+
+  * **Italian civil records:** none listed
+  * **Parish books:** none listed
+  * **French civil records:** none listed
+
+* **Known holdings (Diocese / parishes):**
+
+  * none listed
+
+---
+
+## Parishes and Frazioni
+
+### Castel Giorgio (main town)
+
+#### Parish of San Pancrazio
+
+* **Parish of San Pancrazio**: baptisms, marriages, deaths (1735–1861; 5 registers) (held by Comune di Castel Giorgio [SIUSA](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=261880))
+
+### Benano
+
+#### Parish of Santi Pietro e Paolo
+
+* **Parish of Santi Pietro e Paolo**: baptisms, marriages, deaths (1756–1861; 6 registers) (held by Comune di Castel Giorgio [SIUSA](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=261880))
+
+⚠️ No further parishes are listed for this municipality in the *[Statistica della popolazione dello Stato Pontificio dell’anno 1853](https://www.google.it/books/edition/Statistics_della_popolazione_dello_Stato/v6dCAQAAMAAJ)*.
+
+---
+
+## Border changes
+
+According to the [Atlante Storico Istituzionale dell’Italia unita](http://dati.san.beniculturali.it/asi/local/detail.html?UA05138):
+
+* 1937 — Territorial exchange with the municipality of Orvieto
+
+---
+
+## Digitized Records
+
+* **FamilySearch:** The catalog shows several series for the Comune, including:
+
+  * Nati: 1861–1885, 1886–1910
+  * Matrimoni: 1861–1905, 1906–1910
+  * Morti: 1861–1893, 1894–1910
+  * Pubblicazioni di matrimonio: 1866–1906, 1907–1910
+  * Cittadinanze: 1866–1910
+  * Indice dei morti: 1875
+
+  See [FamilySearch catalog entry](https://www.familysearch.org/en/search/catalog/652276).
+
+* **Portale Antenati:** none available for this municipality.
+
+* **ItalianParishRecords.org:** none available for this municipality.
+
+---
+
+## Brogliardi
+
+The *brogliardi* for this municipality are available through the [Archivio di Stato di Roma’s digital portal](https://imagoarchiviodistatoroma.cultura.gov.it/Gregoriano/s_brogliardi.php?Provincia=Viterbo&Denominazione=Castel%20Giorgio).
+
+⚠️ Coverage includes the *immediate town* only. The brogliardi for frazioni and outlying areas exist but have not yet been digitized.
+
+---
+
+## Additional Notes
+
+* None.
+
+---
+
+## References
+
+* [SIUSA – Comune di Castel Giorgio](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=261880)
+* [FamilySearch Catalog – Castel Giorgio](https://www.familysearch.org/en/search/catalog/652276)
