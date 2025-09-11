@@ -64,12 +64,21 @@
 	  padding: 1em;
 	}
 
-    /* Image fix */
-    img {
-      max-width: 90%;
+	/* keep centering for all content images (no tags needed) */
+	img {
+	  max-width: 90%;
 	  max-height: 60vh;
-      display: block;
-    }
+	  display: block;
+	  margin: 1em auto;
+	}
+
+	/* but explicitly exclude any images inside the map so Leaflet tiles/markers are untouched */
+	.muni-map-wrapper img,
+	.leaflet-container img {
+	  margin: 0;
+	  max-width: none;
+	  max-height: none;
+	}
   </style>
 </head>
 <body>
