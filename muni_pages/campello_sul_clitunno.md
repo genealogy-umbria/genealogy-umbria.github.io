@@ -1,5 +1,13 @@
 # Campello sul Clitunno
 
+{% include muni_map.html %}
+
+## Jurisdictions
+
+* **Diocese (modern):** [Spoleto–Norcia](../dio/spoleto.md) ([CEI](https://www.chiesacattolica.it/annuario-cei/ricerca-parrocchie/))
+* **Tribunale:** Spoleto (1892 and 1989) ([1892](https://www.google.it/books/edition/Bollettino_ufficiale_del_Ministero_di_gr/kRXd4t5fK-0C?hl=en&gbpv=1&pg=PA457&printsec=frontcover), [1989](https://www.google.it/books/edition/Gazzetta_ufficiale_della_Repubblica_ital/-Z6nogg-qMQC?hl=en&gbpv=1&pg=RA8-PA38&printsec=frontcover))
+* **Military district:** [Perugia](../mil/perugia.md) (1870–1877), [Spoleto](../mil/spoleto.md) (1877–)
+
 ## Stato Civile
 
 * **Office contact:**
@@ -10,17 +18,17 @@
 
   * **Italian civil records:** 1860–1975 (187 units: 184 registers, 3 envelopes)
   * **Parish books:** 1579–1869 (30 registers)
-  * **French civil records:** none held
+  * **French civil records:** none listed
 
 * **Known holdings (State Archives):**
 
-  * **Italian civil records:** none held
-  * **Parish books:** none held
-  * **French civil records:** none held
+  * **Italian civil records:** none listed
+  * **Parish books:** none listed
+  * **French civil records:** none listed
 
 * **Known holdings (Diocese / parishes):**
 
-  * none held
+  * none listed
 
 ---
 

@@ -5,7 +5,7 @@
 ⚠️ **Important Notice**
 
 This municipality charges a **€300 administrative fee per record** for civil status certificates older than 100 years. 
-[View official resolution)](https://comune.sangemini.tr.it/documenti/3368007/domande-riconoscimento-cittadinanza-italiana)
+([View official resolution)](https://comune.sangemini.tr.it/documenti/3368007/domande-riconoscimento-cittadinanza-italiana)
 
 ---
 
@@ -13,7 +13,7 @@ This municipality charges a **€300 administrative fee per record** for civil s
 
 * **Office contact:**
 
-  * Email (Stato Civile): `servizi_generali [at] comune.sangemini.tr.it`
+  * Email (Area Demografica e Affari Generali): `servizi_generali [at] comune.sangemini.tr.it`
   * Email (Biblioteca e archivio storico): `biblioteca [at] comune.sangemini.tr.it`
   
 * **Known holdings (Comune – [SIUSA](https://siusa-archivi.cultura.gov.it/cgi-bin/pagina.pl?TipoPag=comparc&Chiave=293285)):**

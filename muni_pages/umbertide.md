@@ -2,6 +2,15 @@
 
 {% include muni_map.html %}
 
+## Jurisdictions
+
+* Diocese situation for Umbertide ([CEI](https://www.chiesacattolica.it/annuario-cei/ricerca-parrocchie/)):
+  * **[Gubbio](../dio/gubbio.md)**: Cristo Risorto (Umbertide), S. Giovanni Battista (Umbertide), S. Maria (Umbertide)
+  * **[Città di Castello](../dio/castello.md)**: Maria SS. del Carmine (Umbertide), S. Giovanni Battista (Calzolaro), S. Pietro (Montecastelli), S. Pietro (Nestoro)
+  * **[Perugia–Città della Pieve](../dio/perugia.md)**: S. Paterniano (Umbertide), S. Pietro (Romeggio), S. Salvatore (Badia Montecorona), SS. Trinità (Umbertide)
+* **Tribunale:** Perugia (1892 and 1989) ([1892](https://www.google.it/books/edition/Bollettino_ufficiale_del_Ministero_di_gr/kRXd4t5fK-0C?hl=en&gbpv=1&pg=PA457&printsec=frontcover), [1989](https://www.google.it/books/edition/Gazzetta_ufficiale_della_Repubblica_ital/-Z6nogg-qMQC?hl=en&gbpv=1&pg=RA8-PA38&printsec=frontcover))
+* **Military district:** [Perugia](../mil/perugia.md) (1870–)
+
 ## Stato Civile
 
 * **Office contact:**

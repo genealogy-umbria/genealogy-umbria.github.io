@@ -11,6 +11,12 @@ This municipality charges a **€200–€300 administrative fee per record** fo
 
 {% include muni_map.html %}
 
+## Jurisdictions
+
+* **Diocese (modern):** [Assisi–Nocera Umbra–Gualdo Tadino](../dio/assisi.md) ([CEI](https://www.chiesacattolica.it/annuario-cei/ricerca-parrocchie/))
+* **Tribunale:** Perugia (1892 and 1989) ([1892](https://www.google.it/books/edition/Bollettino_ufficiale_del_Ministero_di_gr/kRXd4t5fK-0C?hl=en&gbpv=1&pg=PA457&printsec=frontcover), [1989](https://www.google.it/books/edition/Gazzetta_ufficiale_della_Repubblica_ital/-Z6nogg-qMQC?hl=en&gbpv=1&pg=RA8-PA38&printsec=frontcover))
+* **Military district:** [Perugia](../mil/perugia.md) (1870–1877), [Spoleto](../mil/spoleto.md) (1877–)
+
 ## Stato Civile
 
 * **Office contact:**

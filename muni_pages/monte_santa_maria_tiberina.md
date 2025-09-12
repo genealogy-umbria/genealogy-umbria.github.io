@@ -2,6 +2,12 @@
 
 {% include muni_map.html %}
 
+## Jurisdictions
+
+* **Diocese (modern):** [Città di Castello](../dio/castello.md) ([CEI](https://www.chiesacattolica.it/annuario-cei/ricerca-parrocchie/))
+* **Tribunale:** Arezzo (1892), Perugia (1989) ([1892](https://www.google.it/books/edition/Bollettino_ufficiale_del_Ministero_di_gr/kRXd4t5fK-0C?hl=en&gbpv=1&pg=PA457&printsec=frontcover), [1989](https://www.google.it/books/edition/Gazzetta_ufficiale_della_Repubblica_ital/-Z6nogg-qMQC?hl=en&gbpv=1&pg=RA8-PA38&printsec=frontcover))
+* **Military district:** Arezzo (–1927), [Perugia](../mil/perugia.md) (1927–)
+
 ## Stato Civile
 
 * **Office contact:**
@@ -11,7 +17,7 @@
 * **Known holdings (Comune – [SIUSA](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=307193)):**
 
   * **Italian civil records:** 1864–1981 (522 registries, 13 envelopes).
-    ⚠️ The Comune was part of the Grand Duchy of Tuscany in 1860 and not affected by parish register transfers. \
+    ⚠️ The Comune was part of the [Grand Duchy of Tuscany](https://en.wikipedia.org/wiki/Grand_Duchy_of_Tuscany) in 1860 and not affected by parish register transfers. \
 	SIUSA notes earlier records “from 1800” are also present.
   * **Parish books:** none held
   * **French civil records:** none held

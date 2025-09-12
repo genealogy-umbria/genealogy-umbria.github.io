@@ -5,18 +5,26 @@
 ⚠️ **Important Notice**
 
 This municipality charges a **€150–€300 administrative fee per record** for civil status certificates older than 100 years. 
-[View official resolution)](https://www.comune.todi.pg.it/it/news/contributo-richiesta-di-riconoscimento-della-cittadinanza-italiana-iure-sanguinis-e-richieste-di-certificati-o-di-estratti-di-stato-civile-formati-da-oltre-un-secolo)
+([View official resolution)](https://www.comune.todi.pg.it/it/news/contributo-richiesta-di-riconoscimento-della-cittadinanza-italiana-iure-sanguinis-e-richieste-di-certificati-o-di-estratti-di-stato-civile-formati-da-oltre-un-secolo)
+
+That said, a request for an **uncertified** record from the municipality’s *Archivio Storico* was fulfilled free of charge.
 
 ---
 
 {% include muni_map.html %}
+
+## Jurisdictions
+
+* **Diocese (modern):** [Orvieto–Todi](../dio/orvieto_todi.md) ([CEI](https://www.chiesacattolica.it/annuario-cei/ricerca-parrocchie/))
+* **Tribunale:** Perugia (1892 and 1989) ([1892](https://www.google.it/books/edition/Bollettino_ufficiale_del_Ministero_di_gr/kRXd4t5fK-0C?hl=en&gbpv=1&pg=PA457&printsec=frontcover), [1989](https://www.google.it/books/edition/Gazzetta_ufficiale_della_Repubblica_ital/-Z6nogg-qMQC?hl=en&gbpv=1&pg=RA8-PA38&printsec=frontcover))
+* **Military district:** [Perugia](../mil/perugia.md) (1870–)
 
 ## Stato Civile
 
 * **Office contact:**
 
   * Email (Stato Civile): `stato.civile [at] comune.todi.pg.it`
-  * For older registers (pre-1884): Archivio storico, `archivio.storico [at] comune.todi.pg.it`
+  * For older registers (pre-1884): Archivio Storico, `archivio.storico [at] comune.todi.pg.it`
 
 ⚠️ All records listed below are held by the *Archivio Storico del Comune di Todi*.
 
@@ -28,8 +36,8 @@ This municipality charges a **€150–€300 administrative fee per record** fo
 
 * **Known holdings (State Archives, Perugia):**
 
-  * **Italian civil records:** The State Archives of Perugia list a very large series of civil registers, described as 12,610 *units* covering the years 1861–1899 (see [SAN catalog entry](http://dati.san.beniculturali.it/SAN/complarc_IT-AS-PG_san.cat.complArch.96907)).
-    It is not entirely clear whether these holdings include registers from this municipality specifically. Since they are catalogued as part of the *Tribunale di Perugia* holdings, the working assumption is that they relate to the wider *[Circondario di Perugia](https://it.wikipedia.org/wiki/Circondario_di_Perugia)*, of which this municipality formed part.
+  * **Italian civil records:** Municipality likely included in the *[Tribunale di Perugia](http://dati.san.beniculturali.it/SAN/complarc_IT-AS-PG_san.cat.complArch.96907)* holdings at the State Archives of Perugia since it falls within its jurisdiction. The number of registers for this municipality is not known.
+
   * **Parish books:** none held for this municipality
   * **French civil records:** none held for this municipality
 
@@ -52,6 +60,9 @@ The SIUSA description identifies a rich set of parish registers under the custod
 * **Santa Maria Annunziata**: baptisms (1765–1860), marriages (1707–1860), deaths (1694–1860)
 * **Santa Prassede**: marriages (1658–1860), deaths (1658–1860)
 * **San Quirico**: marriages–deaths (1669–1860)
+* **San Salvatore**: marriages (1644–1838), deaths (1644–1860)
+* **Santissimo Crocefisso**: marriages (1804–1860), deaths (1785–1860)
+* **Cappella del Brefotrofio**: baptisms (1771–1860), marriages (1708–1860), deaths (1794–1860)
 
 ### Asproli
 

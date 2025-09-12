@@ -114,7 +114,7 @@ This resource is organized to reflect the actual institutions and jurisdictions 
 * **[Dioceses of Umbria](dioceses.md)**
   A section on the diocesan archives. In Umbria, most parish registers were transferred to the municipalities together with the civil status registers and are kept there today. However, some dioceses still retain parts of these records, and in rare cases the diocesan archive holds the entire set for a municipality.
 
-* **[Tribunali](tribunali.md)**
+* **[Tribunali](misc_sources/tribunali.md)**
   A section on the courts active in Umbria during the relevant periods. All courts held copies of civil records. This section will map their jurisdictions and survival of documentation.
 
 * **[Military Subdivisions](military_divs.md)**
