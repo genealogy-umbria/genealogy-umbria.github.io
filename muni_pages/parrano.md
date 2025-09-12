@@ -41,6 +41,14 @@
 
 * **Parish of Sant’Erasmo martire**: marriages (1815–1861; 1 register), deaths (1813–1861; 1 register) (held by [Comune di Parrano](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=308303))
 
+### Fratta Guida
+
+*Formerly part of [Montegabbione](montegabbione.md).*
+
+#### Parish of San Cristoforo
+
+* **Parish of San Cristoforo**: marriages (1804–1860; 1 register) (held by [Comune di Montegabbione](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=304172))
+
 ⚠️ No further parishes are listed for this municipality in the *[Statistica della popolazione dello Stato Pontificio dell’anno 1853](https://www.google.it/books/edition/Statistics_della_popolazione_dello_Stato/v6dCAQAAMAAJ)*.
 
 ---
@@ -55,7 +63,7 @@ none listed.
 
 According to the [Atlante Storico Istituzionale dell’Italia unita](http://dati.san.beniculturali.it/asi/local/detail.html?UA05154):
 
-* 1928 — Frazione Frattaguida detached from Montegabbione and aggregated to Parrano
+* 1928 — Frattaguida detached from [Montegabbione](montegabbione.md) and aggregated to Parrano
 
 ---
 

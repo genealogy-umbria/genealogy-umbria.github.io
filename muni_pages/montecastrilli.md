@@ -1,5 +1,14 @@
 # Montecastrilli
 
+---
+
+⚠️ **Important Notice**
+
+This municipality charges a **€280–€300 administrative fee per record** for civil status certificates older than 100 years. 
+[View official resolution (Delibera n. 17, 20/02/2025)](https://halleyweb.com/c055017/de/attachment.php?serialDocumento=00P7VF020252K)
+
+---
+
 {% include muni_map.html %}
 
 ## Stato Civile

@@ -43,9 +43,7 @@
 
 ### Fratta Guida
 
-#### Parish of San Cristoforo
-
-* **Parish of San Cristoforo**: marriages (1804–1860; 1 register) (held by [Comune di Montegabbione](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=304172))
+*Now part of [Parrano](parrano.md).*
 
 ### Montegiove
 
