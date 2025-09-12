@@ -30,39 +30,41 @@
 
 ### San Venanzo
 
-* **San Venanzo**: baptisms, marriages, deaths (1648–1870; 8 registers)
+* **San Venanzo**: baptisms, marriages, deaths (1648–1870; 8 registers) (held by municipality)
 
 ### Civitella dei Conti
 
-* **San Michele Arcangelo**: baptisms, marriages, deaths (1573–1860; 6 registers)
+* **San Michele Arcangelo**: baptisms, marriages, deaths (1573–1860; 6 registers) (held by municipality)
 
 ### Collelungo
 
-* **San Matteo Apostolo**: baptisms, marriages, deaths (1680–1870; 8 registers)
+* **San Matteo Apostolo**: baptisms, marriages, deaths (1680–1870; 8 registers) (held by municipality)
 
 ### Palazzo Bovarino
 
-* **San Lorenzo**: baptisms, marriages, deaths (1787–1869; 5 registers)
+* **San Lorenzo**: baptisms, marriages, deaths (1787–1869; 5 registers) (held by municipality)
+* Additional parish books for this location are listed ([Archivio di Stato di Terni – Sezione di Orvieto](https://sias-archivi.cultura.gov.it/cgi-bin/pagina.pl?TipoPag=comparc&Chiave=479721&RicProgetto=as-terni-orvieto))
 
 ### Poggio Aquilone
 
-* **Sant’Egidio**: baptisms, deaths (1694–1861; 4 registers)
+* **Sant’Egidio**: baptisms, deaths (1694–1861; 4 registers) (held by municipality)
 
 ### Pornello
 
-* **San Donato**: baptisms (1797–1861; 1 register), deaths (1798–1861; 1 register)
+* **San Donato**: baptisms (1797–1861; 1 register), deaths (1798–1861; 1 register) (held by municipality)
+* **San Donato**: baptisms (1756–1798; 1 register) (held by Archivio di Stato di Terni – Sezione di Orvieto; see [Portale Antenati](https://antenati.cultura.gov.it/ark:/12657/an_ua37841793/))
 
 ### Ripalvella
 
-* **San Silvestro e Sant’Egidio**: baptisms, deaths (1654–1860; 7 registers)
+* **San Silvestro e Sant’Egidio**: baptisms, deaths (1654–1860; 7 registers) (held by municipality)
 
 ### Rotecastello
 
-* **San Michele Arcangelo**: baptisms, marriages, deaths (1676–1860; 10 registers)
+* **San Michele Arcangelo**: baptisms, marriages, deaths (1676–1860; 10 registers) (held by municipality)
 
 ### San Vito in Monte
 
-* **San Vito**: baptisms, deaths (1723–1860; 3 registers)
+* **San Vito**: baptisms, deaths (1723–1860; 3 registers) (held by municipality)
 
 ⚠️ No further parishes are listed for this municipality in the *[Statistica della popolazione dello Stato Pontificio dell’anno 1853](https://www.google.it/books/edition/Statistics_della_popolazione_dello_Stato/v6dCAQAAMAAJ)*.
 
@@ -88,7 +90,12 @@ According to the [Atlante Storico Istituzionale dell’Italia unita](http://dati
 
   See [FamilySearch catalog entry](https://www.familysearch.org/en/search/catalog/657509).
 
-* **Portale Antenati:** none available for this municipality.
+* **Portale Antenati:**
+
+  * Nati, battesimi: 1 register (1756–1798)
+    (frazione Pornello; held by Archivio di Stato di Terni – Sezione di Orvieto)
+   
+  See [Portale Antenati entry](https://antenati.cultura.gov.it/ark:/12657/an_ua37841793/).
 
 * **ItalianParishRecords.org:** none available for this municipality.
 

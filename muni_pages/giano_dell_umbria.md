@@ -1,4 +1,6 @@
-# Giano dell’Umbria
+# Giano dell'Umbria
+
+{% include muni_map.html %}
 
 ## Stato Civile
 
