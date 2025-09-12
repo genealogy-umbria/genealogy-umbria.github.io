@@ -104,11 +104,12 @@ No digitized *brogliardi* are available for this municipality.
 
 ## Additional Notes
 
-* None.
+* A very detailed inventory is available through the [Sistema Archivistico Nazionale (SAN)](https://inventari-san.cultura.gov.it/inventari/128/ca/1083482): *Comune di Cerreto di Spoleto, Inventario — Stato civile, anagrafe, leva*.
 
 ---
 
 ## References
 
+* [Sistema Archivistico Nazionale (SAN)](https://inventari-san.cultura.gov.it/inventari/128/ca/1083482)
 * [SIUSA – Comune di Cerreto di Spoleto. Archivio storico](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=330586)
 * [Atlante Storico Istituzionale dell’Italia unita – Cerreto di Spoleto](http://dati.san.beniculturali.it/asi/local/)
