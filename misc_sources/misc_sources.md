@@ -5,7 +5,7 @@
 A page on the courts active in Umbria during the relevant periods. All courts held copies of civil records. This page will map their jurisdictions and survival of documentation.
   
 <div align="center">
-  <a href="tribunali.md" style="
+  <a href="tribunali.html" style="
     display:inline-block;
     padding:10px 20px;
     background-color:#007acc;
@@ -107,3 +107,15 @@ That said, newspapers can still provide useful context — such as reports on lo
 Several Umbrian newspapers have been digitized and are accessible through this website:
 
 - [Emeroteca Digitale Italiana](https://www.internetculturale.it/it/913/emeroteca-digitale-italiana/periodic/?iniziale=&regione=Umbria&materia=&q=&filterPeriodic=1&paginate_pageNum=1).
+
+Got it — here’s a smoother **continuous prose version** of the mappology section, without the list style:
+
+---
+
+## Map resources
+
+For genealogical research, geographical context is often as valuable as names and dates. Knowing where an ancestor lived — not just the comune but the specific frazione or hamlet — can guide searches in the archives.
+
+A particularly useful tool in this respect is the [Umbria WebGIS - Carta Tecnica Regionale e Cartografia Storica](https://siat.regione.umbria.it/webgisctr/). Although it does not map parish boundaries, it does provide the locations of frazioni, which are often cited in records but can otherwise be difficult to identify on modern maps. The platform also offers a detailed 1:5,000 raster map and aerial photography dating from the 1950s.
+
+For the municipalities bordering Lake Trasimeno, another valuable resource is the [Catasto storico digitale](https://www.lacittadeltrasimeno.it/catasto-storico-digitale/). Here, both the *Tiroli–Chiesa* and *Gregorian* cadastral maps have been digitized, allowing researchers to see detailed property divisions and land use in the 18th and 19th centuries.

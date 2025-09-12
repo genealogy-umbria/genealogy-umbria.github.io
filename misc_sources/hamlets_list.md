@@ -59,7 +59,7 @@ If the place you want isn't here, it might be found in this [list from the 1971 
 <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
 <script>
 // Load CSV and build table
-Papa.parse("docs/hamlets.csv", {
+Papa.parse("../docs/hamlets.csv", {
   download: true,
   header: true,
   skipEmptyLines: true,
