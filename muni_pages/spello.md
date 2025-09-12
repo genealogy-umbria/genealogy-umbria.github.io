@@ -1,5 +1,7 @@
 # Spello
 
+{% include muni_map.html %}
+
 ## Stato Civile
 
 * **Office contact:**
@@ -113,7 +115,9 @@ According to the [Atlante Storico Istituzionale dell’Italia unita](http://dati
 
 ## Brogliardi
 
-No digitized *brogliardi* are available for this municipality.
+The *brogliardi* for this municipality are listed in the Archivio di Stato di Roma’s digital portal under [Prato](https://imagoarchiviodistatoroma.cultura.gov.it/Gregoriano/s_brogliardi.php?Provincia=Perugia&Denominazione=Prato).
+
+⚠️ It is unclear whether this “Prato” refers to a location within the municipality of Spello — no corresponding frazione or locality named Prato has been identified here.
 
 ---
 

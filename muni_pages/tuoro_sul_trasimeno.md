@@ -1,5 +1,7 @@
 # Tuoro sul Trasimeno
 
+{% include muni_map.html %}
+
 ## Stato Civile
 
 * **Office contact:**

@@ -1,5 +1,7 @@
 # Citerna
 
+{% include muni_map.html %}
+
 ## Stato Civile
 
 * **Office contact:**
@@ -12,17 +14,17 @@
 
   * **Italian civil records:** 1860–1965 (375 registries)
   * **Parish books:** 1648–1860 (5 registries: marriages, deaths, states of souls)
-  * **French civil records:** none held
+  * **French civil records:** none listed
 
 * **Known holdings (State Archives):**
 
-  * **Italian civil records:** none held
-  * **Parish books:** none held
-  * **French civil records:** none held
+  * **Italian civil records:** none listed
+  * **Parish books:** none listed
+  * **French civil records:** none listed
 
 * **Known holdings (Diocese / parishes):**
 
-  * none held
+  * none listed
 
 ---
 

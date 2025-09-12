@@ -1,5 +1,7 @@
 # Stroncone
 
+{% include muni_map.html %}
+
 ## Stato Civile
 
 * **Office contact:**
@@ -26,6 +28,40 @@
 ---
 
 ## Parishes and Frazioni
+
+### Stroncone (main town)
+
+#### Parish of San Michele Arcangelo
+
+* **Parish of San Michele Arcangelo**: none listed
+
+#### Parish of San Nicolò
+
+* **Parish of San Nicolò**: none listed
+
+### Aguzzo
+
+#### Parish of Aguzzo
+
+* **Parish of Aguzzo**: none listed
+
+### Coppe
+
+#### Parish of Coppe
+
+* **Parish of Coppe**: none listed
+
+### Finocchietto
+
+#### Parish of Finocchietto
+
+* **Parish of Finocchietto**: none listed
+
+### Vasciano
+
+#### Parish of Vasciano
+
+* **Parish of Vasciano**: none listed
 
 ⚠️ No further parishes are listed for this municipality in the *[Statistica della popolazione dello Stato Pontificio dell’anno 1853](https://www.google.it/books/edition/Statistics_della_popolazione_dello_Stato/v6dCAQAAMAAJ)*.
 

@@ -116,9 +116,12 @@ According to the [Atlante Storico Istituzionale dell’Italia unita](http://dati
 
 ## Brogliardi
 
-The *brogliardi* for this municipality are available through the [Archivio di Stato di Roma’s digital portal](https://imagoarchiviodistatoroma.cultura.gov.it/Gregoriano/s_brogliardi.php?Provincia=Perugia&Denominazione=Assisi).
+The *brogliardi* for this municipality are available through the Archivio di Stato di Roma’s digital portal:
 
-⚠️ Coverage currently includes the *immediate town* only. The *brogliardi* for frazioni and outlying areas exist but have not yet been digitized.
+* [Assisi](https://imagoarchiviodistatoroma.cultura.gov.it/Gregoriano/s_brogliardi.php?Provincia=Perugia&Denominazione=Assisi) — coverage includes the *immediate town* only.
+* [Santa Maria degli Angeli](https://imagoarchiviodistatoroma.cultura.gov.it/Gregoriano/s_brogliardi.php?Provincia=Perugia&Denominazione=Santa%20Maria%20degli%20Angeli) — coverage includes the frazione of Santa Maria degli Angeli.
+
+⚠️ The *brogliardi* for other frazioni and outlying areas exist but have not yet been digitized.
 
 ---
 

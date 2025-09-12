@@ -1,5 +1,7 @@
 # Sigillo
 
+{% include muni_map.html %}
+
 ## Stato Civile
 
 * **Office contact:**

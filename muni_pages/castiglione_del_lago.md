@@ -1,5 +1,7 @@
 # Castiglione del Lago
 
+{% include muni_map.html %}
+
 ## Stato Civile
 
 * **Office contact:**
@@ -104,9 +106,12 @@ According to the [Atlante Storico Istituzionale dell’Italia unita](http://dati
 
 ## Brogliardi
 
-The *brogliardi* for this municipality are available through the [Archivio di Stato di Roma’s digital portal](https://imagoarchiviodistatoroma.cultura.gov.it/Gregoriano/s_brogliardi.php?Provincia=Perugia&Denominazione=Castiglion%20del%20Lago).
+The *brogliardi* for this municipality are available through the Archivio di Stato di Roma’s digital portal:
 
-⚠️ Coverage currently includes the *immediate town* only. The *brogliardi* for frazioni and outlying areas exist but have not yet been digitized.
+* [Castiglion del Lago](https://imagoarchiviodistatoroma.cultura.gov.it/Gregoriano/s_brogliardi.php?Provincia=Perugia&Denominazione=Castiglion%20del%20Lago) — coverage includes the *immediate town* only.
+* [Pozzuolo](https://imagoarchiviodistatoroma.cultura.gov.it/Gregoriano/s_brogliardi.php?Provincia=Perugia&Denominazione=Pozzuolo) — coverage includes the *frazione of Pozzuolo* only.
+
+⚠️ The *brogliardi* for other frazioni and outlying areas exist but have not yet been digitized.
 
 ---
 

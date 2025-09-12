@@ -1,5 +1,7 @@
 # Passignano sul Trasimeno
 
+{% include muni_map.html %}
+
 ## Stato Civile
 
 * **Office contact:**
@@ -114,9 +116,12 @@ According to the [Atlante Storico Istituzionale dell’Italia unita](http://dati
 
 ## Brogliardi
 
-The *brogliardi* for this municipality are available through the [Archivio di Stato di Roma’s digital portal](https://imagoarchiviodistatoroma.cultura.gov.it/Gregoriano/s_brogliardi.php?Provincia=Perugia&Denominazione=Passignano).
+The *brogliardi* for this municipality are available through the Archivio di Stato di Roma’s digital portal:
 
-⚠️ Coverage includes the *immediate town* only. The brogliardi for frazioni and outlying areas exist but have not yet been digitized.
+* [Passignano](https://imagoarchiviodistatoroma.cultura.gov.it/Gregoriano/s_brogliardi.php?Provincia=Perugia&Denominazione=Passignano) — coverage includes the *immediate town* only.
+* [Castel Rigone](https://imagoarchiviodistatoroma.cultura.gov.it/Gregoriano/s_brogliardi.php?Provincia=Perugia&Denominazione=Castel%20Rigone) — coverage includes the *frazione of Castel Rigone* only.
+
+⚠️ The brogliardi for other frazioni and outlying areas exist but have not yet been digitized.
 
 ---
 
