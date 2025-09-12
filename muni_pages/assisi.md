@@ -20,12 +20,12 @@
 
   * **Italian civil records:** The [Sezione di Archivio di Stato di Assisi](http://www.archiviodistatoperugia.it/listituto/le-sedi/assisi) holds records covering the years **1864-1910**, as stated [here](https://antenati.cultura.gov.it/archivio/archivio-di-stato-di-perugia-sezione-di-assisi/).
 
-  * **Parish books:** none held
-  * **French civil records:** none held
+  * **Parish books:** none listed
+  * **French civil records:** none listed
 
 * **Known holdings (Diocese / parishes):**
 
-  * none held
+  * none listed
 
 ---
 
