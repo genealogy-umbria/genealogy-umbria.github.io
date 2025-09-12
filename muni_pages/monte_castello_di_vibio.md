@@ -1,5 +1,7 @@
 # Monte Castello di Vibio
 
+{% include muni_map.html %}
+
 ## Stato Civile
 
 * **Office contact:**

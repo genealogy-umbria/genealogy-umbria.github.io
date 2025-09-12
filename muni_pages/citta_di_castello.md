@@ -1,5 +1,14 @@
 # Città di Castello
 
+---
+
+⚠️ **Important Notice**
+
+This municipality charges a **€50–€100 administrative fee per record** for civil status certificates older than 100 years. 
+[View official resolution)](https://trasparenza.comune.cittadicastello.pg.it/archivio16_procedimenti_0_34992_25_1.html)
+
+---
+
 {% include muni_map.html %}
 
 ## Stato Civile

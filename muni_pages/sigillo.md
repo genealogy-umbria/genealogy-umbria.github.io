@@ -1,5 +1,14 @@
 # Sigillo
 
+---
+
+⚠️ **Important Notice**
+
+This municipality charges a **€200–€300 administrative fee per record** for civil status certificates older than 100 years. 
+[View official resolution)](https://comune.sigillo.pg.it/notizie/3367632/contributo-domande-riconoscimento-cittadinanza)
+
+---
+
 {% include muni_map.html %}
 
 ## Stato Civile

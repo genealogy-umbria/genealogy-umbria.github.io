@@ -1,5 +1,14 @@
 # San Gemini
 
+---
+
+⚠️ **Important Notice**
+
+This municipality charges a **€300 administrative fee per record** for civil status certificates older than 100 years. 
+[View official resolution)](https://comune.sangemini.tr.it/documenti/3368007/domande-riconoscimento-cittadinanza-italiana)
+
+---
+
 ## Stato Civile
 
 * **Office contact:**

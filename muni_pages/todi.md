@@ -1,5 +1,14 @@
 # Todi
 
+---
+
+⚠️ **Important Notice**
+
+This municipality charges a **€150–€300 administrative fee per record** for civil status certificates older than 100 years. 
+[View official resolution)](https://www.comune.todi.pg.it/it/news/contributo-richiesta-di-riconoscimento-della-cittadinanza-italiana-iure-sanguinis-e-richieste-di-certificati-o-di-estratti-di-stato-civile-formati-da-oltre-un-secolo)
+
+---
+
 {% include muni_map.html %}
 
 ## Stato Civile

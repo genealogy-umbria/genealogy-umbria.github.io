@@ -1,4 +1,6 @@
-# Sant’Anatolia di Narco
+# Sant'Anatolia di Narco
+
+{% include muni_map.html %}
 
 ## Stato Civile
 

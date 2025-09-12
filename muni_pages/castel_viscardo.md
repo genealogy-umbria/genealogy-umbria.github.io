@@ -1,5 +1,14 @@
 # Castel Viscardo
 
+---
+
+⚠️ **Important Notice**
+
+This municipality charges up to **€300 in administrative fees per record** for civil status certificates older than 100 years. 
+[View official resolution)](https://www.comune.castelviscardo.tr.it/c055010/zf/index.php/atti-amministrativi/delibere/dettaglio/atto/GTVRRNUq5QT0-H/provvedimenti/1/categoria/129)
+
+---
+
 {% include muni_map.html %}
 
 ## Stato Civile

@@ -17,13 +17,13 @@
 
 * **Known holdings (State Archives):**
 
-  * **Italian civil records:** none held
-  * **Parish books:** none held
-  * **Napoleonic civil records:** none held
+  * **Italian civil records:** none listed
+  * **Parish books:** none listed
+  * **Napoleonic civil records:** none listed
 
 * **Known holdings (Diocese / parishes):**
 
-  * none held
+  * none listed
 
 ---
 
