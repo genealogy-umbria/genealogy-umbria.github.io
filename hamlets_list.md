@@ -4,6 +4,8 @@
 
 You can filter by **name** and **municipality**, and sort each column by clicking the headers. Coordinates link to Google Maps.
 
+If the place you want isn't here, it might be found in this [list from the 1971 census](https://lipari.istat.it/digibib/Censimenti%20popolazione/censpop1971/IST0007188VOLIII_frazioni_geografiche/IST0004590CP1971_fasc10_UMBRIA+OCRottimizz.pdf#page=11).
+
 ---
 
 <div id="filters">
@@ -25,11 +27,33 @@ You can filter by **name** and **municipality**, and sort each column by clickin
 </table>
 
 <style>
-body { font-family: Arial, sans-serif; margin: 20px; }
-table { border-collapse: collapse; width: 100%; margin-top: 10px; }
-th, td { border: 1px solid #ccc; padding: 4px 6px; text-align: left; }
-th { cursor: pointer; background: #f2f2f2; }
-input { margin: 5px; padding: 4px; }
+/* Inline style, scoped to #sortable */
+#sortable {
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 10px;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+}
+#sortable th, #sortable td {
+  border: 1px solid #ccc;
+  padding: 4px 6px;
+  text-align: left;
+}
+#sortable th {
+  cursor: pointer;
+  background: #f2f2f2;
+}
+#sortable tr:nth-child(even) {
+  background: #fafafa;
+}
+#sortable tr:hover {
+  background: #f1f7ff;
+}
+#filters input {
+  margin: 5px;
+  padding: 4px;
+}
 </style>
 
 <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
