@@ -14,11 +14,11 @@
   * **Parish books:** none listed
   * **French civil records:** none listed
 
-* **Known holdings (State Archives):**
+* **Known holdings (State Archives, Spoleto):**
 
-  * **Italian civil records:** 1865–1900 (fogli di famiglia, emigrazioni, immigrazioni; Sezione di Spoleto, Archivio di Stato di Perugia)
-  * **Parish books:** 16th–19th centuries (156 registers; baptisms, marriages, deaths)
-  * **French civil records:** 1810–1813 (352 registers; nati, matrimoni, morti; Dipartimento del Trasimeno)
+  * **Italian civil records:** 1865–1900 (fogli di famiglia, emigrazioni, immigrazioni)
+  * **Parish books:** 16th–19th centuries (156 registers; baptisms, marriages, deaths; [SAN page](http://www.san.beniculturali.it/web/san/sogc-scheda-complesso?codiSanCompl=san.cat.complArch.46303&step=dettaglio&id=46303))
+  * **French civil records:** 1810–1813 (352 registers; nati, matrimoni, morti; [Guida Agli Archivi di Stato (PDF)](http://www.maas.ccr.it/PDF/Perugia.pdf))
 
 * **Known holdings (Diocese / parishes):**
 
@@ -84,23 +84,23 @@
 * **Valle San Martino**
 * **Vallocchia**
 
-#### Frazione of Arezzo
+#### Arezzo
 
 * **Fiorenzola**
 * **Rapicciano**
 
-#### Frazione of Cerqueto
+#### Cerqueto
 
 * **Castagna Cupa**
 * **Fogliano**
 
-#### Frazione of Messenano
+#### Messenano
 
 * **Messenano**
 * **Perchia ed Icciano**
 * **Rapicciano**
 
-#### Frazione of Terzo San Severo
+#### Terzo San Severo
 
 * **Terzo San Severo**
 * **Costa**
@@ -114,8 +114,8 @@
 
 According to the [Atlante Storico Istituzionale dell’Italia unita](http://dati.san.beniculturali.it/asi/local/detail.html?UA05121):
 
-* 1927 — Aggregated into the municipality of Spoleto the territories of the suppressed municipalities of Campello sul Clitunno, Castel Ritaldi e San Giovanni (now Castel Ritaldi), Giano dell’Umbria, Sant’Anatolia di Narco, Scheggino, and Vallo di Nera
-* 1930 — Reconstituted the municipalities of Campello sul Clitunno, Castel Ritaldi (formerly Castel Ritaldi e San Giovanni), Giano dell’Umbria, Sant’Anatolia di Narco, Scheggino, and Vallo di Nera, detached from the municipality of Spoleto
+* 1927 — Aggregated into the municipality of Spoleto the territories of the suppressed municipalities of [Campello sul Clitunno](campello_sul_clitunno.md), [Castel Ritaldi](castel_ritaldi.md), [Giano dell’Umbria](giano_dell_umbria.md), [Sant’Anatolia di Narco](sant_anatolia_di_narco.md), [Scheggino](scheggino.md), and [Vallo di Nera](vallo_di_nera.md)
+* 1930 — Reconstituted the municipalities of Campello sul Clitunno, Castel Ritaldi, Giano dell’Umbria, Sant’Anatolia di Narco, Scheggino, and Vallo di Nera, detached from the municipality of Spoleto
 
 ---
 
