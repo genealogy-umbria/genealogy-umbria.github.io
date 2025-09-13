@@ -17,6 +17,8 @@ A page on the courts active in Umbria during the relevant periods. All courts he
   </a>
 </div>
 
+---
+
 ## Brefotrofi
 
 Archival holdings related to *brefotrofi* (foundling homes) are generally very poorly organized. It is difficult to say whether they contain material of genealogical value.

@@ -6,7 +6,7 @@ one copy remained in the municipality, while the other was deposited at the terr
 * **Napoleonic civil status (1810–1814).**
   With annexation to the French Empire, municipalities in Umbria began keeping registers of births, marriages, and deaths from 1810. These were compiled in duplicate, with one copy sent to the *tribunale territoriale*. This system ended in 1813 (or more seldom in 1814).
   
-![alt text](img/registri_trib_cHYJqX0IIAgC.png "Archivj")
+![alt text](../img/registri_trib_cHYJqX0IIAgC.png "Archivj")
 
 * **Italian civil status (1866–).**
   From 1866 onward, registers of the Kingdom of Italy (birth, marriage, death, and citizenship) were likewise created in duplicate: one copy remained in the *comune*, while the other was sent to the competent *tribunale*. This makes courts critical for genealogical research, since in principle they hold a complete second series of civil registers.
@@ -15,7 +15,7 @@ one copy remained in the municipality, while the other was deposited at the terr
   
 FamilySearch’s holdings for Umbria reflect this arrangement: the vast majority of registers were filmed not in the municipalities, but from the copies deposited in the courts, which is why catalog entries often appear under the name of the relevant *tribunale*.
 
-![alt text](img/tribunale.webp "Straight from the courtroom")
+![alt text](../img/tribunale.webp "Straight from the courtroom")
   
 ---
 
