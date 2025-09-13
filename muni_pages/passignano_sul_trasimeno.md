@@ -4,8 +4,9 @@
 
 ## Jurisdictions
 
+* **Diocese:** Perugia ([1873](https://www.google.it/books/edition/Il_libro_de_comuni_del_Regno_d_Italia_co/WF9mfeJJcDEC?gbpv=1))
 * **Diocese (modern):** [Perugia–Città della Pieve](../dio/perugia.md) ([CEI](https://www.chiesacattolica.it/annuario-cei/ricerca-parrocchie/))
-* **Tribunale:** Perugia (1892 and 1989) ([1892](https://www.google.it/books/edition/Bollettino_ufficiale_del_Ministero_di_gr/kRXd4t5fK-0C?hl=en&gbpv=1&pg=PA457&printsec=frontcover), [1989](https://www.google.it/books/edition/Gazzetta_ufficiale_della_Repubblica_ital/-Z6nogg-qMQC?hl=en&gbpv=1&pg=RA8-PA38&printsec=frontcover))
+* **Tribunale:** Perugia ([1892](https://www.google.it/books/edition/Bollettino_ufficiale_del_Ministero_di_gr/kRXd4t5fK-0C?hl=en&gbpv=1&pg=PA457&printsec=frontcover) and [1989](https://www.google.it/books/edition/Gazzetta_ufficiale_della_Repubblica_ital/-Z6nogg-qMQC?hl=en&gbpv=1&pg=RA8-PA38&printsec=frontcover))
 * **Military district:** [Perugia](../mil/perugia.md) (1870–)
 
 ## Stato Civile
