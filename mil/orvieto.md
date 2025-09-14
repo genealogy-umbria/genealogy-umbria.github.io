@@ -14,7 +14,7 @@
 
 The *Archivio di Stato di Viterbo* preserves a substantial body of records relating to the **Distretto militare di Orvieto**:
 
-* 400 registers and 45 indexes (classes 1876–1917; birth years) ([SIAS](http://www.san.beniculturali.it/web/san/sogc-scheda-complesso?codiSanCompl=san.cat.complArch.53503&step=dettaglio&id=53503))
+* 400 registers and 45 indexes (birth years 1876–1917) ([SIAS](http://www.san.beniculturali.it/web/san/sogc-scheda-complesso?codiSanCompl=san.cat.complArch.53503&step=dettaglio&id=53503))
 
 ### Orvieto
 

@@ -110,8 +110,6 @@ Several Umbrian newspapers have been digitized and are accessible through this w
 
 - [Emeroteca Digitale Italiana](https://www.internetculturale.it/it/913/emeroteca-digitale-italiana/periodic/?iniziale=&regione=Umbria&materia=&q=&filterPeriodic=1&paginate_pageNum=1).
 
-Got it — here’s a smoother **continuous prose version** of the mappology section, without the list style:
-
 ---
 
 ## Map resources

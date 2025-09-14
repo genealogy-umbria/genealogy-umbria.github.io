@@ -30,7 +30,7 @@ So if you are searching for an Umbrian birth registered in 1862, you do not need
 
 ## Parish records: seized, scattered, sometimes spared
 
-![alt text](img/1860_registration.jpg "Not the most auspicious of beginnings")
+![alt text](img/orvieto_parish_book.jpg "Sabatinus")
 
 Nearly every guide to Italian genealogy will tell you: *for records before 1860, go to diocesan archives.* But in Umbria, that advice needs nuance.
 
@@ -92,7 +92,7 @@ Researchers must often rely on on-site visits, requests by email, or indirect pa
 
 Access to Italian civil registers is strictly regulated. Even though the records are technically public, individuals **cannot consult the registers directly**. Instead, the local *ufficiale di stato civile* (civil registrar) is the sole custodian and the only one allowed to issue extracts, certificates, or conduct searches in response to requests. Anyone requesting these documents must demonstrate a personal and legitimate interest.
 
-An important exception applies once 70 years have passed from the creation of an act. After this period, copies can be released without the requester needing to prove a personal interest. However, even in this case, direct browsing of registers remains prohibited: the official must still carry out the search and issue the extracts. Moreover, if an old act contains annotations or corrections added within the last 70 years, those newer details are still protected and must be omitted in the copies.
+An important exception applies once 70 years have passed from the creation of an act. After this period, copies can be released without the requester needing to prove a personal interest. However, even in this case, direct browsing of registers remains prohibited: the official must still carry out the search and issue the extracts.
 
 **Source:** *Ministero dell’Interno – [Massimario per l’ufficiale di stato civile](https://old.asgi.it/public/parser_download/save/ministero.dell.interno.massimario.per.l.ufficiale.dello.stato.civile.pdf)*
 
@@ -102,8 +102,7 @@ An important exception applies once 70 years have passed from the creation of an
 
 This resource is organized to reflect the actual institutions and jurisdictions relevant to Umbrian genealogy. The aim is to make it easy to move from the **modern municipality** to the **records** (civil, ecclesiastical, military) that might apply.
 
-* **[Municipalities of Umbria](muni_list.md)**
-  Each of the 92 municipalities has its own page. These include:
+* **[Municipalities of Umbria](muni_list.md)** – each of the 92 municipalities has its own page. These include:
 
   * List of **frazioni** and parishes.
   * Notes on **former municipalities** absorbed into the present territory.
@@ -111,12 +110,8 @@ This resource is organized to reflect the actual institutions and jurisdictions 
   * A summary of known **holdings** (if catalogs or inventories are available).
   * Any **specific notes**—gaps, seizures, or peculiar archival situations.
 
-* **[Dioceses of Umbria](dioceses.md)**
-  A section on the diocesan archives. In Umbria, most parish registers were transferred to the municipalities together with the civil status registers and are kept there today. However, some dioceses still retain parts of these records, and in rare cases the diocesan archive holds the entire set for a municipality.
+* **[Dioceses of Umbria](dioceses.md)** – a page on the diocesan archives. In Umbria, most parish registers were transferred to the municipalities together with the civil status registers and are kept there today. However, some dioceses still retain parts of these records, and in rare cases the diocesan archive holds the entire set for a municipality.
 
-* **[Tribunali](misc_sources/tribunali.md)**
-  A section on the courts active in Umbria during the relevant periods. All courts held copies of civil records. This section will map their jurisdictions and survival of documentation.
+* **[Tribunali](misc_sources/tribunali.md)** – a page on the courts active in Umbria during the relevant periods. All courts held copies of civil records. This section will map their jurisdictions and survival of documentation.
 
-* **[Military Subdivisions](military_divs.md)**
-  A section covering the military districts that included Umbrian territory, with attention to where **ruoli matricolari** (military draft registers) and related series were kept or are now preserved.
-
+* **[Military Subdivisions](military_divs.md)** – a page covering the military districts that included Umbrian territory, with attention to where **ruoli matricolari** (military draft registers) and related series were kept or are now preserved.

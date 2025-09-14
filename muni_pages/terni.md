@@ -2,6 +2,13 @@
 
 {% include muni_map.html %}
 
+## Jurisdictions
+
+* **Diocese:** Terni ([1873](https://www.google.it/books/edition/Il_libro_de_comuni_del_Regno_d_Italia_co/WF9mfeJJcDEC?gbpv=1))
+* **Diocese (modern):** [Terni–Narni–Amelia](../dio/terni_narni_amelia.md) ([CEI](https://www.chiesacattolica.it/annuario-cei/ricerca-parrocchie/))
+* **Tribunale:** Spoleto (1892), Terni (1989) ([1892](https://www.google.it/books/edition/Bollettino_ufficiale_del_Ministero_di_gr/kRXd4t5fK-0C?hl=en&gbpv=1&pg=PA457&printsec=frontcover), [1989](https://www.google.it/books/edition/Gazzetta_ufficiale_della_Repubblica_ital/-Z6nogg-qMQC?hl=en&gbpv=1&pg=RA8-PA38&printsec=frontcover))
+* **Military district:** [Perugia](../mil/perugia.md) (1870–1877), [Spoleto](../mil/spoleto.md) (1877–1920), [Orvieto](../mil/spoleto.md) (1920–1956)
+
 ## Stato Civile
 
 * **Office contact:**
@@ -30,6 +37,101 @@
 
 ## Parishes and Frazioni
 
+### Terni (main town)
+
+#### Parish of Sant’Andrea
+
+* **Parish of Sant’Andrea**: listed in 1853
+
+#### Parish of Ss.ma Assunta
+
+* **Parish of Ss.ma Assunta**: listed in 1853
+
+#### Parish of Santa Croce
+
+* **Parish of Santa Croce**: listed in 1853
+
+#### Parish of San Cristoforo
+
+* **Parish of San Cristoforo**: listed in 1853
+
+#### Parish of San Giovanni Evangelista
+
+* **Parish of San Giovanni Evangelista**: listed in 1853
+
+#### Parish of San Lorenzo
+
+* **Parish of San Lorenzo**: listed in 1853
+
+#### Parish of San Niccolò
+
+* **Parish of San Niccolò**: listed in 1853
+
+#### Parish of San Pietro
+
+* **Parish of San Pietro**: listed in 1853
+
+#### Parish of San Salvatore
+
+* **Parish of San Salvatore**: listed in 1853
+
+#### Parish of San Tommaso
+
+* **Parish of San Tommaso**: listed in 1853
+
+#### Parish of Rivo
+
+* **Parish of Rivo**: listed in 1853
+
+#### Parish of Piedimonte
+
+* **Parish of Piedimonte**: listed in 1853
+
+#### Parish of Cecalocco e Battiferro
+
+* **Parish of Cecalocco e Battiferro**: listed in 1853
+
+#### Parish of Collelicino
+
+* **Parish of Collelicino**: listed in 1853
+
+### Acquapalombo
+
+#### Parish
+
+* **Parish**: listed in 1853
+
+### Miranda
+
+#### Parish
+
+* **Parish**: listed in 1853
+
+### Poggiolavarino
+
+#### Parish
+
+* **Parish**: listed in 1853
+
+### Rocca San Zenone
+
+#### Parish
+
+* **Parish**: listed in 1853
+
+
+### Torre Orsina
+
+#### Parish
+
+* **Parish**: listed in 1853
+
+### Papigno
+
+#### Parish
+
+* **Parish**: listed in 1853
+
 ### Cesi
 
 #### Parish of Sant’Angelo
@@ -39,6 +141,18 @@
 #### Parish of Santa Maria Assunta
 
 * **Parish of Santa Maria Assunta**: baptisms (1755–1796; 2 registers), marriages (1755–1860; 2 registers), deaths (1830–1860; 1 register) (held by [Comune di Terni](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=334381))
+
+### Appecano
+
+#### Parish
+
+* **Parish**: listed in 1853
+
+### Polenaco
+
+#### Parish
+
+* **Parish**: listed in 1853
 
 ### Collescipoli
 
@@ -66,7 +180,13 @@
 
 * **Parish of Santo Stefano**: baptisms (1688–1747; 4 registers), marriages (1689–1738; 1 register) (held by [Comune di Terni](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=334487))
 
-⚠️ Further parishes are listed in the *[Statistica della popolazione dello Stato Pontificio dell’anno 1853](https://www.google.it/books/edition/Statistics_della_popolazione_dello_Stato/v6dCAQAAMAAJ)*.
+### Porzano
+
+#### Parish of San Fortunato
+
+* **Parish of San Fortunato**: see [Acquasparta](acquasparta.md)
+
+⚠️ No further parishes are listed in the *[Statistica della popolazione dello Stato Pontificio dell’anno 1853](https://www.google.it/books/edition/Statistics_della_popolazione_dello_Stato/v6dCAQAAMAAJ)*.
 
 ---
 
