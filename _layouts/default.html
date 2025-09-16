@@ -78,6 +78,16 @@
       color:#fff; display:inline-flex; align-items:center; justify-content:center;
       font-weight:700; font-family:"Outfit",sans-serif;
     }
+	.site-brand a.brand-link {
+	  display:flex;
+	  align-items:center;
+	  gap:.6rem;
+	  color:inherit;
+	  text-decoration:none;
+	}
+	.site-brand a.brand-link:hover .site-title {
+	  color: var(--primary);
+	}	
     .site-title { color: #fff; font-weight:600; font-size:1rem; }
     .site-tagline { font-size:.75rem; color: rgba(255,255,255,0.85); }
 
@@ -159,17 +169,18 @@
   <!-- Navbar -->
   <nav role="navigation" aria-label="Main">
     <div class="nav-inner">
-      <div class="site-brand" aria-hidden="true">
-        <div class="site-logo"><img src="/img/umbria_outline.png" alt="UG"></div>
-        <div>
-          <div class="site-title">Umbria</div>
-          <div class="site-tagline">Genealogy</div>
-        </div>
-      </div>
+		<div class="site-brand">
+		  <a href="/index.html" class="brand-link">
+			<div class="site-logo"><img src="/img/umbria_outline.png" alt="UG"></div>
+			<div>
+			  <div class="site-title">Umbria</div>
+			  <div class="site-tagline">Genealogy</div>
+			</div>
+		  </a>
+		</div>
 
       <div class="nav-links" id="desktopNav">
         <ul>
-          <li><a class="menu-link {% if page.url == '/' or page.url == '/index.html' %}active{% endif %}" href="/index.html">Home</a></li>
           <li><a class="menu-link {% if page.url == '/muni_list.html' %}active{% endif %}" href="/muni_list.html">Comuni pages</a></li>
           <li><a class="menu-link {% if page.url == '/dioceses.html' %}active{% endif %}" href="/dioceses.html">Dioceses</a></li>
           <li><a class="menu-link {% if page.url == '/military_divs.html' %}active{% endif %}" href="/military_divs.html">Military records</a></li>
@@ -184,7 +195,6 @@
     <!-- mobile nav -->
     <div id="mobileNav" aria-hidden="true">
       <ul>
-        <li><a href="/index.html">Home</a></li>
         <li><a href="/muni_list.html">Comuni pages</a></li>
         <li><a href="/dioceses.html">Dioceses</a></li>
         <li><a href="/military_divs.html">Military records</a></li>
