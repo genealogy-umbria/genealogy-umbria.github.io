@@ -11,6 +11,8 @@
 
   <style>
     :root{
+      --nav-height: 56px; /* fallback until JS runs */
+      --page-max: 1100px;
       --bg: rgb(237,246,243);
       --text: rgb(17,24,39);
       --muted: rgb(128,130,133);
@@ -22,12 +24,14 @@
       --card: #ffffff;
       --glass: rgba(255,255,255,0.8);
       --shadow: 0 8px 24px rgba(2,6,23,0.08);
-      --page-max: 1100px;
     }
 
+    /* --- body uses the computed nav height so content is never overlapped --- */
+    html { box-sizing: border-box; }
+    *,*::before,*::after { box-sizing: inherit; }
     body{
       margin:0;
-      padding-top:3.5em; /* push below navbar */
+      padding-top: var(--nav-height);
       font-family: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
       font-size:16px;
       line-height:1.6;
@@ -38,50 +42,88 @@
       text-rendering: optimizeLegibility;
     }
 
-    h1,h2,h3 {
-      font-family: "Outfit", sans-serif;
-      margin-top:0;
-    }
-    h1 { font-size:clamp(1.6rem, 3.5vw, 2.6rem); color:var(--accent); }
-    h2 { font-size:clamp(1.25rem, 2.7vw, 1.8rem); }
-    h3 { font-size:1.1rem; }
+    h1,h2,h3 { font-family: "Outfit", sans-serif; margin:0 0 .5rem; }
+    h1 { font-size: clamp(1.6rem, 3.5vw, 2.2rem); color: var(--accent); }
+    h2 { font-size: clamp(1.25rem, 2.7vw, 1.6rem); }
+    p, li { font-family: "Roboto", "Inter", sans-serif; color: var(--text); margin:0 0 1rem; }
 
-    a { color:var(--primary); text-decoration:none; }
-    a:hover { color:var(--primary-strong); }
+    a { color: var(--primary); text-decoration: none; }
+    a:hover, a:focus { color: var(--primary-strong); outline: none; }
 
-    /* Navbar */
+    /* --- Navbar (fixed) --- */
     nav {
       position: fixed;
-      top:0; left:0; width:100%;
+      top: 0; left: 0; right:0;
       background: linear-gradient(180deg,var(--dark), rgba(10,15,28,0.98));
       border-bottom: 1px solid rgba(255,255,255,0.03);
       box-shadow: 0 2px 8px rgba(2,6,23,0.06);
-      padding:0.5em 1em;
-      display:flex; justify-content:center; flex-wrap:wrap; gap:0.5em;
-      z-index:1000;
+      z-index: 1100;
     }
-    nav a {
-      color:white;
-      padding:0.5em 0.9em;
-      border-radius:6px;
-      background:transparent;
-      font-weight:600;
-      transition: background .2s, color .2s;
+    .nav-inner {
+      max-width: var(--page-max);
+      margin: 0 auto;
+      display: flex;
+      gap: .75rem;
+      align-items: center;
+      justify-content: space-between;
+      padding: .5rem 1rem;
+      flex-wrap: wrap; /* allows wrapping on small screens */
+      row-gap: .5rem;
     }
-    nav a:hover { background: rgba(255,255,255,0.06); color:var(--primary); }
-    nav a.active { background: var(--primary); color:#fff; }
 
+    .site-brand { display:flex; align-items:center; gap:.6rem; }
+    .site-logo {
+      width:40px; height:40px; border-radius:8px;
+      background: linear-gradient(135deg,var(--primary),var(--accent));
+      color:#fff; display:inline-flex; align-items:center; justify-content:center;
+      font-weight:700; font-family:"Outfit",sans-serif;
+    }
+    .site-title { color: #fff; font-weight:600; font-size:1rem; }
+    .site-tagline { font-size:.75rem; color: rgba(255,255,255,0.85); }
+
+    /* desktop nav links */
+    .nav-links { display:flex; align-items:center; gap:.25rem; }
+    .nav-links ul { display:flex; gap:.2rem; list-style:none; margin:0; padding:0; align-items:center; }
+    .nav-links li { margin:0; }
+    .nav-links a.menu-link {
+      color: white;
+      background: transparent;
+      padding: .45rem .8rem;
+      border-radius: 6px;
+      font-weight:600;
+      transition: background .18s, color .18s;
+    }
+    .nav-links a.menu-link:hover { background: rgba(255,255,255,0.06); color: var(--primary); }
+    .nav-links a.active { background: var(--primary); color: #fff; }
+
+    /* mobile toggle */
+    .menu-toggle {
+      display: none;
+      background: transparent;
+      border: 1px solid rgba(255,255,255,0.06);
+      color: white;
+      padding: .35rem .6rem;
+      border-radius:6px;
+      font-size:1rem;
+    }
+
+    /* mobile nav container (hidden by default) */
+    #mobileNav { display: none; width:100%; padding: 0 .75rem  .75rem .75rem; }
+    #mobileNav ul { list-style:none; margin:0; padding:0; display:flex; flex-direction:column; gap:.25rem; }
+    #mobileNav a { color: white; padding: .45rem .6rem; display:block; border-radius:6px; background:transparent; }
+
+    /* page container */
     main {
       max-width: var(--page-max);
       margin: 0 auto;
-      padding: 1.5em 1em;
+      padding: 1rem;
     }
 
     img {
       max-width:90%;
       max-height:60vh;
       display:block;
-      margin:1em auto;
+      margin:1rem auto;
     }
     .muni-map-wrapper img,
     .leaflet-container img {
@@ -94,21 +136,56 @@
       margin-top:2rem;
       background: linear-gradient(0deg, var(--dark), rgba(10,15,28,0.98));
       color: rgba(255,255,255,0.85);
-      padding:1.2rem;
+      padding: 1rem;
       text-align:center;
       font-size:0.9rem;
+    }
+
+    /* responsive behavior */
+    @media (max-width: 759px) {
+      .nav-links { display: none; }
+      .menu-toggle { display: inline-flex; }
+      /* when #mobileNav has .show, JS toggles display:block */
     }
   </style>
 </head>
 <body>
   <!-- Navbar -->
-  <nav>
-    <a href="/index.html" class="{% if page.url == '/' or page.url == '/index.html' %}active{% endif %}">Home</a>
-    <a href="/muni_list.html" class="{% if page.url == '/muni_list.html' %}active{% endif %}">Comuni pages</a>
-    <a href="/dioceses.html" class="{% if page.url == '/dioceses.html' %}active{% endif %}">Dioceses</a>
-    <a href="/military_divs.html" class="{% if page.url == '/military_divs.html' %}active{% endif %}">Military records</a>
-    <a href="/misc_sources/misc_sources.html" class="{% if page.url == '/misc_sources/misc_sources.html' %}active{% endif %}">Other sources</a>
-    <a href="/misc_sources/hamlets_list.html" class="{% if page.url == '/misc_sources/hamlets_list.html' %}active{% endif %}">List of all hamlets</a>
+  <nav role="navigation" aria-label="Main">
+    <div class="nav-inner">
+      <div class="site-brand" aria-hidden="true">
+        <div class="site-logo">C</div>
+        <div>
+          <div class="site-title">Site Title</div>
+          <div class="site-tagline">Short tagline</div>
+        </div>
+      </div>
+
+      <div class="nav-links" id="desktopNav">
+        <ul>
+          <li><a class="menu-link {% if page.url == '/' or page.url == '/index.html' %}active{% endif %}" href="/index.html">Home</a></li>
+          <li><a class="menu-link {% if page.url == '/muni_list.html' %}active{% endif %}" href="/muni_list.html">Comuni pages</a></li>
+          <li><a class="menu-link {% if page.url == '/dioceses.html' %}active{% endif %}" href="/dioceses.html">Dioceses</a></li>
+          <li><a class="menu-link {% if page.url == '/military_divs.html' %}active{% endif %}" href="/military_divs.html">Military records</a></li>
+          <li><a class="menu-link {% if page.url == '/misc_sources/misc_sources.html' %}active{% endif %}" href="/misc_sources/misc_sources.html">Other sources</a></li>
+          <li><a class="menu-link {% if page.url == '/misc_sources/hamlets_list.html' %}active{% endif %}" href="/misc_sources/hamlets_list.html">List of all hamlets</a></li>
+        </ul>
+      </div>
+
+      <button id="menuToggle" class="menu-toggle" aria-controls="mobileNav" aria-expanded="false">☰</button>
+    </div>
+
+    <!-- mobile nav -->
+    <div id="mobileNav" aria-hidden="true">
+      <ul>
+        <li><a href="/index.html">Home</a></li>
+        <li><a href="/muni_list.html">Comuni pages</a></li>
+        <li><a href="/dioceses.html">Dioceses</a></li>
+        <li><a href="/military_divs.html">Military records</a></li>
+        <li><a href="/misc_sources/misc_sources.html">Other sources</a></li>
+        <li><a href="/misc_sources/hamlets_list.html">List of all hamlets</a></li>
+      </ul>
+    </div>
   </nav>
 
   <!-- Page content -->
@@ -122,17 +199,70 @@
   </footer>
 
   <script>
-    // external link handling
-    document.addEventListener("DOMContentLoaded", function () {
+    // ---- helpers to ensure content is pushed below the nav height ----
+    function updateNavSpacing(){
+      const nav = document.querySelector('nav');
+      if (!nav) return;
+      // get height (including wrapping/mobile nav when visible)
+      const h = Math.ceil(nav.getBoundingClientRect().height);
+      // set CSS variable and body padding
+      document.documentElement.style.setProperty('--nav-height', h + 'px');
+      document.body.style.paddingTop = h + 'px';
+    }
+
+    function initNavToggle(){
+      const toggle = document.getElementById('menuToggle');
+      const mobile = document.getElementById('mobileNav');
+      if (!toggle || !mobile) return;
+      toggle.addEventListener('click', function(){
+        const shown = mobile.classList.toggle('show');
+        mobile.style.display = shown ? 'block' : 'none';
+        toggle.setAttribute('aria-expanded', shown ? 'true' : 'false');
+        mobile.setAttribute('aria-hidden', shown ? 'false' : 'true');
+        // nav height changed → recalc next frame
+        requestAnimationFrame(updateNavSpacing);
+      });
+    }
+
+    document.addEventListener('DOMContentLoaded', function(){
+      // initial calc (may be approximate until fonts load)
+      updateNavSpacing();
+
+      // recalc after fonts load (fonts can change nav size)
+      if (document.fonts && document.fonts.ready) {
+        document.fonts.ready.then(function(){ updateNavSpacing(); });
+      } else {
+        // fallback small delays
+        setTimeout(updateNavSpacing, 80);
+        setTimeout(updateNavSpacing, 300);
+      }
+
+      // window resize -> recalc
+      window.addEventListener('resize', updateNavSpacing);
+
+      // ResizeObserver if available (fires when nav changes layout)
+      try {
+        if (window.ResizeObserver) {
+          const ro = new ResizeObserver(updateNavSpacing);
+          ro.observe(document.querySelector('nav'));
+        }
+      } catch (e) { /* ignore */ }
+
+      initNavToggle();
+
+      // external links: open new tab
       const links = document.querySelectorAll("a[href]");
       links.forEach(link => {
         const href = link.getAttribute("href");
-        if (href.startsWith("http") && !href.includes(window.location.hostname)) {
+        if (href && href.startsWith("http") && !href.includes(window.location.hostname)) {
           link.setAttribute("target", "_blank");
           link.setAttribute("rel", "noopener noreferrer");
         }
       });
-      document.getElementById("year").textContent = new Date().getFullYear();
+
+      // set year in footer
+      const yr = document.getElementById('year');
+      if (yr) yr.textContent = new Date().getFullYear();
     });
   </script>
 </body>
