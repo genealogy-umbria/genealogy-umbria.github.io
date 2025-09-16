@@ -140,6 +140,12 @@
       text-align:center;
       font-size:0.9rem;
     }
+    footer .license-icon {
+      position:absolute;
+      left:1rem;
+      height:22px;
+      width:auto;
+    }
 
     /* responsive behavior */
     @media (max-width: 759px) {
@@ -154,10 +160,10 @@
   <nav role="navigation" aria-label="Main">
     <div class="nav-inner">
       <div class="site-brand" aria-hidden="true">
-        <div class="site-logo">C</div>
+        <div class="site-logo"><img src="/img/umbria_outline.png" alt="UG"></div>
         <div>
-          <div class="site-title">Site Title</div>
-          <div class="site-tagline">Short tagline</div>
+          <div class="site-title">Umbria</div>
+          <div class="site-tagline">Genealogy</div>
         </div>
       </div>
 
@@ -195,7 +201,8 @@
 
   <!-- Footer -->
   <footer>
-    © <span id="year"></span> Genealogy
+    <img src="/img/CC_BY-SA_icon.png" alt="CC BY-SA" class="license-icon">
+    © <span id="year"></span> Umbria Genealogy
   </footer>
 
   <script>
