@@ -96,6 +96,12 @@ For now, this is little more than a list of *brefotrofi* attested to have existe
   * Administered local *opere pie*, including the *Brefotrofio di San Carlo*.
   * ⚠️ No archival holdings currently listed; other sources suggest material may be preserved at the Spoleto section of the Archivio di Stato di Perugia.
 
+### Todi
+
+* [Brefotrofio di Todi](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=prodente&Chiave=47743)
+
+  * ⚠️ Surviving archival holdings are not separately inventoried; they form part of the larger fonds of the [Istituti riuniti di beneficenza di Todi](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=313810).
+
 ---
 
 ## Newspapers

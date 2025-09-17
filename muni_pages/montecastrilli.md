@@ -25,8 +25,8 @@ This municipality charges a **€280–€300 administrative fee per record** fo
 
 * **Known holdings (Comune – [SIUSA](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=326742)):**
 
-  * **Italian civil records:** 1634–1985 (341 registers)
-  * **Parish books:** 1634–1861 (various registers; see Parishes and Frazioni)
+  * **Italian civil records:** 1860–1985 (294 registers)
+  * **Parish books:** 1634–1861 (47 registers; see Parishes and Frazioni)
   * **French civil records:** none held
 
 * **Known holdings (State Archives, Terni):**

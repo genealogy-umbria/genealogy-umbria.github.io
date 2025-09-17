@@ -19,13 +19,13 @@
 
   * **Italian civil records:** 1861–1965 (301 registers)
   * **Parish books:** 1826–1860 (6 registers; marriages, deaths, states of souls)
-  * **Napoleonic civil records:** 1808–1815 (28 registers)
+  * **Napoleonic civil records:** 1808–1815 (28 registers; [SAN](https://inventari-san.cultura.gov.it/inventari/106/ca/1082751))
 
 * **Known holdings (State Archives):**
 
   * **Italian civil records:** none listed
   * **Parish books:** none listed
-  * **Napoleonic civil records:** none listed
+  * **Napoleonic civil records:** (28 registers; Macerata State Archives)
 
 * **Known holdings (Diocese / parishes):**
 
@@ -55,6 +55,16 @@
 ## Border changes
 
 According to the [Atlante Storico Istituzionale dell’Italia unita](http://dati.san.beniculturali.it/asi/local/), there have been no border changes or former municipalities merged into this municipality since 1861.
+
+---
+
+## Military Records
+
+* **Conscription lists:** classes 1839–1909 (5 envelopes) (held by Municipality of Fossato di Vico [SAN](https://inventari-san.cultura.gov.it/inventari/84/ca/1082020))
+* **Municipal draft rolls (I, II, III category):** classes 1841–1894 (4 envelopes) (held by Municipality of Fossato di Vico [SAN](https://inventari-san.cultura.gov.it/inventari/84/ca/1082020))
+* **Nominal rolls of the Territorial Militia (I, II, III category):** classes 1845–1870 (1 envelope) (held by Municipality of Fossato di Vico [SAN](https://inventari-san.cultura.gov.it/inventari/84/ca/1082020))
+* **Preparatory lists:** classes 1860–1892 (1 envelope) (held by Municipality of Fossato di Vico [SAN](https://inventari-san.cultura.gov.it/inventari/84/ca/1082020))
+* **Lists of the unfit (reformati):** classes 1874–1898 (1 envelope) (held by Municipality of Fossato di Vico [SAN](https://inventari-san.cultura.gov.it/inventari/84/ca/1082020))
 
 ---
 

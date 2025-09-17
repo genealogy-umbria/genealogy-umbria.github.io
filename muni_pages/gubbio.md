@@ -12,7 +12,7 @@
 
 * **Office contact:**
 
-  * Email (Stato Civile): `servizidemografici [at] comune.gubbio.pg.it`
+  * Email (Stato Civile): `statocivile [at] comune.gubbio.pg.it`
   * Email (Stato Civile, PEC): `comune.gubbio [at] postacert.umbria.it`
 
 * **Known holdings (Comune – [SIUSA](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=306798)):**
