@@ -20,7 +20,7 @@
   * **Italian civil records:** 1861–2002 (866 registers; births, marriages, deaths, etc.)
   * **Parish books:** none listed here (the requisitioned parish registers are held by the State Archives, not by the Comune)
   * **Napoleonic civil records:** none listed \
-    ⚠️ Gubbio was part of the *Dipartimento del Metauro* in the Napoleonic Kingdom of Italy, not of the French *Dipartimento del Trasimeno*.
+    (Gubbio was part of the *Dipartimento del Metauro* in the Napoleonic Kingdom of Italy, not of the French *Dipartimento del Trasimeno*).
 
 * **Known holdings (State Archives):**
 

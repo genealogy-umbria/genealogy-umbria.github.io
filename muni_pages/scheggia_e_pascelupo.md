@@ -39,7 +39,7 @@
 
 #### Parish of San Paterniano
 
-* **Parish of San Paterniano**: parish registers requisitioned by the Comune (held by Archivio di Stato di Perugia [SIUSA](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=275025))
+* **Parish of San Paterniano**: (held by Archivio di Stato di Perugia [SIUSA](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=275025))
 
 ### Other parishes listed in 1853 (no holdings identified)
 

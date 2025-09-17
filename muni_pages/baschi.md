@@ -101,18 +101,23 @@ According to the [Atlante Storico Istituzionale dell’Italia unita](http://dati
 * 1948 — Frazioni Montecchio, Tenaglie, and Melezzole were detached to form the new municipality of [Montecchio](montecchio.md).
 
 ---
-
 ## Digitized Records
 
 * **FamilySearch:** The catalog shows several series for the Comune, including:
 
-  * Nati: 1866–1895
-  * Nati: 1896–1910
-  * Pubblicazioni di matrimonio: 1900–1910
-  * Matrimoni: 1905–1910, 1909
-  * Morti: 1905–1909, 1910
+  * Births: 1866–1895, 1896–1910
+  * Marriage banns: 1900–1910
+  * Marriages: 1905–1910, 1909
+  * Deaths: 1905–1910
 
   See [FamilySearch catalog entry](https://www.familysearch.org/en/search/catalog/652177).
+
+* **FamilySearch (Acqualoreto):** Records specifically for the frazione Acqualoreto include:
+
+  * Births: 1871–1910
+  * Deaths: 1905–1906, 1908–1910  
+
+  See [FamilySearch catalog entry](https://www.familysearch.org/en/search/catalog/652244).
 
 * **Portale Antenati:** none available for this municipality.
 

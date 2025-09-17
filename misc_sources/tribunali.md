@@ -3,17 +3,19 @@
 Civil registration in Italy was always tied to the courts because registers were produced in duplicate:
 one copy remained in the municipality, while the other was deposited at the territorial court.
 
-* **Napoleonic civil status (1810–1814).**
-  With annexation to the French Empire, municipalities in Umbria began keeping registers of births, marriages, and deaths from 1810. These were compiled in duplicate, with one copy sent to the *tribunale territoriale*. This system ended in 1813 (or more seldom in 1814).
+## Napoleonic civil status (1810–1814)
+
+With annexation to the French Empire, municipalities in Umbria began keeping registers of births, marriages, and deaths from 1810. These were compiled in duplicate, with one copy sent to the *tribunale territoriale*. This system ended in 1813 (or more seldom in 1814).
   
 ![alt text](../img/registri_trib_cHYJqX0IIAgC.png "Archivj")
 
-* **Italian civil status (1866–).**
-  From 1866 onward, registers of the Kingdom of Italy (birth, marriage, death, and citizenship) were likewise created in duplicate: one copy remained in the *comune*, while the other was sent to the competent *tribunale*. This makes courts critical for genealogical research, since in principle they hold a complete second series of civil registers.
-  
-  Source: *[Ricerche genealogiche](https://sab-piemonte.beniculturali.it/ricerche-on-line/ricerche-genealogiche)* - Soprintendenza Archivistica e Bibliografica del Piemonte e della Valle d'Aosta
+## Italian civil status (1861–)
+
+From 1861 onward, registers of the Kingdom of Italy (birth, marriage, death, and citizenship) were likewise created in duplicate: one copy remained in the *comune*, while the other was sent to the competent *tribunale* (see *[SAB Piemonte](https://sab-piemonte.beniculturali.it/ricerche-on-line/ricerche-genealogiche)*). This makes courts critical for genealogical research, since in principle they hold a complete second series of civil registers.
   
 FamilySearch’s holdings for Umbria reflect this arrangement: the vast majority of registers were filmed not in the municipalities, but from the copies deposited in the courts, which is why catalog entries often appear under the name of the relevant *tribunale*.
+  
+Civil registry books were moved when a municipality changed judicial district. For example, (../muni_pages/bevagna.md)[Bevagna] was under the Court of Spoleto in 1892, but by 1989 had moved to the Court of Perugia. Thus, when FamilySearch filmed the Perugia court holdings in 2002, they also found Bevagna’s registers preserved there.
 
 ![alt text](../img/tribunale.webp "Straight from the courtroom")
   

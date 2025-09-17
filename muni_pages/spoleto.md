@@ -116,6 +116,14 @@
 
 ---
 
+## Military Records
+
+* **Ruoli matricolari:** 1843–1934 (held by State Archives of Perugia, Spoleto Section)  
+* **Rubriche:** 1872–1934 (held by State Archives of Perugia, Spoleto Section)  
+* **Total holdings:** 410 registers (see [SAN](http://www.san.beniculturali.it/web/san/dettaglio-complesso-documentario?step=dettaglio&codiSanCompl=san.cat.complArch.71527&idSogc=&id=71527), [Antenati](https://antenati.cultura.gov.it/archivio/archivio-di-stato-di-perugia-sezione-di-spoleto/))
+
+---
+
 ## Border changes
 
 According to the [Atlante Storico Istituzionale dell’Italia unita](http://dati.san.beniculturali.it/asi/local/detail.html?UA05121):

@@ -23,8 +23,8 @@
 
 * **Known holdings (State Archives, Perugia):**
 
-  * **Italian civil records:** none  
-  * **Parish registers:** yes (see [State Archive of Perugia entry](http://www.san.beniculturali.it/web/san/dettaglio-complesso-documentario?step=dettaglio&codiSanCompl=san.cat.complArch.96744&idSogc=&id=96744))  
+  * **Italian civil records:** Municipality likely included in the *[Tribunale di Perugia](http://dati.san.beniculturali.it/SAN/complarc_IT-AS-PG_san.cat.complArch.96907)* holdings at the State Archives of Perugia since it falls within its jurisdiction. The number of registers for this municipality is not known.
+  * **Parish registers:** yes (quantity unspecified, see [State Archive of Perugia entry](http://www.san.beniculturali.it/web/san/dettaglio-complesso-documentario?step=dettaglio&codiSanCompl=san.cat.complArch.96744&idSogc=&id=96744))  
   * **French civil records:** none
 
 * **Known holdings (Diocese / parishes):**

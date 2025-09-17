@@ -19,7 +19,7 @@
   * **Italian civil records:** 1860–1950 (151 registers; civil status registers)
     *Includes a gap 1927–1930 when the municipality was abolished and records were produced by Spoleto.*
   * **Parish books:** 1726–1861 (6 registers; baptisms, marriages, deaths)
-  * **French civil records:** none held
+  * **French civil records:** none listed
   * **Meggiano and Paterno (aggregated 1881):**
 
     * Parish books: 1656–1869 (12 registers; baptisms, marriages, deaths)
@@ -27,15 +27,13 @@
 
 * **Known holdings (State Archives):**
 
-  * **Italian civil records:** The *Archivio di Stato di Perugia* preserves a large *[Tribunale holding](http://dati.san.beniculturali.it/SAN/complarc_IT-AS-PG_san.cat.complArch.96907)* of civil registers.
-  Since this municipality is part of the province of Perugia, it is likely included in this series.
-  The exact number of registers relating specifically to this municipality is not known.
-  * **Parish books:** none held
-  * **French civil records:** none held
+  * **Italian civil records:** none listed
+  * **Parish books:** none listed
+  * **French civil records:** none listed
 
 * **Known holdings (Diocese / parishes):**
 
-  * none held
+  * none listed
 
 ---
 

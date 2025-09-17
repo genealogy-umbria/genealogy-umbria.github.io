@@ -18,24 +18,18 @@
 * **Known holdings (Comune – [SIUSA](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=329860)):**
 
   * **Italian civil records:** 1860–1961 (307 registers)
-  * **Parish books:** not found during the 2003 census of parish registers in Umbrian municipal archives. However, evidence indicates they are preserved at the *Archivio del Capitolo della Cattedrale di San Benedetto in Gualdo Tadino*.
+  * **Parish books:** none held
   * **French civil records:** none held
 
 * **Known holdings (State Archives, Perugia):**
 
-  * **Italian civil records:** none held
+  * **Italian civil records:** Municipality likely included in the *[Tribunale di Perugia](http://dati.san.beniculturali.it/SAN/complarc_IT-AS-PG_san.cat.complArch.96907)* holdings at the State Archives of Perugia since it falls within its jurisdiction. The number of registers for this municipality is not known.
   * **Parish books:** none held
   * **French civil records:** none held
 
 * **Known holdings (Diocese / parishes):**
 
-  * Parish registers (years and details not specified) held at the *Archivio del Capitolo della Cattedrale di San Benedetto in Gualdo Tadino*
-
----
-
-## Parishes and Frazioni
-
-Perfect — thanks for digging that up. Based on your input, the **Parishes and Frazioni** section should be expanded in the “Other parishes listed in 1853 (no holdings identified)” style. Here’s the revised section only:
+  * Parish registers (years and details not specified) preserved at the *Archivio del Capitolo della Cattedrale di San Benedetto in Gualdo Tadino* (see [Guida degli Archivi capitolari d’Italia, p. 61](https://www.archivaecclesiae.org/ae/filesq/quad_10_007.pdf#page=61)); no finding aids exist.
 
 ---
 

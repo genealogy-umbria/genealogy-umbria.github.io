@@ -13,21 +13,19 @@ If the place you want isn't here, it might be found in this [list from the 1971 
   <label>Municipality: <input type="text" id="muniFilter"></label>
 </div>
 
+<div id="datasource">
+  <label><input type="radio" name="source" value="hamlets" checked> Modern Hamlets (OSM)</label>
+  <label><input type="radio" name="source" value="papal"> Papal States 1836</label>
+</div>
+
 <table id="sortable">
   <thead>
-    <tr>
-      <th>name</th>
-      <th>place</th>
-      <th>population</th>
-      <th>muni_name</th>
-      <th>coord</th>
-    </tr>
+    <tr></tr>
   </thead>
   <tbody></tbody>
 </table>
 
 <style>
-/* Inline style, scoped to #sortable */
 #sortable {
   border-collapse: collapse;
   width: 100%;
@@ -58,41 +56,119 @@ If the place you want isn't here, it might be found in this [list from the 1971 
 
 <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
 <script>
-// Load CSV and build table
-Papa.parse("../docs/hamlets.csv", {
-  download: true,
-  header: true,
-  skipEmptyLines: true,
-  complete: function(results) {
-    const tbody = document.querySelector("#sortable tbody");
-
-    results.data.forEach(row => {
-      if (!row.name) return;
-
-      const tr = document.createElement("tr");
-      tr.innerHTML = `
-        <td>${row.name}</td>
-        <td>${row.place}</td>
-        <td>${row.population}</td>
-        <td>${row.muni_name}</td>
-        <td><a href="https://www.google.com/maps?q=${row.lat},${row.lon}" target="_blank">
-            ${row.lat}, ${row.lon}</a></td>
-      `;
-      tbody.appendChild(tr);
-    });
-
-    enableSorting();
-    enableFiltering();
+const sources = {
+  hamlets: {
+    file: "../docs/hamlets.csv",
+    headers: ["name","place","population","muni_name","coord"],
+    muniIndex: 3,
+    renderRow: row => `
+      <td>${row.name}</td>
+      <td>${row.place}</td>
+      <td>${row.population}</td>
+      <td>${row.muni_name}</td>
+      <td><a href="https://www.google.com/maps?q=${row.lat},${row.lon}" target="_blank">
+          ${row.lat}, ${row.lon}</a></td>
+    `
   },
-  error: function(err) {
-    console.error("Error loading CSV:", err);
+  papal: {
+    file: "../docs/papal_pops_1836.csv",
+    headers: ["name","type","comune","governo","distretto","legazione","diocesi","population"],
+    muniIndex: 2,
+    renderRow: row => `
+      <td>${row.name}</td>
+      <td>${row.type}</td>
+      <td>${row.comune}</td>
+      <td>${row.governo}</td>
+      <td>${row.distretto}</td>
+      <td>${row.legazione}</td>
+      <td>${row.diocesi}</td>
+      <td>${row.population}</td>
+    `
+  }
+};
+
+let currentSource = "hamlets";
+let bufferedRows = [];
+let renderedCount = 0;
+let parseComplete = false;
+const PAGE_SIZE = 200;
+
+function loadTable(sourceKey) {
+  currentSource = sourceKey;
+  bufferedRows = [];
+  renderedCount = 0;
+  parseComplete = false;
+
+  const source = sources[sourceKey];
+  const theadRow = document.querySelector("#sortable thead tr");
+  const tbody = document.querySelector("#sortable tbody");
+
+  // Clear existing
+  theadRow.innerHTML = "";
+  tbody.innerHTML = "";
+
+  // Build headers
+  source.headers.forEach(h => {
+    const th = document.createElement("th");
+    th.textContent = h;
+    theadRow.appendChild(th);
+  });
+
+  // Parse CSV streaming
+  Papa.parse(source.file, {
+    download: true,
+    header: true,
+    skipEmptyLines: true,
+    comments: "#",
+    step: function(row) {
+      const r = row.data;
+      if (!r.name) return;
+      bufferedRows.push(r);
+      if (bufferedRows.length >= PAGE_SIZE) {
+        flushRows();
+      }
+    },
+    complete: function() {
+      parseComplete = true;
+      if (bufferedRows.length > 0) flushRows();
+      enableSorting();
+      enableFiltering();
+    },
+    error: err => console.error("Error loading CSV:", err)
+  });
+}
+
+function flushRows() {
+  const source = sources[currentSource];
+  const tbody = document.querySelector("#sortable tbody");
+
+  if (bufferedRows.length === 0) return;
+
+  const chunk = bufferedRows.splice(0, PAGE_SIZE);
+  chunk.forEach(r => {
+    const tr = document.createElement("tr");
+    tr.innerHTML = source.renderRow(r);
+    tbody.appendChild(tr);
+  });
+  renderedCount += chunk.length;
+}
+
+// Infinite scroll
+window.addEventListener("scroll", () => {
+  if (window.innerHeight + window.scrollY >= document.body.offsetHeight - 200) {
+    if (bufferedRows.length > 0) {
+      flushRows();
+    } else if (parseComplete) {
+      // no more data -> disable listener (optional)
+      // window.removeEventListener("scroll", arguments.callee);
+    }
   }
 });
 
 // Sorting
 function enableSorting() {
   document.querySelectorAll("th").forEach((th, i) => {
-    th.addEventListener("click", () => {
+    th.onclick = () => {
       const tbody = th.closest("table").querySelector("tbody");
       const rows = Array.from(tbody.querySelectorAll("tr"));
       const asc = !th.classList.contains("asc");
@@ -107,28 +183,38 @@ function enableSorting() {
       });
 
       rows.forEach(r => tbody.appendChild(r));
-      th.parentElement.querySelectorAll("th").forEach(x => x.classList.remove("asc", "desc"));
+      th.parentElement.querySelectorAll("th").forEach(x => x.classList.remove("asc","desc"));
       th.classList.add(asc ? "asc" : "desc");
-    });
+    };
   });
 }
 
-// Filtering
+// Filtering with debounce
 function enableFiltering() {
   const nf = document.getElementById("nameFilter");
   const mf = document.getElementById("muniFilter");
+  const muniIndex = sources[currentSource].muniIndex;
 
+  let debounce;
   function filter() {
-    const n = nf.value.toLowerCase();
-    const m = mf.value.toLowerCase();
-
-    document.querySelectorAll("#sortable tbody tr").forEach(r => {
-      const name = r.children[0].textContent.toLowerCase();
-      const muni = r.children[3].textContent.toLowerCase();
-      r.style.display = (name.includes(n) && muni.includes(m)) ? "" : "none";
-    });
+    clearTimeout(debounce);
+    debounce = setTimeout(() => {
+      const n = nf.value.toLowerCase();
+      const m = mf.value.toLowerCase();
+      document.querySelectorAll("#sortable tbody tr").forEach(r => {
+        const name = (r.children[0]?.textContent || "").toLowerCase();
+        const muni = (r.children[muniIndex]?.textContent || "").toLowerCase();
+        r.style.display = (name.includes(n) && muni.includes(m)) ? "" : "none";
+      });
+    }, 200);
   }
-  nf.addEventListener("input", filter);
-  mf.addEventListener("input", filter);
+  nf.oninput = filter;
+  mf.oninput = filter;
 }
+
+// === Init ===
+document.querySelectorAll("input[name=source]").forEach(radio => {
+  radio.addEventListener("change", e => loadTable(e.target.value));
+});
+loadTable("hamlets");
 </script>

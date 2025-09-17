@@ -23,14 +23,14 @@
 
 * **Known holdings (Comune – [SIUSA](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=328360)):**
 
-  * **Italian civil records (post-unification):** 1860–1955 (430 registers; births, marriages, deaths)
+  * **Italian civil records:** 1860–1955 (430 registers; births, marriages, deaths)
       * **Italian civil records (sezione distaccata di Preggio):** 1886–1955 (126 registers; births, marriages, deaths)
   * **French civil records:** 1810–1814 (35 registers; births, marriages, deaths)
   * **Parish books:** 1567–1868 (102 registers; baptisms, marriages, deaths, confirmations, stati delle anime)
 
 * **Known holdings (State Archives):**
 
-  * **Italian civil records:** none listed
+  * **Italian civil records:** Municipality likely included in the *[Tribunale di Perugia](http://dati.san.beniculturali.it/SAN/complarc_IT-AS-PG_san.cat.complArch.96907)* holdings at the State Archives of Perugia since it falls within its jurisdiction. The number of registers for this municipality is not known.
   * **French civil records:** none listed
   * **Parish books:** none listed
 

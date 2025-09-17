@@ -16,7 +16,7 @@
 
 * **Known holdings (Comune – [SIUSA](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=307193)):**
 
-  * **Italian civil records:** 1864–1981 (522 registries, 13 envelopes).
+  * **Italian civil records:** 1864–1981 (522 registries, 13 envelopes). \
     ⚠️ The Comune was part of the [Grand Duchy of Tuscany](https://en.wikipedia.org/wiki/Grand_Duchy_of_Tuscany) in 1860 and not affected by parish register transfers. \
 	SIUSA notes earlier records “from 1800” are also present.
   * **Parish books:** none held
@@ -24,7 +24,7 @@
 
 * **Known holdings (State Archives):**
 
-  * **Italian civil records:** none held
+  * **Tuscand and Italian civil records:** 1808–1864 (births, marriages, deaths, census, inventories; held by Archivio di Stato di Firenze)
   * **Parish books:** none held
   * **French civil records:** none held
 

@@ -32,7 +32,7 @@ This municipality charges a **€200–€300 administrative fee per record** fo
 
 * **Known holdings (State Archives):**
 
-  * **Italian civil records:** not listed
+  * **Italian civil records:** Municipality likely included in the *[Tribunale di Perugia](http://dati.san.beniculturali.it/SAN/complarc_IT-AS-PG_san.cat.complArch.96907)* holdings at the State Archives of Perugia since it falls within its jurisdiction. The number of registers for this municipality is not known.
   * **Parish books:** none held
   * **Napoleonic civil records:** 1808–1814 (31 registries; [Antenati – Archivio di Stato di Macerata](https://antenati.cultura.gov.it/search-registry/?archivio=191&descrizione=Archivio%20di%20Stato%20di%20Macerata&s_facet_query=localita_fondo_s%3A%22Sigillo%28provincia%20di%20Perugia%29%22))
 

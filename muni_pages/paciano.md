@@ -60,7 +60,7 @@
 
 According to the [Atlante Storico Istituzionale dell’Italia unita](http://dati.san.beniculturali.it/asi/local/detail.html?UA05106):
 
-* 1982 — Località Acquaiola-Molinaccio detached from the municipalities of Paciano and Piegaro and aggregated to Panicale
+* 1982 — Locality of Acquaiola-Molinaccio detached from the municipalities of Paciano and Piegaro and aggregated to [Panicale](panicale.md)
 
 ---
 

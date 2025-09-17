@@ -40,7 +40,7 @@
 
 * **Known holdings (Diocese / parishes):**
 
-  * \[to be filled]
+  * see *Parishes and Frazioni*
 
 ---
 
@@ -48,50 +48,83 @@
 
 ### Amelia (town)
 
+#### Parish of Santa Firmina
+
 * **Santa Firmina**: baptisms (1564–1861; 31 regg.), confirmations (1635; 1 reg.), marriages (1582–1860; 11 regg.), deaths (1616–1860; 8 regg.)
+
+#### Parish of Santa Lucia
+
 * **Santa Lucia**: marriages (1565–1860; 15 regg.), deaths (1598–1860; 17 regg.), status animarum (1849; 1 reg.)
     * Santa Lucia Vergine Martire, Amelia, 1598–1860 ([Catalog 502689](https://www.familysearch.org/en/search/catalog/502689))
+
+#### Parish of Santa Maria in Monticelli
+
 * **Santa Maria in Monticelli**: baptisms (1846–1860; 1 reg.), marriages (1846–1861; 1 reg.), deaths (1846–1860; 1 reg.)
     * Monticelli ([Catalog](https://www.familysearch.org/en/records/images/search-results?creator=Chiesa%20cattolica.%20Parrocchia%20di%20Monticelli%20%28Terni%29&place=8018900&page=1&pageSize=100)) (mistakenly listed as *Monticelli, Parma*)
+
+#### Parish of Santa Maria dell’Olmo
+
 * **Santa Maria dell’Olmo**: marriages (1602–1860; 17 regg.), deaths (1616–1860; 15 regg.)
     * Santa Maria dell’Olmo, Amelia, 1602–1860 ([Catalog 502367](https://www.familysearch.org/en/search/catalog/502367))	
+
+#### Parish of Santa Maria della Porta
+
 * **Santa Maria della Porta**: marriages (1623–1860; 7 regg.), deaths (1597–1860; 9 regg.)
     * Santa Maria di Porta, Amelia, 1572–1860 ([Catalog 502402](https://www.familysearch.org/en/search/catalog/502402))
-	
+
+#### Parish of Santa Croce
+
 * Santa Croce, Amelia, 1565–1583 ([Catalog 502614](https://www.familysearch.org/en/search/catalog/502614))
+
+#### Parish of Amelia
+
 * Parrocchia di Amelia ([Catalog 483228](https://www.familysearch.org/en/search/catalog/483228))
 
 ### Collicello
+
+#### Parish of San Giovanni evangelista
 
 * **San Giovanni evangelista**: baptisms (1743–1860; 3 regg.), marriages (1702–1860; 3 regg.), deaths (1743–1860; 2 regg.)
     * Collicello, 1612–1860 ([Catalog 502413](https://www.familysearch.org/en/search/catalog/502413))
 
 ### Foce
 
+#### Parish of San Gregorio martire
+
 * **San Gregorio martire**: baptisms (1730–1860; 4 regg.), marriages (1730–1860; 2 regg.), deaths (1730–1860; 2 regg.)
     * Foce, 1730–1860 ([Catalog 502448](https://www.familysearch.org/en/search/catalog/502448))
 
 ### Fornole
+
+#### Parish of San Pietro apostolo
 
 * **San Pietro apostolo**: marriages (1622–1860; 1 reg.), deaths (1814–1860; 2 regg.)
     * Fornole, 1622–1860 ([Catalog 502526](https://www.familysearch.org/en/search/catalog/502526))
 
 ### Macchie
 
+#### Parish of San Nicola
+
 * **San Nicola**: baptisms (1760–1860; 2 regg.), marriages (1683–1860; 2 regg.), deaths (1681–1860; 2 regg.)
     * Macchie, 1681–1860 ([Catalog 502574](https://www.familysearch.org/en/search/catalog/502574))
 
 ### Monte Campano
+
+#### Parish of San Pietro ad vincula
 
 * **San Pietro ad vincula**: baptisms (1784–1860; 1 reg.), marriages (1725–1860; 1 reg.), deaths (1725–1860; 1 reg.)
     * Montecampano, 1725–1860 ([Catalog 502595](https://www.familysearch.org/en/search/catalog/502595))
 
 ### Sambucetole
 
+#### Parish of San Matteo
+
 * **San Matteo**: baptisms (1772–1860; 2 regg.), marriages (1709–1860; 2 regg.), deaths (1768–1860; 1 reg.)
     * Sambucetole, 1709–1860 ([Catalog 502608](https://www.familysearch.org/en/search/catalog/502608))
 
 ### Porchiano del Monte
+
+#### Parish of San Simeone
 
 * **San Simeone**: baptisms (1593–1860; 5 regg., last also includes marriages and deaths), marriages (1658–1856; 3 regg.), deaths (1597–1856; 4 regg.)
     * Porchiano, 1593–1865 ([Catalog 502603](https://www.familysearch.org/en/search/catalog/502603))

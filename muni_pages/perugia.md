@@ -18,10 +18,12 @@
 * **Known holdings (Comune – [SIUSA](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=258557)):**
 
   * **Italian civil records:** 1861–2001 (1435 registers; births, marriages, deaths)
+  * **Parish books:** none listed
+  * **French civil records:** none listed
 
 * **Known holdings (State Archives):**
 
-  * **Italian civil records:** none listed
+  * **Italian civil records:** Municipality likely included in the *[Tribunale di Perugia](http://dati.san.beniculturali.it/SAN/complarc_IT-AS-PG_san.cat.complArch.96907)* holdings at the State Archives of Perugia since it falls within its jurisdiction. The number of registers for this municipality is not known.
   * **Parish books:** 1522–1863 (743 registers; baptisms, marriages, deaths)
   * **French civil records:** none listed
 

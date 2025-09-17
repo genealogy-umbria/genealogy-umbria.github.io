@@ -18,17 +18,17 @@
 
   * **Italian civil records:** 1860–1965 (574 units: 502 registers, 72 envelopes)
   * **Parish books:** 1577–1871 (25 registers total)
-  * **French civil records:** none held
+  * **French civil records:** none listed
 
 * **Known holdings (State Archives):**
 
-  * **Italian civil records:** Likely included as part of the Province of Perugia holdings ([Tribunale di Perugia series](http://dati.san.beniculturali.it/SAN/complarc_IT-AS-PG_san.cat.complArch.96907)); number of registers for this municipality not known.
-  * **Parish books:** none held
-  * **French civil records:** none held
+  * **Italian civil records:** Municipality likely included in the *[Tribunale di Perugia](http://dati.san.beniculturali.it/SAN/complarc_IT-AS-PG_san.cat.complArch.96907)* holdings at the State Archives of Perugia since it falls within its jurisdiction. The number of registers for this municipality is not known.
+  * **Parish books:** none listed
+  * **French civil records:** none listed
 
 * **Known holdings (Diocese / parishes):**
 
-  * none held
+  * none listed
 
 ---
 
