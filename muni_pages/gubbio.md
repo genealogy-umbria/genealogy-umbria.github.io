@@ -25,7 +25,7 @@
 * **Known holdings (State Archives):**
 
   * **Italian civil records:** none listed
-  * **Parish books:** 1567–1863 (parish registers requisitioned by the Comune and now preserved in the Sezione di Archivio di Stato di Gubbio)
+  * **Parish registers:** 1567–1863 (210 registers; [State Archive of Perugia, Gubbio Section](http://www.san.beniculturali.it/web/san/dettaglio-complesso-documentario?step=dettaglio&codiSanCompl=san.cat.complArch.97162&idSogc=&id=97162))
   * **Napoleonic civil records:** c. 1808-1814 (preserved at Archivio di Stato di Pesaro; not accessible online).
 
 * **Known holdings (Diocese / parishes):**

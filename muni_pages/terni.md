@@ -80,44 +80,43 @@
 
 #### Parish of Rivo
 
-* **Parish of Rivo**: listed in 1853
+* **Parish of Rivo**: 3 registers (held by State Archive of Terni)
 
 #### Parish of Piedimonte
 
-* **Parish of Piedimonte**: listed in 1853
+* **Parish of Piedimonte**: 1 register (held by State Archive of Terni)
 
 #### Parish of Cecalocco e Battiferro
 
-* **Parish of Cecalocco e Battiferro**: listed in 1853
+* **Parish of Cecalocco e Battiferro**: 2 registers (held by State Archive of Terni)
 
 #### Parish of Collelicino
 
-* **Parish of Collelicino**: listed in 1853
+* **Parish of Collelicino**: 3 registers (held by State Archive of Terni)
 
 ### Acquapalombo
 
 #### Parish
 
-* **Parish**: listed in 1853
+* **Parish:** 2 registers (held by State Archive of Terni)
 
 ### Miranda
 
 #### Parish
 
-* **Parish**: listed in 1853
+* **Parish**: 4 registers (held by State Archive of Terni)
 
 ### Poggiolavarino
 
 #### Parish
 
-* **Parish**: listed in 1853
+* **Parish**: 3 registers (held by State Archive of Terni)
 
 ### Rocca San Zenone
 
 #### Parish
 
-* **Parish**: listed in 1853
-
+* **Parish**: 7 registers (held by State Archive of Terni)
 
 ### Torre Orsina
 

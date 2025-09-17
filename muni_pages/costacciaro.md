@@ -21,11 +21,12 @@
   * **Parish books:** none listed (transferred to Archivio di Stato di Perugia in 1952)
   * **French civil records:** none listed
 
-* **Known holdings (State Archives):**
+* **Known holdings (State Archives, Perugia):**
 
-  * **Italian civil records:** none listed
-  * **Parish books:** yes (transferred from the municipality in 1952; no detail in SIUSA)
+  * **Italian civil records:** none listed  
+  * **Parish registers:** 1759–1866 (5 registers) (see [State Archive of Perugia entry](http://www.san.beniculturali.it/web/san/dettaglio-complesso-documentario?step=dettaglio&codiSanCompl=san.cat.complArch.96132&idSogc=&id=96132))  
   * **French civil records:** none listed
+
 
 * **Known holdings (Diocese / parishes):**
 

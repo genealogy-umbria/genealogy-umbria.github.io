@@ -23,7 +23,7 @@
 * **Known holdings (State Archives, Perugia):**
 
   * **Italian civil records:** not listed
-  * **Parish books:** pre-1804 baptisms, marriages, deaths (quantities not specified)
+  * **Parish books:** baptisms, marriages, deaths (quantities not specified)
   * **French civil records:** not listed
 
 * **Known holdings (Diocese / parishes):**

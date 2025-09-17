@@ -101,8 +101,6 @@ This municipality charges a **€50–€100 administrative fee per record** for
   * *Marriages*: 1770–1860 (1 register)
   * *Deaths*: 1747–1860 (1 register)
 
-## Parishes and Frazioni
-
 ### Abbadia di Petroia
 
 #### Parish of SS. Maria ed Egidio

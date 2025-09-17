@@ -143,6 +143,7 @@ Urban parishes listed in 1853:
 
 * **Parish of Titignano**: (held by Archivio di Stato di Terni, Sezione di Orvieto)
 * Parish name as listed in 1853: **S.ma Assunta**
+* Index available: [Marriages, Titignano (1815–1862)](https://docs.google.com/spreadsheets/d/1S9cC385--46LtbkKsywmB6AWUVg1AzWGkLZ3k13itp4/edit?gid=0#gid=0)
 
 ### Tordimonte
 

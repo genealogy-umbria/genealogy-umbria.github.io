@@ -409,7 +409,7 @@ The *brogliardi* for this municipality are available through the [Archivio di St
 
 ## Additional Notes
 
-* None.
+* [La Gazzetta di Foligno – Archivio storico](http://www.archiviogazzetta.it/): weekly publication, coverage begins in 1886 with several gaps. Not OCR-processed, so full-text search is not available.
 
 ---
 

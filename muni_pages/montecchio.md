@@ -61,7 +61,6 @@ According to the [Atlante Storico Istituzionale dell’Italia unita](http://dati
   * Morti: 1905–1910
 
   See [FamilySearch catalog entry](https://www.familysearch.org/en/search/catalog/652706).
-  ✅ These records are fully accessible online.
 
 * **Portale Antenati:** none available for this municipality.
 
