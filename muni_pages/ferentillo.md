@@ -41,7 +41,12 @@
 
 #### Parish of Santa Maria
 
-* **Parish of Santa Maria in Matterella**: baptisms (1708–1860; 2 registers), marriages (1707–1860; 1 register), deaths (1707–1860; 1 register) (held by Archivio storico [SIUSA](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=253456))
+* **Parish of Santa Maria in Matterella**:  
+  * baptisms (1708–1860; 2 registers),  
+  * marriages (1707–1860; 1 register) ([FamilySearch](https://www.familysearch.org/ark:/61903/3:1:3QS7-99C5-Y1MN?view=explore&groupId=M9DS-MYZ&lang=en)),  
+  * deaths (1707–1860; 1 register) ([FamilySearch](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9C5-YBCG?view=explore&groupId=M9DS-MYZ&lang=en)).  
+
+All held by [Archivio storico, Ferentillo](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=253456)
 
 ### Castellone Alto
 
@@ -49,7 +54,7 @@
 
 * **Parishes of Sant’Andrea & San Giovanni**: baptisms (17th c.–1849; 1 register), marriages (1753–1860; 1 register), deaths (1750–1860; 1 register), stati delle anime (1814–1827; 1 register) (held by Archivio storico [SIUSA](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=253456))
 
-### La Valle
+### San Pietro in Valle
 
 #### Parish of San Pietro
 
@@ -59,13 +64,24 @@
 
 #### Parish of SS. Antonio abate e Nicola
 
-* **Parish of SS. Antonio abate e Nicola in Monterivoso**: baptisms (1631–1860; 4 registers), marriages (1630–1860; 3 registers), deaths (1631–1860; 4 registers), stati delle anime (1646, 1835–1860; 2 registers) (held by Archivio storico [SIUSA](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=253456))
+* **Parish of SS. Antonio abate e Nicola in Monterivoso**: 
+  * baptisms (1631–1860; 4 registers), 
+  * marriages (1630–1860; 3 registers), 
+  * deaths (1631–1860; 4 registers) ([FamilySearch](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9C5-Y5VZ?view=explore&groupId=M9DS-MYH&grid=on&lang=en)), 
+  * stati delle anime (1646, 1835–1860; 2 registers).  
+
+All held by [Archivio storico, Ferentillo](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=253456)
 
 ### Nicciano
 
 #### Parish of San Michele Arcangelo
 
-* **Parish of San Michele Arcangelo in Nicciano**: baptisms (1603–1860; 2 registers), deaths (1604–1860; 2 registers), stati delle anime (1830–1860; 1 register) (held by Archivio storico [SIUSA](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=253456))
+* **Parish of San Michele Arcangelo in Nicciano**: 
+  * baptisms (1603–1860; 2 registers) ([FamilySearch](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9C5-YVQ2?view=explore&groupId=TH-1971-35847-13582-98&lang=en)),  
+  * deaths (1604–1860; 2 registers) ([FamilySearch](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9C5-YJ3D?view=explore&groupId=TH-1971-35847-13582-98&lang=en)),  
+  * stati delle anime (1830–1860; 1 register).  
+
+All held by [Archivio storico, Ferentillo](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=253456)
 
 ### Precetto
 
@@ -73,14 +89,24 @@
 
 ⚠️ Some parish registers were lost before the 18th century, due to fire.
 
-* **Parish of Santo Stefano in Precetto**: baptisms (1701–1860; 2 registers), marriages (1711–1860; 1 register), deaths (1711–1860; 2 registers) (held by Archivio storico [SIUSA](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=253456))
-
+* **Parish of Santo Stefano in Precetto**: 
+  * baptisms (1701–1860; 2 registers),
+  * marriages (1711–1860; 1 register) ([FamilySearch](https://www.familysearch.org/ark:/61903/3:1:3QS7-89C5-YY2B?view=explore&groupId=M9DS-MY4&grid=on&lang=en)), 
+  * deaths (1711–1860; 2 registers) ([FamilySearch](https://www.familysearch.org/ark:/61903/3:1:3QS7-89C5-YY2B?view=explore&groupId=M9DS-MY4&grid=on&lang=en)).
+  
+All held by [Archivio storico, Ferentillo](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=253456)
 
 ### San Mamiliano
 
 #### Parish of San Biagio
 
-* **Parish of San Biagio in San Mamiliano**: baptisms (1742–1860; 1 register), marriages (1740–1860; 1 register), deaths (1742–1860; 1 register), stati delle anime (1792–1860; 1 register) (held by Archivio storico [SIUSA](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=253456))
+* **Parish of San Biagio in San Mamiliano**: 
+  * baptisms (1742–1860; 1 register), 
+  * marriages (1740–1860; 1 register), 
+  * deaths (1742–1860; 1 register), 
+  * stati delle anime (1792–1860; 1 register) ([FamilySearch](https://www.familysearch.org/ark:/61903/3:1:3QS7-89C5-Y99G-7?view=explore&groupId=M9DS-MYZ&lang=en)).  
+
+All held by [Archivio storico, Ferentillo](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=253456)
 
 ### Terria
 
@@ -92,7 +118,11 @@
 
 #### Parish of San Vincenzo
 
-* **Parish of San Vincenzo in Gabbio**: baptisms (1735–1837; 2 registers), deaths (1733–1840; 2 registers) (held by Archivio storico [SIUSA](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=253456))
+* **Parish of San Vincenzo in Gabbio**: 
+  * baptisms (1735–1837; 2 registers) ([FamilySearch](https://www.familysearch.org/ark:/61903/3:1:3QS7-89C5-Y9SH-Y?view=explore&groupId=M9DS-MYC&lang=en)), 
+  * deaths (1733–1840; 2 registers) ([FamilySearch](https://www.familysearch.org/ark:/61903/3:1:3QS7-89C5-Y9SH-Y?view=explore&groupId=M9DS-MYC&lang=en)).  
+
+All held by [Archivio storico, Ferentillo](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=253456)
 
 ⚠️ No further parishes are listed for this municipality in the *[Statistica della popolazione dello Stato Pontificio dell’anno 1853](https://www.google.it/books/edition/Statistics_della_popolazione_dello_Stato/v6dCAQAAMAAJ)*.
 
