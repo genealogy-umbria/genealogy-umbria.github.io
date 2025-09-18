@@ -7,11 +7,33 @@ Each page includes:
 - Notes on **former municipalities** absorbed into the present territory  
 - Known holdings and archival notes  
 
+<style>
+.municipality-list {
+  column-gap: 2em;
+  width: 100%;
+}
+
+.municipality-list {
+  column-count: 1;
+}
+
+@media (min-width: 600px) {
+  .municipality-list {
+    column-count: 2;
+  }
+}
+
+@media (min-width: 1000px) {
+  .municipality-list {
+    column-count: 3;
+  }
+}
+</style>
+
 ---
 
 ## Provincia di Perugia
-
-<div style="display:grid; grid-template-columns:repeat(auto-fill,minmax(250px,1fr)); gap:.25rem .75rem; list-style:none; padding:0; margin:0 0 1.5rem;">
+{.municipality-list}
 
 - [Assisi](muni_pages/assisi.md) [27 605]  
 - [Bastia Umbra](muni_pages/bastia_umbra.md) [21 199]  
@@ -72,14 +94,11 @@ Each page includes:
 - [Valfabbrica](muni_pages/valfabbrica.md) [3 205]  
 - [Vallo di Nera](muni_pages/vallo_di_nera.md) [345]  
 - [Valtopina](muni_pages/valtopina.md) [1 280]  
-</div>
 
 ---
 
-## Provincia di Terni  
-
-<div style="display:grid; grid-template-columns:repeat(auto-fill,minmax(250px,1fr)); gap:.25rem .75rem; list-style:none; padding:0; margin:0 0 1.5rem;">
-
+## Provincia di Terni
+{.municipality-list}
 
 - [Acquasparta](muni_pages/acquasparta.md) [4 407]  
 - [Allerona](muni_pages/allerona.md) [1 688]  
@@ -114,5 +133,3 @@ Each page includes:
 - [San Venanzo](muni_pages/san_venanzo.md) [2 177]  
 - [Stroncone](muni_pages/stroncone.md) [4 629]  
 - [Terni](muni_pages/terni.md) [106 370]  
-
-</div>
