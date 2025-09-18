@@ -62,7 +62,7 @@
 * **Parish (Castel San Felice)**: baptisms, marriages, deaths (1673–1860; 6 registries)
 
 ⚠️ No further parishes are listed for this municipality in the *[Statistica della popolazione dello Stato Pontificio dell’anno 1853](https://www.google.it/books/edition/Statistics_della_popolazione_dello_Stato/v6dCAQAAMAAJ)*. \
-That source does, however, list **Civitella** and **Monte San Vito** as parishes then part of Sant’Anatolia di Narco; these were transferred to Scheggino in 1895.
+That source does, however, list **Civitella** and **Monte San Vito** as parishes then part of Sant’Anatolia di Narco; these were transferred to [Scheggino](scheggino.md) in 1895.
 
 ---
 
@@ -71,8 +71,8 @@ That source does, however, list **Civitella** and **Monte San Vito** as parishes
 According to the [Atlante Storico Istituzionale dell’Italia unita](http://dati.san.beniculturali.it/asi/local/detail.html?UA05115):
 
 * **1880:** The suppressed Comune of Castel San Felice was aggregated to Sant’Anatolia di Narco.
-* **1895:** The frazioni of Civitella and Monte San Vito were detached and aggregated to Scheggino.
-* **1927:** The Comune of Sant’Anatolia di Narco was suppressed, and its territory aggregated to Spoleto.
+* **1895:** The frazioni of Civitella and Monte San Vito were detached and aggregated to [Scheggino](scheggino.md).
+* **1927:** The Comune of Sant’Anatolia di Narco was suppressed, and its territory aggregated to [Spoleto](spoleto.md).
 * **1930:** The Comune of Sant’Anatolia di Narco was reconstituted, following detachment from Spoleto.
 
 ---

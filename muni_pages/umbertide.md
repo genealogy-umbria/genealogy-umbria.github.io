@@ -1,4 +1,4 @@
-# Umbertide
+# Umbertide (formerly Fratta)
 
 {% include muni_map.html %}
 
