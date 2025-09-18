@@ -30,7 +30,7 @@ So if you are searching for an Umbrian birth registered in 1862, you do not need
 
 ## Parish records: seized, scattered, sometimes spared
 
-![alt text](img/orvieto_parish_book.jpg "Sabatinus")
+![alt text](img/parish_book.jpg "Sabatinus")
 
 Nearly every guide to Italian genealogy will tell you: *for records before 1860, go to diocesan archives.* But in Umbria, that advice needs nuance.
 

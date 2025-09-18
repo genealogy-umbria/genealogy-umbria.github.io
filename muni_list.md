@@ -11,6 +11,8 @@ Each page includes:
 
 ## Provincia di Perugia
 
+<div style="display:grid; grid-template-columns:repeat(auto-fill,minmax(250px,1fr)); gap:.25rem .75rem; list-style:none; padding:0; margin:0 0 1.5rem;">
+
 - [Assisi](muni_pages/assisi.md) [27 605]  
 - [Bastia Umbra](muni_pages/bastia_umbra.md) [21 199]  
 - [Bettona](muni_pages/bettona.md) [4 224]  
@@ -70,10 +72,14 @@ Each page includes:
 - [Valfabbrica](muni_pages/valfabbrica.md) [3 205]  
 - [Vallo di Nera](muni_pages/vallo_di_nera.md) [345]  
 - [Valtopina](muni_pages/valtopina.md) [1 280]  
+</div>
 
 ---
 
 ## Provincia di Terni  
+
+<div style="display:grid; grid-template-columns:repeat(auto-fill,minmax(250px,1fr)); gap:.25rem .75rem; list-style:none; padding:0; margin:0 0 1.5rem;">
+
 
 - [Acquasparta](muni_pages/acquasparta.md) [4 407]  
 - [Allerona](muni_pages/allerona.md) [1 688]  
@@ -108,3 +114,5 @@ Each page includes:
 - [San Venanzo](muni_pages/san_venanzo.md) [2 177]  
 - [Stroncone](muni_pages/stroncone.md) [4 629]  
 - [Terni](muni_pages/terni.md) [106 370]  
+
+</div>
