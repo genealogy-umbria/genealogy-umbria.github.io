@@ -110,3 +110,30 @@ Each page includes:
 - [Stroncone](muni_pages/stroncone.md) [4 629]  
 - [Terni](muni_pages/terni.md) [106 370]  
 {:.municipality-list}
+
+---
+
+## Former Municipalities  
+
+- [Capitone](muni_pages/capitone.md) (1861–1875)  
+- [Carnaiola](muni_pages/carnaiola.md) (1861–1869)  
+- [Castel San Felice](muni_pages/castel_san_felice.md) (1861–1880)  
+- [Castel San Giovanni](muni_pages/castel_san_giovanni.md) (1861–1875)  
+- [Casteldilago](muni_pages/casteldilago.md) (1861–1875)  
+- [Ceselli](muni_pages/ceselli.md) (1861–1875)  
+- [Cesi](muni_pages/cesi.md) (1861–1927)  
+- [Collemancio](muni_pages/collemancio.md) (1861–1869)  
+- [Collescipoli](muni_pages/collescipoli.md) (1861–1927)  
+- [Collestatte](muni_pages/collestatte.md) (1861–1927)  
+- [Montegiove](muni_pages/montegiove.md) (1861–1870)  
+- [Monterubiaglio](muni_pages/monterubiaglio.md) (1861–1880)  
+- [Montesanto](muni_pages/montesanto.md) (1861–1880)  
+- [Papigno](muni_pages/papigno.md) (1861–1927)  
+- [Pascelupo](muni_pages/pascelupo.md) (1861–1879)  
+- [Piediluco](muni_pages/piediluco.md) (1861–1927)  
+- [Piedipaterno](muni_pages/piedipaterno.md) (1861–1881)  
+- [Porchiano](muni_pages/porchiano.md) (1861–1876)  
+- [Portaria](muni_pages/portaria.md) (1861–1875)  
+- [Torreorsina](muni_pages/torreorsina.md) (1861–1927)  
+- [San Vito in Monte](muni_pages/san_vito_in_monte.md) (1861–1929)  
+{:.municipality-list}

@@ -74,7 +74,7 @@
 According to the [Atlante Storico Istituzionale dell’Italia unita](http://dati.san.beniculturali.it/asi/local/detail.html?UA05117):
 
 * 1875 — Aggregated the suppressed municipality of Ceselli
-* 1895 — Acquired the frazioni Civitella and Monte San Vito from Sant’Anatolia di Narco
+* 1895 — Acquired the frazioni Civitella and Monte San Vito from [Sant’Anatolia di Narco](sant_anatolia_di_narco.md)
 * 1927 — Suppressed and aggregated into Spoleto
 * 1930 — Reconstituted as a separate municipality, detached from Spoleto
 
