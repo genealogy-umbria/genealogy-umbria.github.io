@@ -1,0 +1,29 @@
+/* assets/css/municipalities.css - responsive columns for municipality lists */
+
+.municipality-list {
+  -webkit-column-gap: 2em;
+  -moz-column-gap: 2em;
+  column-gap: 2em;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* keep normal list markers and spacing inside columns */
+.municipality-list li {
+  break-inside: avoid;
+  margin-bottom: 0.5em;
+  list-style-position: inside;
+  padding-left: 0;
+}
+
+/* responsive column counts */
+@media (max-width: 599px) {
+  .municipality-list { column-count: 1; }
+}
+@media (min-width: 600px) and (max-width: 999px) {
+  .municipality-list { column-count: 2; }
+}
+@media (min-width: 1000px) {
+  .municipality-list { column-count: 3; }
+}
