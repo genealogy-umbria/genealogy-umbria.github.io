@@ -37,31 +37,47 @@
 
 ### Castiglione del Lago (town)
 
-* **Santa Maria Maddalena**: baptisms, marriages, deaths, stati delle anime (1776–1861; 4 registers)
+#### Parish of Santa Maria Maddalena
+
+* **Parish of Santa Maria Maddalena**: baptisms (1792–1841; 1 register), marriages (1776–1841; 1 register), deaths (1833–1861; 1 register), stati delle anime (1827–1840; 1 register + 1 file, dated 1860) (held by [Comune di Castiglione del Lago](https://inventari-san.cultura.gov.it/inventari/1326/pdf))
 
 ### Isola Polvese
 
-* **San Secondo martire**: baptisms, marriages, deaths, stati delle anime (1755–1861; 4 registers)
+#### Parish of San Secondo Martire
+
+* **Parish of San Secondo Martire**: marriages (1755–1837; 1 register), deaths (1755–1861; 1 register) (held by [Comune di Castiglione del Lago](https://inventari-san.cultura.gov.it/inventari/1326/pdf))  
+
+⚠️ SIUSA lists baptisms, marriages, deaths, and stati delle anime (1755–1861; 4 registers), but the SAN inventory confirms only marriages and deaths.
 
 ### Petrignano
 
-* **Sant’Ansano**: baptisms, marriages, deaths (1766–1860; 2 registers)
+#### Parish of Sant’Ansano
+
+* **Parish of Sant’Ansano**: baptisms (1833–1860; 1 register), deaths (1766–1860; 1 register) (held by [Comune di Castiglione del Lago](https://inventari-san.cultura.gov.it/inventari/1326/pdf))
 
 ### Piana
 
-* **Santa Maria**: baptisms, marriages, deaths (1808–1860; 5 registers)
+#### Parish of Santa Maria
+
+* **Parish of Santa Maria**: marriages (1808–1860; 2 registers), deaths (1808–1860; 2 registers), stati delle anime (1823–1858; 1 register) (held by [Comune di Castiglione del Lago](https://inventari-san.cultura.gov.it/inventari/1326/pdf))
 
 ### Porto
 
-* **San Michele Arcangelo**: baptisms, marriages, deaths (1841–1857; 1 register)
+#### Parish of San Michele Arcangelo
+
+* **Parish of San Michele Arcangelo**: baptisms (1841–1857; 1 register) (held by [Comune di Castiglione del Lago](https://inventari-san.cultura.gov.it/inventari/1326/pdf))
 
 ### Pozzuolo
 
-* **Santi apostoli Pietro e Paolo**: baptisms, marriages, deaths (1742–1825; 2 registers)
+#### Parish of Santi Apostoli Pietro e Paolo
+
+* **Parish of Santi Apostoli Pietro e Paolo**: baptisms (1742–1825; 2 registers) (held by [Comune di Castiglione del Lago](https://inventari-san.cultura.gov.it/inventari/1326/pdf))
 
 ### Vaiano
 
-* **Sant’Egidio**: baptisms, marriages, deaths (1840–1860; 1 register)
+#### Parish of Sant’Egidio
+
+* **Parish of Sant’Egidio**: baptisms (1840–1860; 1 register) (held by [Comune di Castiglione del Lago](https://inventari-san.cultura.gov.it/inventari/1326/pdf))
 
 ### Other parishes listed in 1853 (no holdings identified)
 

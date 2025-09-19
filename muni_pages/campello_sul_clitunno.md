@@ -97,7 +97,7 @@ No digitized *brogliardi* are available for this municipality.
 
 ## Additional Notes
 
-* None.
+* In July 2025 the parish registers in the municipal historical archive were sent for digitization. The work should finish by November 2025 (see [announcement](https://www.facebook.com/archivisticabibliograficaumbria/posts/pfbid0LA5iBJ5Gks7LT9xEoAg7qTvaKaeypEyyUz6djKnFBLnMSKFtJVKonQg829ZSDtaUl)). In other municipalities, digitized registers have not been put online, so access may remain in-person only.
 
 ---
 

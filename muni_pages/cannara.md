@@ -99,7 +99,6 @@ The *brogliardi* for this municipality are available through the [Archivio di St
 
 * In December 2023, the digitization of parish registers of Cannara preserved in the municipal historical archive was completed as part of the [SAB Umbria project](https://sabu.cultura.gov.it/archivio-notizie/notizia?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=254&cHash=c49409e26ed208f7e00dcabfce462e9c) (2023–2025). A total of 8 registers (1742–1860; baptisms, marriages, deaths, confirmations, stati delle anime) were digitized, producing about 2,600 images. In February 2024, the digital reproductions were delivered to the Comune, but they are not currently available online.
 
-
 ---
 
 ## References

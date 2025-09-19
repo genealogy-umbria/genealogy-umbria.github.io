@@ -22,7 +22,7 @@
 
 * **Known holdings (State Archives, Spoleto):**
 
-  * **Italian civil records:** 1865–1900 (fogli di famiglia, emigrazioni, immigrazioni)
+  * **Italian civil records:** 1865–1900 
   * **Parish books:** 16th–19th centuries (156 registers; baptisms, marriages, deaths; [SAN page](http://www.san.beniculturali.it/web/san/sogc-scheda-complesso?codiSanCompl=san.cat.complArch.46303&step=dettaglio&id=46303))
   * **French civil records:** 1810–1813 (352 registers; nati, matrimoni, morti; [Guida Agli Archivi di Stato (PDF)](http://www.maas.ccr.it/PDF/Perugia.pdf))
 
@@ -151,7 +151,7 @@ The *brogliardi* for this municipality are available through the [Archivio di St
 
 ## Additional Notes
 
-* The Archivio di Stato di Perugia – Sezione di Spoleto also conserves ruoli matricolari (1843–1934) and rubriche (1872–1934) of the Distretto militare di Spoleto.
+* The Archivio di Stato di Perugia – Sezione di Spoleto also conserves family sheets (*fogli di famiglia*), emigration registers, and immigration registers for this municipality.
 
 ---
 

@@ -56,6 +56,8 @@
 #### Parish of San Lorenzo
 
 * **Parish of San Lorenzo**: baptisms (1798–1860; 2 registers), marriages (1798–1859; 2 registers), deaths (1798–1860; 2 registers) (held by [Comune di Montegabbione](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=304172))
+* **Parish of San Lorenzo**: baptisms (1858–1908; 1 register), marriages (1860–1911; 1 register), deaths (1861–1943; 1 register) (held by [Parish of San Lorenzo, Montegiove](https://www.ilcastellodimontegabbione.it/IlGobbo/ArchivioParrocchiaDiMontegiove/Archivio%20storico%20della%20parrocchia%20di%20Montegiove.pdf))
+
 
 ⚠️ No further parishes are listed for this municipality in the *[Statistica della popolazione dello Stato Pontificio dell’anno 1853](https://www.google.it/books/edition/Statistics_della_popolazione_dello_Stato/v6dCAQAAMAAJ)*.
 

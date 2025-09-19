@@ -94,6 +94,7 @@ The *brogliardi* for this municipality are available through the [Archivio di St
 ## Additional Notes
 
 * The Stato Civile office is responsive: a query was answered in two working days.
+* Parish registers in the municipal archive were sent for digitization in August 2025; work should finish by November 2025 (see [announcement](https://sabu.cultura.gov.it/archivio-notizie/notizia?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=320&cHash=8b9c5892578bfd0dc8f9b0898e2e28fc)). However, in other municipalities where digitization was completed earlier, the registers have not been placed online. Unless this changes, these new digital reproductions may also remain inaccessible to the public.
 
 ---
 

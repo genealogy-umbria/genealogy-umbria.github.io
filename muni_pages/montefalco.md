@@ -110,7 +110,7 @@ The *brogliardi* for this municipality are available through the [Archivio di St
 
 ## Additional Notes
 
-* None.
+* In 2023 the parish registers of Montefalco preserved in the municipal historical archive were digitized (see [announcement](https://sabu.cultura.gov.it/archivio-notizie/notizia?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=253&cHash=960ac033919c3df495182d6088019405)). As of September 2025, the images are not yet available online.
 
 ---
 
