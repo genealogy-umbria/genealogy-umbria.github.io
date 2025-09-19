@@ -94,7 +94,11 @@ Access to Italian civil registers is strictly regulated. Even though the records
 
 An important exception applies once 70 years have passed from the creation of an act. After this period, copies can be released without the requester needing to prove a personal interest. However, even in this case, direct browsing of registers remains prohibited: the official must still carry out the search and issue the extracts.
 
-**Source:** *Ministero dell’Interno – [Massimario per l’ufficiale di stato civile](https://prefettura.interno.gov.it/sites/default/files/87/2024-07/massimario-ufficiale-stato-civile-2014-0.pdf)*
+The *Ispettorato Centrale Archivi*, in *Circolare n. 2135 del 30 ottobre 1996*, clarified that while civil records are not open to unlimited public browsing, descendants of the persons named in civil status acts may obtain full copies of those documents, even with access to the parts of the records that concern them directly.
+
+**Sources:** 
+* *Ministero dell’Interno – [Massimario per l’ufficiale di stato civile](https://prefettura.interno.gov.it/sites/default/files/87/2024-07/massimario-ufficiale-stato-civile-2014-0.pdf)*
+* *Ministero della Cultura – [Consultazione degli archivi storici degli enti pubblici](https://sab-lom.cultura.gov.it/cosa-fare-per/consultazione-di-archivi-e-biblioteche/consultazione-degli-archivi-storici-degli-enti-pubblici)*
 
 ---
 
