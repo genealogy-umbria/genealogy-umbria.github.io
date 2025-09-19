@@ -18,7 +18,7 @@
 * **Known holdings (Comune – SIUSA):**
 
   * **Italian civil records:** none listed
-  * **Parish books:** none listed
+  * **Parish books:** (1580–1860; 17 items) preserved at the *Archivio Storico Notarile* of Stroncone (see [Portale del Turismo del Comune di Stroncone](https://turismostroncone.it/archivio-storico-notarileStroncone)).
   * **French civil records:** none listed
 
 * **Known holdings (State Archives):**

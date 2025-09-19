@@ -82,3 +82,4 @@ No digitized *brogliardi* are available for this municipality.
 ## References
 
 * [SIUSA – Comune di Poggiodomo](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=321184)
+* [SAN – Stato civile del Comune di Poggiodomo](https://inventari-san.cultura.gov.it/inventari/126/ca/1083353)

@@ -6,7 +6,7 @@ Former municipality, renamed **Piedipaterno sul Nera** (1880), and finally incor
 
 * **Known holdings Comune – [SIUSA, fondo registri parrocchiali e stato civile postunitario](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=275739)):**
 
-  * **Italian civil records:** 1860–1865 (3 registers total; [SIUSA, Vallo di Nera](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=275115))); 1866–1880 (11 registers; births, marriages, deaths)
+  * **Italian civil records:** 1860–1865 (3 registers; [Vallo di Nera](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=275115)); 1866–1880 (11 registers; citizenship, marriage banns)
   * **Parish books:** 1656–1869 (12 registers; baptisms, marriages, deaths)
   * **French civil records:** none listed
 
@@ -99,4 +99,4 @@ None.
 
 * [SIUSA – Comune di Vallo di Nera](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=275115)
 * [SIUSA – Stato civile del Comune di Meggiano e Paterno di Vallo di Nera](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=275739)
-* [Atlante Storico Istituzionale – Meggiano e Paterno](http://dati.san.beniculturali.it/asi/local/detail.html?UA09566)
+* [SAN – Ufficio dello stato civile del Comune di Meggiano e Paterno](https://inventari-san.cultura.gov.it/inventari/116/ca/1083197)

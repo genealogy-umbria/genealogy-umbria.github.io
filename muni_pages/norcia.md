@@ -203,7 +203,8 @@
 
 #### Parish of San Pellegrino
 
-* **San Pellegrino di Norcia**: baptisms, deaths (1618–1860; 4 registers) (held by municipality)
+* **San Pellegrino di Norcia**: baptisms, deaths (1618–1860; 4 registers) (held by municipality)  
+* In 2017, parish registers recovered from the earthquake-damaged church (not the municipal holdings) were transferred to the [diocesan archive of Perugia](../dio/perugia.md). ([*Source*](https://www.umbriadomani.it/politica-umbria/norcia-a-san-pellegrino-affiorano-i-resti-dei-registri-parrocchiali-158813/))
 
 ---
 

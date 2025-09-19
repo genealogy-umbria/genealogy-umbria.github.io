@@ -102,7 +102,7 @@ The *brogliardi* for this municipality are available through the [Archivio di St
 
 ## Additional Notes
 
-* None.
+* Parish registers in the municipality were selected for digitization under a post-earthquake cultural heritage program. Funding was announced on 14 March 2024. See *[Commissario Straordinario Ricostruzione Sisma 2016](https://sisma2016.gov.it/2024/03/13/sisma-2016-per-conservazione-beni-culturali-finanziati-12-interventi-con-36-milioni/)*.
 
 ---
 

@@ -133,6 +133,13 @@
 
 ---
 
+## Military Records
+
+* **Liste di leva:** (1861–1943; 17 registers) (held by [Comune di Amelia](https://inventari-san.cultura.gov.it/inventari/3359/ca/1538047))  
+* **Ruoli matricolari:** (1862–1930; 11 registers) (held by [Comune di Amelia](https://inventari-san.cultura.gov.it/inventari/3359/ca/1538047))
+
+---
+
 ## Border changes
 
 According to the [Atlante Storico Istituzionale dell’Italia unita](http://dati.san.beniculturali.it/asi/local/detail.html?UA05133):

@@ -98,6 +98,12 @@ This municipality charges a **€280–€300 administrative fee per record** fo
 
 ---
 
+## Military Records
+
+* **Registri matricolari:** (birth years 1815–1930; 13 bundles) (held by [Comune di Montecastrilli](https://www.umbriacultura.it/SebinaOpac/resource/registri-matricolari/SAM9084780?tabDoc=tabcontiene))
+
+---
+
 ## Border changes
 
 According to the [Atlante Storico Istituzionale dell’Italia unita](http://dati.san.beniculturali.it/asi/local/detail.html?UA05146):
@@ -129,7 +135,7 @@ The *brogliardi* for this municipality are available through the [Archivio di St
 
 ## Additional Notes
 
-* None.
+* The parish registers in the municipal historical archive were inventoried and indexed in 2018. Registers were processed, with Excel indexes created both chronologically and alphabetically ([see resolution](https://www.halleyweb.com/c055017/zf/index.php/atti-amministrativi/determine/dettaglio/table-determine-public-page/262/atto/G1npjMUT3PT0-A)).
 
 ---
 

@@ -103,7 +103,7 @@ The *brogliardi* for this municipality are available through the [Archivio di St
 
 ## Additional Notes
 
-* None.
+* The parish registers in the municipal historical archive were digitized in 2020 onto DVD for consultation ([see municipal resolution](https://www.halleyweb.com/c054002/zf/index.php/atti-amministrativi/determine/dettaglio/atto/GTkRJe1UUUT0-F/mosdoc/1)).
 
 ---
 

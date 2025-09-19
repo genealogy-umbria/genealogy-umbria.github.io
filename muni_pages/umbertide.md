@@ -290,3 +290,5 @@ The *brogliardi* for this municipality are available through the [Archivio di St
 ## References
 
 * [SIUSA – Comune di Umbertide](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=328360)
+* [SAN – Comune di Umbertide, Preunitario](https://inventari-san.cultura.gov.it/inventari/127/ca/1083354)  
+* [SAN – Comune preunitario di Fratta](https://inventari-san.cultura.gov.it/inventari/244/ca/1084488)

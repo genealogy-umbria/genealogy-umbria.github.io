@@ -110,12 +110,12 @@ No digitized *brogliardi* are available for this municipality.
 
 ## Additional Notes
 
-* A very detailed inventory is available through the [Sistema Archivistico Nazionale (SAN)](https://inventari-san.cultura.gov.it/inventari/128/ca/1083482): *Comune di Cerreto di Spoleto, Inventario — Stato civile, anagrafe, leva*.
+* Parish registers in the municipality were selected for digitization under a post-earthquake cultural heritage program. Funding was announced on 14 March 2024. See *[Commissario Straordinario Ricostruzione Sisma 2016](https://sisma2016.gov.it/2024/03/13/sisma-2016-per-conservazione-beni-culturali-finanziati-12-interventi-con-36-milioni/)*.
 
 ---
 
 ## References
 
-* [Sistema Archivistico Nazionale (SAN)](https://inventari-san.cultura.gov.it/inventari/128/ca/1083482)
+* A very detailed inventory is available through the [Sistema Archivistico Nazionale (SAN)](https://inventari-san.cultura.gov.it/inventari/128/ca/1083482): *Comune di Cerreto di Spoleto, Inventario — Stato civile, anagrafe, leva*.
 * [SIUSA – Comune di Cerreto di Spoleto. Archivio storico](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=330586)
 * [Atlante Storico Istituzionale dell’Italia unita – Cerreto di Spoleto](http://dati.san.beniculturali.it/asi/local/)
