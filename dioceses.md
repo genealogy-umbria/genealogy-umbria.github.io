@@ -22,13 +22,16 @@ The *Regione ecclesiastica Umbria* now includes **eight dioceses**, which cover 
 
 ## Parish and Diocesan Holdings
 
-While the majority of registers were moved to civil custody, church repositories still preserve some records. In general:
+While the majority of registers were moved to civil custody, church repositories still preserve some records. In general:¹
 
-* **Diocesan archives** are more likely to hold the older material, including records from abolished parishes.
-* **Parish archives** tend to preserve more recent registers and administrative material, especially from the 20th century onward.
+* **Parish archives** retain a portion of the registers locally, when the parish is still active.  
+* **Diocesan archives** hold another portion, usually serving as a concentration point.  
+* **Municipal archives** preserve many of the parish registers together with civil registers, sometimes later transferred to the relevant State Archives.
 
 For parishes that no longer exist, holdings may be dispersed between the diocesan archive and one or more successor parishes. Even in such cases, the diocesan archive is normally the best starting point for enquiries, as it has the most centralized oversight of scattered holdings.
 
 ---
 
-**Reference:** [Chiesa Cattolica – Regione ecclesiastica Umbria](https://www.chiesacattolica.it/annuario-cei/regione/25/regione-ecclesiastica-umbria/)
+**References:**
+* [Chiesa Cattolica – Regione ecclesiastica Umbria](https://www.chiesacattolica.it/annuario-cei/regione/25/regione-ecclesiastica-umbria/)
+* ¹ *[Per un panorama delle fonti archivistiche ecclesiastiche]* - Andrea Maiarelli(https://www.academia.edu/120197052/Per_un_panorama_delle_fonti_archivistiche_ecclesiastiche)

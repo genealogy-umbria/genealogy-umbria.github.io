@@ -13,7 +13,10 @@ Via dell’Aquila, 18 – 06122 Perugia (PG)
 
 **Holdings:**  
 - [SIUSA – Archivi storici diocesani di Perugia](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=cons&Chiave=12378)  
-- [BeWeB entry](https://www.beweb.chiesacattolica.it/istituticulturali/istituto/1583/)  
+- [BeWeB entry](https://www.beweb.chiesacattolica.it/istituticulturali/istituto/1583/) 
+
+### Related resources  
+- [List of Parishes in the Diocese of Perugia, Easter 1656 (PDF)](../docs/Popolazione_delta_Diocesi_di_Perugia_alia_Pasqua_del_1656.pdf) 
 
 ---
 
