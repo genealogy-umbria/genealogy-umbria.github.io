@@ -15,6 +15,7 @@ If the place you want isn't here, it might be found in this [list from the 1971 
 
 <div id="datasource">
   <label><input type="radio" name="source" value="hamlets" checked> Modern Hamlets (OSM)</label>
+  <label><input type="radio" name="source" value="stradario"> Stradario Umbria 2025</label>
   <label><input type="radio" name="source" value="papal"> Papal States 1836</label>
 </div>
 
@@ -83,6 +84,17 @@ const sources = {
       <td>${row.legazione}</td>
       <td>${row.diocesi}</td>
       <td>${row.population}</td>
+    `
+  },
+  stradario: {
+    file: "../docs/stradarioUmbria20250903.csv",
+    headers: ["Street Name","ID","Locality","Municipality"],
+    muniIndex: 3,
+    renderRow: row => `
+      <td>${row.name}</td>
+      <td>${row.ID}</td>
+      <td>${row.locality}</td>
+      <td>${row.municipality}</td>
     `
   }
 };
