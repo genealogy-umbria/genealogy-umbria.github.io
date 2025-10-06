@@ -18,7 +18,7 @@
   * Email (Stato Civile): `anagrafe [at] comune.acquasparta.tr.it`
   * Email (Biblioteca comunale): `biblioteca_comunale [at] yahoo.it`  
   
-⚠️ All records listed below are held by the *Biblioteca comunale di Acquasparta*, but a request for a 1950s record was answered without issue by the *Ufficio di Stato Civile*.
+⚠️ All records listed below are held by the *Biblioteca comunale di Acquasparta*.
 
 * **Known holdings (Comune – [SIUSA](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=267025)):**
 

@@ -1,5 +1,14 @@
 # Gualdo Cattaneo
 
+---
+
+⚠️ **Important Notice**
+
+This municipality applies a **€50 administrative fee per record** for research requests. 
+(Delibera n. 143, 05.10.2017)
+
+---
+
 {% include muni_map.html %}
 
 ## Jurisdictions
