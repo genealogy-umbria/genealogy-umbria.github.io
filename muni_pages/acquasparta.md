@@ -9,7 +9,7 @@
   * **[Orvieto–Todi](../dio/orvieto_todi.md):** Parish of Santi Biagio Cristoforo e Lorenzo (Acquasparta), Parish of Santi Stefano e Cecilia (Acquasparta)  
   * **[Spoleto–Norcia](../dio/spoleto.md):** Parish of Santa Maria in Rupis (frazione Firenzuola), Parish of Santi Filippo e Giacomo (frazione Portaria)
 * **Tribunale:** Spoleto ([1892](https://www.google.it/books/edition/Bollettino_ufficiale_del_Ministero_di_gr/kRXd4t5fK-0C?hl=en&gbpv=1&pg=PA457&printsec=frontcover)), Terni ([1989](https://www.google.it/books/edition/Gazzetta_ufficiale_della_Repubblica_ital/-Z6nogg-qMQC?hl=en&gbpv=1&pg=RA8-PA38&printsec=frontcover))
-* **Military district:** [Perugia](../mil/perugia.md) (1870–1877), [Spoleto](../mil/spoleto.md) (1877–1920), [Orvieto](../mil/spoleto.md) (1920–1956)
+* **Military district:** [Perugia](../mil/perugia.md) (1870–1877), [Spoleto](../mil/spoleto.md) (1877–1920), [Orvieto](../mil/orvieto.md) (1920–1956)
 
 ## Stato Civile
 

@@ -6,7 +6,7 @@
 
 * **Diocese:** Amelia ([1873](https://www.google.it/books/edition/Il_libro_de_comuni_del_Regno_d_Italia_co/WF9mfeJJcDEC?gbpv=1)); [Terni–Narni–Amelia](../dio/terni_narni_amelia.md) ([modern](https://www.chiesacattolica.it/annuario-cei/ricerca-parrocchie/))
 * **Tribunale:** Spoleto ([1892](https://www.google.it/books/edition/Bollettino_ufficiale_del_Ministero_di_gr/kRXd4t5fK-0C?hl=en&gbpv=1&pg=PA457&printsec=frontcover)), Terni ([1989](https://www.google.it/books/edition/Gazzetta_ufficiale_della_Repubblica_ital/-Z6nogg-qMQC?hl=en&gbpv=1&pg=RA8-PA38&printsec=frontcover))
-* **Military district:** [Perugia](../mil/perugia.md) (1870–1877), [Spoleto](../mil/spoleto.md) (1877–1920), [Orvieto](../mil/spoleto.md) (1920–1956)
+* **Military district:** [Perugia](../mil/perugia.md) (1870–1877), [Spoleto](../mil/spoleto.md) (1877–1920), [Orvieto](../mil/orvieto.md) (1920–1956)
 
 ## Stato Civile
 

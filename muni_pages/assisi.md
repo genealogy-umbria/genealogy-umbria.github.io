@@ -110,7 +110,7 @@ According to the [Atlante Storico Istituzionale dell’Italia unita](http://dati
   * Attachments: 1899–1910, 1920–1929
   * Citizenship acts: 1900–1910
 
-  See [FamilySearch catalog entry](https://www.familysearch.org/en/search/catalog/834312).
+  See [FamilySearch catalog entry](https://www.familysearch.org/en/search/catalog/834136).
 
   ⚠️ Note: additional records are listed as “available” but remain inaccessible online as of September 2025.
 
