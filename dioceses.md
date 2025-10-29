@@ -9,7 +9,7 @@ However, diocesan archives and parishes may still hold residual material.
 The *Regione ecclesiastica Umbria* now includes **eight dioceses**, which cover almost the same territory as the modern civil region of Umbria.
 
 
-![alt text](img/Regione_ecclesiastica_Umbria.jpg "Map")
+![alt text](img/Regione_ecclesiastica_Umbria.png "Map")
 
 - [Archdiocese of Perugia–Città della Pieve](dio/perugia.md)  
 - [Archdiocese of Spoleto–Norcia](dio/spoleto.md)  
