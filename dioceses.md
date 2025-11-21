@@ -34,4 +34,4 @@ For parishes that no longer exist, holdings may be dispersed between the diocesa
 
 **References:**
 * [Chiesa Cattolica – Regione ecclesiastica Umbria](https://www.chiesacattolica.it/annuario-cei/regione/25/regione-ecclesiastica-umbria/)
-* ¹ *[Per un panorama delle fonti archivistiche ecclesiastiche]* - Andrea Maiarelli(https://www.academia.edu/120197052/Per_un_panorama_delle_fonti_archivistiche_ecclesiastiche)
+* ¹ *[Per un panorama delle fonti archivistiche ecclesiastiche - Andrea Maiarelli](https://www.academia.edu/120197052/Per_un_panorama_delle_fonti_archivistiche_ecclesiastiche)*

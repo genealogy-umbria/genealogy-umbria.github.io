@@ -15,7 +15,7 @@ From 1861 onward, registers of the Kingdom of Italy (birth, marriage, death, and
   
 FamilySearch’s holdings for Umbria reflect this arrangement: the vast majority of registers were filmed not in the municipalities, but from the copies deposited in the courts, which is why catalog entries often appear under the name of the relevant *tribunale*.
   
-Civil registry books were moved when a municipality changed judicial district. For example, (../muni_pages/bevagna.md)[Bevagna] was under the Court of Spoleto in 1892, but by 1989 had moved to the Court of Perugia. Thus, when FamilySearch filmed the Perugia court holdings in 2002, they also found Bevagna’s registers preserved there.
+Civil registry books were moved when a municipality changed judicial district. For example, [Bevagna](../muni_pages/bevagna.md) was under the Court of Spoleto in 1892, but by 1989 had moved to the Court of Perugia. Thus, when FamilySearch filmed the Perugia court holdings in 2002, they also found Bevagna’s registers preserved there.
 
 ![alt text](../img/tribunale.webp "Straight from the courtroom")
   
