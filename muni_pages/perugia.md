@@ -19,7 +19,7 @@
 
   * **Italian civil records:** 1861–2001 (1435 registers; births, marriages, deaths)
   * **Parish books:** none listed
-  * **French civil records:** none listed
+  * **French civil records:** the 1956 inventory of the *Archivio Storico* of Perugia mentions papers and files relating to civil records for 1809–1814 (see [pages 397, 402](http://www.rmoa.unina.it/4518/1/ArchivioStoricoComunePerugia.pdf)).
 
 * **Known holdings (State Archives):**
 
