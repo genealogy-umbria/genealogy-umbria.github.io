@@ -42,7 +42,7 @@ none listed.
 
 ## Border changes
 
-Abolished as municipality in 1875 and merged into [Acquasparta](acquasparta.md).
+Abolished as municipality in 1875 and merged into [Cesi](cesi.md) (Portaria is now part of [Acquasparta](acquasparta.md)).
 
 ---
 
